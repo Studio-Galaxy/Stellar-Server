@@ -1,0 +1,21 @@
+[
+  {
+    "cityId": "delhi", "operator": "DMRC", "effectiveFrom": "2025-08-25",
+    "appliesTo": "All DMRC lines except the Airport Express",
+    "slabs": [
+      { "maxKm": 2, "fare": 11 }, { "maxKm": 5, "fare": 21 }, { "maxKm": 12, "fare": 32 },
+      { "maxKm": 21, "fare": 43 }, { "maxKm": 32, "fare": 54 }, { "maxKm": null, "fare": 64 }
+    ],
+    "slabsStatus": "news-corroborated",
+    "sundaySlabs": [
+      { "maxKm": 2, "fare": 11 }, { "maxKm": 5, "fare": 11 }, { "maxKm": 12, "fare": 21 },
+      { "maxKm": 21, "fare": 32 }, { "maxKm": 32, "fare": 43 }, { "maxKm": null, "fare": 54 }
+    ],
+    "sundaySlabsStatus": "unconfirmed",
+    "sources": [
+      "DNA India, 25 Aug 2025, quoting DMRC's post on X (weekday slabs; longest journey Rs 60 → Rs 64)",
+      "McLean Gazette coverage of the same revision (list matching the Sunday/national-holiday pattern: one slab lower, as in 2017)"
+    ],
+    "note": "Weekday slabs agree across sources and with DMRC's quoted statement. Sunday/national-holiday slabs are inferred from secondary coverage — confirm from DMRC (app fare calculator or station fare chart). Airport Express, Aqua (NMRC) and Rapid Metro fares are separate and not yet collected."
+  }
+]

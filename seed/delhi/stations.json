@@ -1,0 +1,4984 @@
+[
+ {
+  "_id": "delhi:rithala",
+  "cityId": "delhi",
+  "name": "Rithala",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.107151,
+    28.720782
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dr-baba-saheb-ambedkar-hospital",
+  "cityId": "delhi",
+  "name": "Dr. Baba Saheb Ambedkar Hospital",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.115385,
+    28.714957
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:rohini",
+  "cityId": "delhi",
+  "name": "Rohini",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.125999,
+    28.707575
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:madhuban-chowk",
+  "cityId": "delhi",
+  "name": "Madhuban Chowk",
+  "lines": [
+   "delhi:red",
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.130943,
+    28.703448
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kohat-enclave",
+  "cityId": "delhi",
+  "name": "Kohat Enclave",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.140539,
+    28.698041
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:netaji-subhash-place",
+  "cityId": "delhi",
+  "name": "Netaji Subhash Place",
+  "lines": [
+   "delhi:red",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.153375,
+    28.695381
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:keshav-puram",
+  "cityId": "delhi",
+  "name": "Keshav Puram",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.161683,
+    28.688926
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kanhaiya-nagar",
+  "cityId": "delhi",
+  "name": "Kanhaiya Nagar",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.164775,
+    28.682408
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:inderlok",
+  "cityId": "delhi",
+  "name": "Inderlok",
+  "lines": [
+   "delhi:red",
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.169622,
+    28.673038
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shastri-nagar",
+  "cityId": "delhi",
+  "name": "Shastri Nagar",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.181859,
+    28.670088
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:pratap-nagar",
+  "cityId": "delhi",
+  "name": "Pratap Nagar",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.198897,
+    28.666718
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:pulbangash",
+  "cityId": "delhi",
+  "name": "Pulbangash",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.207416,
+    28.666407
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:tis-hazari",
+  "cityId": "delhi",
+  "name": "Tis Hazari",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.216631,
+    28.667163
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kashmere-gate",
+  "cityId": "delhi",
+  "name": "Kashmere Gate",
+  "lines": [
+   "delhi:red",
+   "delhi:yellow",
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.22816,
+    28.667924
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shastri-park",
+  "cityId": "delhi",
+  "name": "Shastri Park",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.250529,
+    28.668433
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:seelampur",
+  "cityId": "delhi",
+  "name": "Seelampur",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.266799,
+    28.66984
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:welcome",
+  "cityId": "delhi",
+  "name": "Welcome",
+  "lines": [
+   "delhi:red",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.277406,
+    28.672088
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shahdara",
+  "cityId": "delhi",
+  "name": "Shahdara",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.289886,
+    28.67343
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mansarovar-park",
+  "cityId": "delhi",
+  "name": "Mansarovar Park",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.300869,
+    28.675385
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jhilmil",
+  "cityId": "delhi",
+  "name": "Jhilmil",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.312395,
+    28.67572
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dilshad-garden",
+  "cityId": "delhi",
+  "name": "Dilshad Garden",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.321514,
+    28.675855
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shaheed-nagar",
+  "cityId": "delhi",
+  "name": "Shaheed Nagar",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.333916,
+    28.676661
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:raj-bagh",
+  "cityId": "delhi",
+  "name": "Raj Bagh",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.346851,
+    28.677088
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:major-mohit-sharma-rajendra-nagar",
+  "cityId": "delhi",
+  "name": "Major Mohit Sharma Rajendra Nagar",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.358142,
+    28.67761
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shyam-park",
+  "cityId": "delhi",
+  "name": "Shyam Park",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.37054,
+    28.678215
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mohan-nagar",
+  "cityId": "delhi",
+  "name": "Mohan Nagar",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.383933,
+    28.678534
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:arthala",
+  "cityId": "delhi",
+  "name": "Arthala",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.391889,
+    28.676998
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:hindon-river",
+  "cityId": "delhi",
+  "name": "Hindon River",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.406537,
+    28.673428
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shaheed-sthal-new-bus-adda",
+  "cityId": "delhi",
+  "name": "Shaheed Sthal (New Bus Adda)",
+  "lines": [
+   "delhi:red"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.415412,
+    28.670666
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:samaypur-badli",
+  "cityId": "delhi",
+  "name": "Samaypur Badli",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.138278,
+    28.744632
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:rohini-sector-18-19",
+  "cityId": "delhi",
+  "name": "Rohini Sector-18, 19",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.139844,
+    28.738366
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:haiderpur-badli-mor",
+  "cityId": "delhi",
+  "name": "Haiderpur Badli Mor",
+  "lines": [
+   "delhi:yellow",
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.14893,
+    28.729834
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jahangirpuri",
+  "cityId": "delhi",
+  "name": "Jahangirpuri",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.162657,
+    28.725972
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:adarsh-nagar",
+  "cityId": "delhi",
+  "name": "Adarsh Nagar",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.170423,
+    28.716581
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:azadpur",
+  "cityId": "delhi",
+  "name": "Azadpur",
+  "lines": [
+   "delhi:yellow",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.181167,
+    28.706418
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:model-town",
+  "cityId": "delhi",
+  "name": "Model Town",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.193993,
+    28.702714
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:guru-teg-bahadur-nagar",
+  "cityId": "delhi",
+  "name": "Guru Teg Bahadur Nagar",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.206407,
+    28.698132
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:vishwavidyalaya",
+  "cityId": "delhi",
+  "name": "Vishwavidyalaya",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.214742,
+    28.695077
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:vidhan-sabha",
+  "cityId": "delhi",
+  "name": "Vidhan Sabha",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.221727,
+    28.686323
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:civil-lines",
+  "cityId": "delhi",
+  "name": "Civil Lines",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.225028,
+    28.67685
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:chandni-chowk",
+  "cityId": "delhi",
+  "name": "Chandni Chowk",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.230336,
+    28.658422
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:chawri-bazar",
+  "cityId": "delhi",
+  "name": "Chawri Bazar",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.226516,
+    28.649264
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:new-delhi",
+  "cityId": "delhi",
+  "name": "New Delhi",
+  "lines": [
+   "delhi:yellow",
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.222742,
+    28.643481
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:rajiv-chowk",
+  "cityId": "delhi",
+  "name": "Rajiv Chowk",
+  "lines": [
+   "delhi:yellow",
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.219513,
+    28.632763
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:patel-chowk",
+  "cityId": "delhi",
+  "name": "Patel Chowk",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.214032,
+    28.622967
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:central-secretariat",
+  "cityId": "delhi",
+  "name": "Central Secretariat",
+  "lines": [
+   "delhi:yellow",
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.212316,
+    28.615878
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:seva-teerth",
+  "cityId": "delhi",
+  "name": "Seva Teerth",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.211795,
+    28.609514
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:lok-kalyan-marg",
+  "cityId": "delhi",
+  "name": "Lok Kalyan Marg",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.211097,
+    28.597351
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jor-bagh",
+  "cityId": "delhi",
+  "name": "Jor Bagh",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.212531,
+    28.586567
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dilli-haat-ina",
+  "cityId": "delhi",
+  "name": "Dilli Haat-INA",
+  "lines": [
+   "delhi:yellow",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.208444,
+    28.573909
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:aiims",
+  "cityId": "delhi",
+  "name": "AIIMS",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.207804,
+    28.566861
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:green-park",
+  "cityId": "delhi",
+  "name": "Green Park",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.206792,
+    28.558007
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:hauz-khas",
+  "cityId": "delhi",
+  "name": "Hauz Khas",
+  "lines": [
+   "delhi:yellow",
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.20587,
+    28.543815
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:malviya-nagar",
+  "cityId": "delhi",
+  "name": "Malviya Nagar",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.204825,
+    28.529063
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:saket",
+  "cityId": "delhi",
+  "name": "Saket",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.202252,
+    28.521195
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:qutab-minar",
+  "cityId": "delhi",
+  "name": "Qutab Minar",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.186453,
+    28.512951
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:chhatarpur",
+  "cityId": "delhi",
+  "name": "Chhatarpur",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.174947,
+    28.506751
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sultanpur",
+  "cityId": "delhi",
+  "name": "Sultanpur",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.161376,
+    28.499162
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ghitorni",
+  "cityId": "delhi",
+  "name": "Ghitorni",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.149185,
+    28.493752
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:arjan-garh",
+  "cityId": "delhi",
+  "name": "Arjan Garh",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.125764,
+    28.480736
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:guru-dronacharya",
+  "cityId": "delhi",
+  "name": "Guru Dronacharya",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.102268,
+    28.482023
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sikanderpur",
+  "cityId": "delhi",
+  "name": "Sikanderpur",
+  "lines": [
+   "delhi:yellow",
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.093575,
+    28.481161
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:m-g-road",
+  "cityId": "delhi",
+  "name": "M.G. Road",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.07989,
+    28.479556
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:iffco-chowk",
+  "cityId": "delhi",
+  "name": "IFFCO Chowk",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.072422,
+    28.472328
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:millennium-city-centre-gurugram",
+  "cityId": "delhi",
+  "name": "Millennium City Centre Gurugram",
+  "lines": [
+   "delhi:yellow"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.072661,
+    28.459346
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-21",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-21",
+  "lines": [
+   "delhi:blue",
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.058557,
+    28.551914
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-8",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-8",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.067038,
+    28.56561
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-9",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-9",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.065331,
+    28.574272
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-10",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-10",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.0575,
+    28.581057
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-11",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-11",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.049442,
+    28.586445
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-12",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-12",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.040732,
+    28.592235
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-13",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-13",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.033541,
+    28.597009
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-sector-14",
+  "cityId": "delhi",
+  "name": "Dwarka Sector-14",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.025977,
+    28.60222
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-kakrola",
+  "cityId": "delhi",
+  "name": "Dwarka-Kakrola",
+  "lines": [
+   "delhi:blue",
+   "delhi:grey"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.022586,
+    28.61542
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dwarka-mor",
+  "cityId": "delhi",
+  "name": "Dwarka Mor",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.033279,
+    28.619311
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nawada",
+  "cityId": "delhi",
+  "name": "Nawada",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.04508,
+    28.620276
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:uttam-nagar-west",
+  "cityId": "delhi",
+  "name": "Uttam Nagar West",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.055713,
+    28.621757
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:uttam-nagar-east",
+  "cityId": "delhi",
+  "name": "Uttam Nagar East",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.065287,
+    28.624848
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:janakpuri-west",
+  "cityId": "delhi",
+  "name": "Janakpuri West",
+  "lines": [
+   "delhi:blue",
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.078016,
+    28.62927
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:janakpuri-east",
+  "cityId": "delhi",
+  "name": "Janakpuri East",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.086731,
+    28.633012
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:tilak-nagar",
+  "cityId": "delhi",
+  "name": "Tilak Nagar",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.09648,
+    28.636546
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:subhash-nagar",
+  "cityId": "delhi",
+  "name": "Subhash Nagar",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.105211,
+    28.640474
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:tagore-garden",
+  "cityId": "delhi",
+  "name": "Tagore Garden",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.112845,
+    28.64374
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:rajouri-garden",
+  "cityId": "delhi",
+  "name": "Rajouri Garden",
+  "lines": [
+   "delhi:blue",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.123493,
+    28.650122
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ramesh-nagar",
+  "cityId": "delhi",
+  "name": "Ramesh Nagar",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.13165,
+    28.652745
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:moti-nagar",
+  "cityId": "delhi",
+  "name": "Moti Nagar",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.14243,
+    28.657859
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kirti-nagar",
+  "cityId": "delhi",
+  "name": "Kirti Nagar",
+  "lines": [
+   "delhi:blue",
+   "delhi:green-kirti"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.151011,
+    28.655144
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shadipur",
+  "cityId": "delhi",
+  "name": "Shadipur",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.158257,
+    28.651583
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:patel-nagar",
+  "cityId": "delhi",
+  "name": "Patel Nagar",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.16928,
+    28.645012
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:rajendra-place",
+  "cityId": "delhi",
+  "name": "Rajendra Place",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.178275,
+    28.642496
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:karol-bagh",
+  "cityId": "delhi",
+  "name": "Karol Bagh",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.188524,
+    28.644011
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jhandewalan",
+  "cityId": "delhi",
+  "name": "Jhandewalan",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.199916,
+    28.644318
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ramakrishna-ashram-marg",
+  "cityId": "delhi",
+  "name": "Ramakrishna Ashram Marg",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.20858,
+    28.639243
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:barakhamba-road",
+  "cityId": "delhi",
+  "name": "Barakhamba Road",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.225007,
+    28.629769
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mandi-house",
+  "cityId": "delhi",
+  "name": "Mandi House",
+  "lines": [
+   "delhi:blue",
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.234195,
+    28.625564
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:supreme-court",
+  "cityId": "delhi",
+  "name": "Supreme Court",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.242529,
+    28.623474
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:indraprastha",
+  "cityId": "delhi",
+  "name": "Indraprastha",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.249551,
+    28.620603
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:yamuna-bank",
+  "cityId": "delhi",
+  "name": "Yamuna Bank",
+  "lines": [
+   "delhi:blue",
+   "delhi:blue-vaishali"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.267936,
+    28.623237
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:akshardham",
+  "cityId": "delhi",
+  "name": "Akshardham",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.279545,
+    28.617885
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mayur-vihar-i",
+  "cityId": "delhi",
+  "name": "Mayur Vihar-I",
+  "lines": [
+   "delhi:blue",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.290263,
+    28.60386
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mayur-vihar-extension",
+  "cityId": "delhi",
+  "name": "Mayur Vihar Extension",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.294488,
+    28.594487
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:new-ashok-nagar",
+  "cityId": "delhi",
+  "name": "New Ashok Nagar",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.30193,
+    28.589986
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:noida-sector-15",
+  "cityId": "delhi",
+  "name": "Noida Sector-15",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.311676,
+    28.584923
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:noida-sector-16",
+  "cityId": "delhi",
+  "name": "Noida Sector-16",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.317828,
+    28.578112
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:noida-sector-18",
+  "cityId": "delhi",
+  "name": "Noida Sector-18",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.326132,
+    28.570791
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:botanical-garden",
+  "cityId": "delhi",
+  "name": "Botanical Garden",
+  "lines": [
+   "delhi:blue",
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.334114,
+    28.563921
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:golf-course",
+  "cityId": "delhi",
+  "name": "Golf Course",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.346367,
+    28.567425
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:noida-city-centre",
+  "cityId": "delhi",
+  "name": "Noida City Centre",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.356207,
+    28.574785
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-34-noida",
+  "cityId": "delhi",
+  "name": "Sector-34 Noida",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.363498,
+    28.580252
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-52-noida",
+  "cityId": "delhi",
+  "name": "Sector-52 Noida",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.372867,
+    28.586797
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-61-noida",
+  "cityId": "delhi",
+  "name": "Sector-61 Noida",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.372269,
+    28.597583
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-59-noida",
+  "cityId": "delhi",
+  "name": "Sector-59 Noida",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.372682,
+    28.606527
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-62-noida",
+  "cityId": "delhi",
+  "name": "Sector-62 Noida",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.373589,
+    28.616986
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:noida-electronic-city",
+  "cityId": "delhi",
+  "name": "Noida Electronic City",
+  "lines": [
+   "delhi:blue"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.375048,
+    28.628261
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:laxmi-nagar",
+  "cityId": "delhi",
+  "name": "Laxmi Nagar",
+  "lines": [
+   "delhi:blue-vaishali"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.277525,
+    28.630595
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nirman-vihar",
+  "cityId": "delhi",
+  "name": "Nirman Vihar",
+  "lines": [
+   "delhi:blue-vaishali"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.286781,
+    28.63651
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:preet-vihar",
+  "cityId": "delhi",
+  "name": "Preet Vihar",
+  "lines": [
+   "delhi:blue-vaishali"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.295285,
+    28.641415
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:karkarduma",
+  "cityId": "delhi",
+  "name": "Karkarduma",
+  "lines": [
+   "delhi:blue-vaishali",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.305813,
+    28.648841
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:anand-vihar-isbt",
+  "cityId": "delhi",
+  "name": "Anand Vihar ISBT",
+  "lines": [
+   "delhi:blue-vaishali",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.315982,
+    28.646936
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kaushambi",
+  "cityId": "delhi",
+  "name": "Kaushambi",
+  "lines": [
+   "delhi:blue-vaishali"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.324341,
+    28.645353
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:vaishali",
+  "cityId": "delhi",
+  "name": "Vaishali",
+  "lines": [
+   "delhi:blue-vaishali"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.339538,
+    28.64972
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ashok-park-main",
+  "cityId": "delhi",
+  "name": "Ashok Park Main",
+  "lines": [
+   "delhi:green",
+   "delhi:green-kirti"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.155289,
+    28.671586
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:punjabi-bagh",
+  "cityId": "delhi",
+  "name": "Punjabi Bagh",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.146122,
+    28.672969
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:punjabi-bagh-west",
+  "cityId": "delhi",
+  "name": "Punjabi Bagh West",
+  "lines": [
+   "delhi:green",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.139744,
+    28.673279
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shivaji-park",
+  "cityId": "delhi",
+  "name": "Shivaji Park",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.130465,
+    28.675004
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:madipur",
+  "cityId": "delhi",
+  "name": "Madipur",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.119353,
+    28.676448
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:paschim-vihar-east",
+  "cityId": "delhi",
+  "name": "Paschim Vihar East",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.112282,
+    28.677357
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:paschim-vihar-west",
+  "cityId": "delhi",
+  "name": "Paschim Vihar West",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.102215,
+    28.678605
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:peeragarhi",
+  "cityId": "delhi",
+  "name": "Peeragarhi",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.092658,
+    28.67973
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:udyog-nagar",
+  "cityId": "delhi",
+  "name": "Udyog Nagar",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.080847,
+    28.68108
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:maharaja-surajmal-stadium",
+  "cityId": "delhi",
+  "name": "Maharaja Surajmal Stadium",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.074001,
+    28.681858
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nangloi",
+  "cityId": "delhi",
+  "name": "Nangloi",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.064728,
+    28.682376
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nangloi-railway-station",
+  "cityId": "delhi",
+  "name": "Nangloi Railway Station",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.05624,
+    28.682173
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:rajdhani-park",
+  "cityId": "delhi",
+  "name": "Rajdhani Park",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.043939,
+    28.682283
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mundka",
+  "cityId": "delhi",
+  "name": "Mundka",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.030572,
+    28.682392
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mundka-industrial-area-mia",
+  "cityId": "delhi",
+  "name": "Mundka Industrial Area (MIA)",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.017126,
+    28.683369
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ghevra-metro-station",
+  "cityId": "delhi",
+  "name": "Ghevra Metro Station",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.996137,
+    28.685255
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:tikri-kalan",
+  "cityId": "delhi",
+  "name": "Tikri Kalan",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.977204,
+    28.686854
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:tikri-border",
+  "cityId": "delhi",
+  "name": "Tikri Border",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.964076,
+    28.68796
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:pandit-shree-ram-sharma",
+  "cityId": "delhi",
+  "name": "Pandit Shree Ram Sharma",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.951176,
+    28.689244
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:bahadurgarh-city",
+  "cityId": "delhi",
+  "name": "Bahadurgarh City",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.935456,
+    28.690718
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:brig-hoshiar-singh",
+  "cityId": "delhi",
+  "name": "Brig. Hoshiar Singh",
+  "lines": [
+   "delhi:green"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.919175,
+    28.697399
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:satguru-ram-singh-marg",
+  "cityId": "delhi",
+  "name": "Satguru Ram Singh Marg",
+  "lines": [
+   "delhi:green-kirti"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.157612,
+    28.662059
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:lal-quila",
+  "cityId": "delhi",
+  "name": "Lal Quila",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.236637,
+    28.657479
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jama-masjid",
+  "cityId": "delhi",
+  "name": "Jama Masjid",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.237662,
+    28.650031
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:delhi-gate",
+  "cityId": "delhi",
+  "name": "Delhi Gate",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.240781,
+    28.639216
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ito",
+  "cityId": "delhi",
+  "name": "ITO",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.241044,
+    28.628192
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:janpath",
+  "cityId": "delhi",
+  "name": "Janpath",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.219259,
+    28.624049
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:khan-market",
+  "cityId": "delhi",
+  "name": "Khan Market",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.229126,
+    28.602244
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jln-stadium",
+  "cityId": "delhi",
+  "name": "JLN Stadium",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.233782,
+    28.588237
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jangpura",
+  "cityId": "delhi",
+  "name": "Jangpura",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.239316,
+    28.583039
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:lajpat-nagar",
+  "cityId": "delhi",
+  "name": "Lajpat Nagar",
+  "lines": [
+   "delhi:violet",
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.237473,
+    28.570061
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:moolchand",
+  "cityId": "delhi",
+  "name": "Moolchand",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.234256,
+    28.564405
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kailash-colony",
+  "cityId": "delhi",
+  "name": "Kailash Colony",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.241964,
+    28.555328
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nehru-place",
+  "cityId": "delhi",
+  "name": "Nehru Place",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.251739,
+    28.551416
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kalkaji-mandir",
+  "cityId": "delhi",
+  "name": "Kalkaji Mandir",
+  "lines": [
+   "delhi:violet",
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.257968,
+    28.549872
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:govind-puri",
+  "cityId": "delhi",
+  "name": "Govind Puri",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.264252,
+    28.54443
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:harkesh-nagar-okhla",
+  "cityId": "delhi",
+  "name": "Harkesh Nagar Okhla",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.275469,
+    28.543151
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jasola-apollo",
+  "cityId": "delhi",
+  "name": "Jasola-Apollo",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.283017,
+    28.538416
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sarita-vihar",
+  "cityId": "delhi",
+  "name": "Sarita Vihar",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.288296,
+    28.528578
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mohan-estate",
+  "cityId": "delhi",
+  "name": "Mohan Estate",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.294506,
+    28.519671
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:tughlakabad-rly-colony",
+  "cityId": "delhi",
+  "name": "Tughlakabad Rly Colony",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.299213,
+    28.502368
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:badarpur-border",
+  "cityId": "delhi",
+  "name": "Badarpur Border",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.302996,
+    28.493165
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sarai",
+  "cityId": "delhi",
+  "name": "Sarai",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.30489,
+    28.477968
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nhpc-chowk",
+  "cityId": "delhi",
+  "name": "NHPC Chowk",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.307365,
+    28.457777
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mewala-maharajpur",
+  "cityId": "delhi",
+  "name": "Mewala Maharajpur",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.308067,
+    28.448618
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-28",
+  "cityId": "delhi",
+  "name": "Sector-28",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.309035,
+    28.438158
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:badkal-mor",
+  "cityId": "delhi",
+  "name": "Badkal Mor",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.310348,
+    28.422713
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:old-faridabad",
+  "cityId": "delhi",
+  "name": "Old Faridabad",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.31144,
+    28.410796
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:neelam-chowk-ajronda",
+  "cityId": "delhi",
+  "name": "Neelam Chowk Ajronda",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.312405,
+    28.397488
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:bata-chowk",
+  "cityId": "delhi",
+  "name": "Bata Chowk",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.313434,
+    28.385834
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:escorts-mujesar",
+  "cityId": "delhi",
+  "name": "Escorts Mujesar",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.314892,
+    28.370233
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sant-surdas-sihi",
+  "cityId": "delhi",
+  "name": "Sant Surdas (Sihi)",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.316198,
+    28.35465
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:raja-nahar-singh-ballabhgarh",
+  "cityId": "delhi",
+  "name": "Raja Nahar Singh (Ballabhgarh)",
+  "lines": [
+   "delhi:violet"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.316451,
+    28.340003
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:majlis-park",
+  "cityId": "delhi",
+  "name": "Majlis Park",
+  "lines": [
+   "delhi:pink",
+   "delhi:pink-north",
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.181809,
+    28.724359
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shalimar-bagh",
+  "cityId": "delhi",
+  "name": "Shalimar Bagh",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.165439,
+    28.701959
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shakurpur",
+  "cityId": "delhi",
+  "name": "Shakurpur",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.149583,
+    28.685784
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:esi-basaidarapur",
+  "cityId": "delhi",
+  "name": "ESI-Basaidarapur",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.127263,
+    28.658068
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mayapuri",
+  "cityId": "delhi",
+  "name": "Mayapuri",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.129734,
+    28.637176
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:naraina-vihar",
+  "cityId": "delhi",
+  "name": "Naraina Vihar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.136445,
+    28.624385
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:delhi-cantt",
+  "cityId": "delhi",
+  "name": "Delhi Cantt.",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.140414,
+    28.608621
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:durgabai-deshmukh-south-campus",
+  "cityId": "delhi",
+  "name": "Durgabai Deshmukh South Campus",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.169457,
+    28.589291
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sir-m-vishweshwaraiah-moti-bagh",
+  "cityId": "delhi",
+  "name": "Sir M. Vishweshwaraiah Moti Bagh",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.175734,
+    28.578533
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:bhikaji-cama-place",
+  "cityId": "delhi",
+  "name": "Bhikaji Cama Place",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.187868,
+    28.570261
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sarojini-nagar",
+  "cityId": "delhi",
+  "name": "Sarojini Nagar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.198079,
+    28.575816
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:south-extension",
+  "cityId": "delhi",
+  "name": "South Extension",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.220567,
+    28.568565
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:vinobapuri",
+  "cityId": "delhi",
+  "name": "Vinobapuri",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.249281,
+    28.565867
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:ashram",
+  "cityId": "delhi",
+  "name": "Ashram",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.258515,
+    28.572349
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sarai-kale-khan-nizamuddin",
+  "cityId": "delhi",
+  "name": "Sarai Kale Khan-Nizamuddin",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.257228,
+    28.588959
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shree-ram-mandir-mayur-vihar",
+  "cityId": "delhi",
+  "name": "Shree Ram Mandir Mayur Vihar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.298666,
+    28.605852
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:trilokpuri-sanjay-lake",
+  "cityId": "delhi",
+  "name": "Trilokpuri-Sanjay Lake",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.308849,
+    28.613446
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:east-vinod-nagar-mayur-vihar-ii",
+  "cityId": "delhi",
+  "name": "East Vinod Nagar-Mayur Vihar II",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.305414,
+    28.62007
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:mandawali-west-vinod-nagar",
+  "cityId": "delhi",
+  "name": "Mandawali-West Vinod Nagar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.304462,
+    28.624986
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:i-p-extension",
+  "cityId": "delhi",
+  "name": "I.P. Extension",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.310726,
+    28.631895
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:karkarduma-court",
+  "cityId": "delhi",
+  "name": "Karkarduma Court",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.295793,
+    28.653611
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:krishna-nagar",
+  "cityId": "delhi",
+  "name": "Krishna Nagar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.290137,
+    28.657794
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:east-azad-nagar",
+  "cityId": "delhi",
+  "name": "East Azad Nagar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.284842,
+    28.664676
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jafrabad",
+  "cityId": "delhi",
+  "name": "Jafrabad",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.274828,
+    28.682707
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:maujpur-babarpur",
+  "cityId": "delhi",
+  "name": "Maujpur-Babarpur",
+  "lines": [
+   "delhi:pink",
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.279611,
+    28.692117
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:gokulpuri",
+  "cityId": "delhi",
+  "name": "Gokulpuri",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.286109,
+    28.70245
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:johri-enclave",
+  "cityId": "delhi",
+  "name": "Johri Enclave",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.290124,
+    28.71288
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shiv-vihar",
+  "cityId": "delhi",
+  "name": "Shiv Vihar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.289444,
+    28.721413
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:burari",
+  "cityId": "delhi",
+  "name": "Burari",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.199572,
+    28.729829
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jharoda-majra",
+  "cityId": "delhi",
+  "name": "Jharoda Majra",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.213689,
+    28.72491
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jagatpur-wazirabad",
+  "cityId": "delhi",
+  "name": "Jagatpur-Wazirabad",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.223955,
+    28.721138
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:soorghat",
+  "cityId": "delhi",
+  "name": "Soorghat",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": false,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.227465,
+    28.710224
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nanaksar-sonia-vihar",
+  "cityId": "delhi",
+  "name": "Nanaksar-Sonia Vihar",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.242505,
+    28.708703
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:khajuri-khas",
+  "cityId": "delhi",
+  "name": "Khajuri Khas",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.254481,
+    28.705209
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:bhajanpura",
+  "cityId": "delhi",
+  "name": "Bhajanpura",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.262646,
+    28.703598
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:yamuna-vihar",
+  "cityId": "delhi",
+  "name": "Yamuna Vihar",
+  "lines": [
+   "delhi:pink-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.277308,
+    28.702378
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:krishna-park-extn",
+  "cityId": "delhi",
+  "name": "Krishna Park Extn.",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.084345,
+    28.64779
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dabri-mor-janakpuri-south",
+  "cityId": "delhi",
+  "name": "Dabri Mor-Janakpuri South",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.085198,
+    28.615739
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dashrathpuri",
+  "cityId": "delhi",
+  "name": "Dashrathpuri",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.082379,
+    28.601864
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:palam",
+  "cityId": "delhi",
+  "name": "Palam",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.083073,
+    28.588918
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sadar-bazar-cantonment",
+  "cityId": "delhi",
+  "name": "Sadar Bazar Cantonment",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.111132,
+    28.577117
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:terminal-1-igi-airport",
+  "cityId": "delhi",
+  "name": "Terminal 1-IGI Airport",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.12265,
+    28.564854
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shankar-vihar",
+  "cityId": "delhi",
+  "name": "Shankar Vihar",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.140266,
+    28.560849
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:vasant-vihar",
+  "cityId": "delhi",
+  "name": "Vasant Vihar",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.161101,
+    28.557829
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:munirka",
+  "cityId": "delhi",
+  "name": "Munirka",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.175059,
+    28.556898
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:r-k-puram",
+  "cityId": "delhi",
+  "name": "R.K. Puram",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.185519,
+    28.550382
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:iit",
+  "cityId": "delhi",
+  "name": "IIT",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.194534,
+    28.54702
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:panchsheel-park",
+  "cityId": "delhi",
+  "name": "Panchsheel Park",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.221093,
+    28.542375
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:chirag-delhi",
+  "cityId": "delhi",
+  "name": "Chirag Delhi",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.230301,
+    28.541113
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:greater-kailash",
+  "cityId": "delhi",
+  "name": "Greater Kailash",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.238464,
+    28.5419
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nehru-enclave",
+  "cityId": "delhi",
+  "name": "Nehru Enclave",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.251506,
+    28.546058
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:okhla-nsic",
+  "cityId": "delhi",
+  "name": "Okhla NSIC",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.264813,
+    28.554468
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sukhdev-vihar",
+  "cityId": "delhi",
+  "name": "Sukhdev Vihar",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.274941,
+    28.559783
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jamia-millia-islamia",
+  "cityId": "delhi",
+  "name": "Jamia Millia Islamia",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.286339,
+    28.56305
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:okhla-vihar",
+  "cityId": "delhi",
+  "name": "Okhla Vihar",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.291875,
+    28.561301
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jasola-vihar-shaheen-bagh",
+  "cityId": "delhi",
+  "name": "Jasola Vihar Shaheen Bagh",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.296658,
+    28.545828
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:kalindi-kunj",
+  "cityId": "delhi",
+  "name": "Kalindi Kunj",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.310112,
+    28.542915
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:okhla-bird-sanctuary",
+  "cityId": "delhi",
+  "name": "Okhla Bird Sanctuary",
+  "lines": [
+   "delhi:magenta"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.321597,
+    28.552942
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:bhalaswa",
+  "cityId": "delhi",
+  "name": "Bhalaswa",
+  "lines": [
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.168077,
+    28.736932
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:haiderpur-village",
+  "cityId": "delhi",
+  "name": "Haiderpur Village",
+  "lines": [
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.142447,
+    28.724887
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:uttari-pitampura-prashant-vihar",
+  "cityId": "delhi",
+  "name": "Uttari Pitampura-Prashant Vihar",
+  "lines": [
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.138692,
+    28.713079
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:deepali-chowk",
+  "cityId": "delhi",
+  "name": "Deepali Chowk",
+  "lines": [
+   "delhi:magenta-north"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.118278,
+    28.698096
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nangli",
+  "cityId": "delhi",
+  "name": "Nangli",
+  "lines": [
+   "delhi:grey"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.01044,
+    28.6173
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:najafgarh",
+  "cityId": "delhi",
+  "name": "Najafgarh",
+  "lines": [
+   "delhi:grey"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.986543,
+    28.612452
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dhansa-bus-stand",
+  "cityId": "delhi",
+  "name": "Dhansa Bus Stand",
+  "lines": [
+   "delhi:grey"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    76.978541,
+    28.611909
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:shivaji-stadium",
+  "cityId": "delhi",
+  "name": "Shivaji Stadium",
+  "lines": [
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.211321,
+    28.628897
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:dhaula-kuan",
+  "cityId": "delhi",
+  "name": "Dhaula Kuan",
+  "lines": [
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.1617,
+    28.591888
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:delhi-aerocity",
+  "cityId": "delhi",
+  "name": "Delhi Aerocity",
+  "lines": [
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.120803,
+    28.548779
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:airport-t-3",
+  "cityId": "delhi",
+  "name": "Airport (T-3)",
+  "lines": [
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.086709,
+    28.556453
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:yashobhoomi-dwarka-sector-25",
+  "cityId": "delhi",
+  "name": "Yashobhoomi Dwarka Sector-25",
+  "lines": [
+   "delhi:airport"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.045309,
+    28.55083
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-51",
+  "cityId": "delhi",
+  "name": "Sector-51",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.375259,
+    28.58572
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-50",
+  "cityId": "delhi",
+  "name": "Sector-50",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.378235,
+    28.574356
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-76",
+  "cityId": "delhi",
+  "name": "Sector-76",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.379657,
+    28.565333
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-101",
+  "cityId": "delhi",
+  "name": "Sector-101",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.384945,
+    28.556052
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-81",
+  "cityId": "delhi",
+  "name": "Sector-81",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.389941,
+    28.549299
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:n-s-e-z",
+  "cityId": "delhi",
+  "name": "N.S.E.Z.",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.394753,
+    28.53241
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-83",
+  "cityId": "delhi",
+  "name": "Sector-83",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.39644,
+    28.522274
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-137",
+  "cityId": "delhi",
+  "name": "Sector-137",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.403604,
+    28.510772
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-142",
+  "cityId": "delhi",
+  "name": "Sector-142",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.412857,
+    28.498992
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-143",
+  "cityId": "delhi",
+  "name": "Sector-143",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.422374,
+    28.494259
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-144",
+  "cityId": "delhi",
+  "name": "Sector-144",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.433071,
+    28.486291
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-145",
+  "cityId": "delhi",
+  "name": "Sector-145",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.442404,
+    28.479001
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-146",
+  "cityId": "delhi",
+  "name": "Sector-146",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.455183,
+    28.468839
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-147",
+  "cityId": "delhi",
+  "name": "Sector-147",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.466159,
+    28.45933
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-148",
+  "cityId": "delhi",
+  "name": "Sector-148",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.476599,
+    28.448061
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:knowledge-park-ii",
+  "cityId": "delhi",
+  "name": "Knowledge Park II",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.500316,
+    28.457052
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:pari-chowk",
+  "cityId": "delhi",
+  "name": "Pari Chowk",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.508352,
+    28.463396
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:alpha-1",
+  "cityId": "delhi",
+  "name": "Alpha-1",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.512729,
+    28.47103
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:delta-1",
+  "cityId": "delhi",
+  "name": "Delta-1",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.525717,
+    28.478471
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:gnida-office",
+  "cityId": "delhi",
+  "name": "GNIDA Office",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.536499,
+    28.48468
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:depot-station",
+  "cityId": "delhi",
+  "name": "Depot Station",
+  "lines": [
+   "delhi:aqua"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.544001,
+    28.489009
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-55-56",
+  "cityId": "delhi",
+  "name": "Sector-55-56",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.105111,
+    28.423327
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-54-chowk",
+  "cityId": "delhi",
+  "name": "Sector-54 Chowk",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.104853,
+    28.432971
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-53-54",
+  "cityId": "delhi",
+  "name": "Sector-53-54",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.100452,
+    28.446381
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:sector-42-43",
+  "cityId": "delhi",
+  "name": "Sector-42-43",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.096941,
+    28.457424
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:phase-1",
+  "cityId": "delhi",
+  "name": "Phase-1",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.093949,
+    28.471426
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:phase-2",
+  "cityId": "delhi",
+  "name": "Phase-2",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.09299,
+    28.48756
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:phase-3",
+  "cityId": "delhi",
+  "name": "Phase-3",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.093661,
+    28.493568
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:moulsari-avenue",
+  "cityId": "delhi",
+  "name": "Moulsari Avenue",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.094631,
+    28.500778
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:cyber-city",
+  "cityId": "delhi",
+  "name": "Cyber City",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.089193,
+    28.498064
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:belvedere-towers",
+  "cityId": "delhi",
+  "name": "Belvedere Towers",
+  "lines": [
+   "delhi:rapid"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.088132,
+    28.491702
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ }
+]

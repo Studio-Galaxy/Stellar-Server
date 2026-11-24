@@ -1,0 +1,9 @@
+{
+  "_id": "app",
+  "minAppVersion": "1.0.0",
+  "maintenance": false,
+  "defaultCity": "delhi",
+  "fareDisclaimer": "Fares and times are estimates. Check at the station before you travel.",
+  "attribution": "Network from the official DMRC 'Metro Network in Delhi-NCR' map (as on August 2026). Station positions © OpenStreetMap contributors (ODbL).",
+  "supportEmail": ""
+}

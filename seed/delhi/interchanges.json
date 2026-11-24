@@ -1,0 +1,326 @@
+[
+ {
+  "cityId": "delhi",
+  "station": "delhi:madhuban-chowk",
+  "toStation": "delhi:madhuban-chowk",
+  "fromLine": "delhi:magenta-north",
+  "toLine": "delhi:red",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:netaji-subhash-place",
+  "toStation": "delhi:netaji-subhash-place",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:red",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:inderlok",
+  "toStation": "delhi:inderlok",
+  "fromLine": "delhi:green",
+  "toLine": "delhi:red",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:kashmere-gate",
+  "toStation": "delhi:kashmere-gate",
+  "fromLine": "delhi:red",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:kashmere-gate",
+  "toStation": "delhi:kashmere-gate",
+  "fromLine": "delhi:red",
+  "toLine": "delhi:violet",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:kashmere-gate",
+  "toStation": "delhi:kashmere-gate",
+  "fromLine": "delhi:violet",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:welcome",
+  "toStation": "delhi:welcome",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:red",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:haiderpur-badli-mor",
+  "toStation": "delhi:haiderpur-badli-mor",
+  "fromLine": "delhi:magenta-north",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:azadpur",
+  "toStation": "delhi:azadpur",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:new-delhi",
+  "toStation": "delhi:new-delhi",
+  "fromLine": "delhi:airport",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:rajiv-chowk",
+  "toStation": "delhi:rajiv-chowk",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:central-secretariat",
+  "toStation": "delhi:central-secretariat",
+  "fromLine": "delhi:violet",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:dilli-haat-ina",
+  "toStation": "delhi:dilli-haat-ina",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:hauz-khas",
+  "toStation": "delhi:hauz-khas",
+  "fromLine": "delhi:magenta",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:sikanderpur",
+  "toStation": "delhi:sikanderpur",
+  "fromLine": "delhi:rapid",
+  "toLine": "delhi:yellow",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:dwarka-sector-21",
+  "toStation": "delhi:dwarka-sector-21",
+  "fromLine": "delhi:airport",
+  "toLine": "delhi:blue",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:dwarka-kakrola",
+  "toStation": "delhi:dwarka-kakrola",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:grey",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:janakpuri-west",
+  "toStation": "delhi:janakpuri-west",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:magenta",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:rajouri-garden",
+  "toStation": "delhi:rajouri-garden",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:pink",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:kirti-nagar",
+  "toStation": "delhi:kirti-nagar",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:green-kirti",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:mandi-house",
+  "toStation": "delhi:mandi-house",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:violet",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:yamuna-bank",
+  "toStation": "delhi:yamuna-bank",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:blue-vaishali",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:mayur-vihar-i",
+  "toStation": "delhi:mayur-vihar-i",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:pink",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:botanical-garden",
+  "toStation": "delhi:botanical-garden",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:magenta",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:karkarduma",
+  "toStation": "delhi:karkarduma",
+  "fromLine": "delhi:blue-vaishali",
+  "toLine": "delhi:pink",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:anand-vihar-isbt",
+  "toStation": "delhi:anand-vihar-isbt",
+  "fromLine": "delhi:blue-vaishali",
+  "toLine": "delhi:pink",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:ashok-park-main",
+  "toStation": "delhi:ashok-park-main",
+  "fromLine": "delhi:green",
+  "toLine": "delhi:green-kirti",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:punjabi-bagh-west",
+  "toStation": "delhi:punjabi-bagh-west",
+  "fromLine": "delhi:green",
+  "toLine": "delhi:pink",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:lajpat-nagar",
+  "toStation": "delhi:lajpat-nagar",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:violet",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:kalkaji-mandir",
+  "toStation": "delhi:kalkaji-mandir",
+  "fromLine": "delhi:magenta",
+  "toLine": "delhi:violet",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:majlis-park",
+  "toStation": "delhi:majlis-park",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:pink-north",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:majlis-park",
+  "toStation": "delhi:majlis-park",
+  "fromLine": "delhi:magenta-north",
+  "toLine": "delhi:pink",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:majlis-park",
+  "toStation": "delhi:majlis-park",
+  "fromLine": "delhi:magenta-north",
+  "toLine": "delhi:pink-north",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:maujpur-babarpur",
+  "toStation": "delhi:maujpur-babarpur",
+  "fromLine": "delhi:pink",
+  "toLine": "delhi:pink-north",
+  "walkMin": 4,
+  "kind": "same-station"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:sector-52-noida",
+  "toStation": "delhi:sector-51",
+  "fromLine": "delhi:blue",
+  "toLine": "delhi:aqua",
+  "walkMin": 8,
+  "kind": "walkway"
+ },
+ {
+  "cityId": "delhi",
+  "station": "delhi:dhaula-kuan",
+  "toStation": "delhi:durgabai-deshmukh-south-campus",
+  "fromLine": "delhi:airport",
+  "toLine": "delhi:pink",
+  "walkMin": 8,
+  "kind": "walkway"
+ }
+]

@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# secrets — database password lives only here and in Vercel's settings
+.env
+.env.*
+!.env.example
+
+# raw downloaded datasets (DMRC map PDF, OpenStreetMap extract) — large, and not ours to redistribute
+data/
+
+# Vercel CLI
+.vercel/
+
+# logs, OS, editors
+*.log
+.DS_Store
+.vscode/
+.idea/

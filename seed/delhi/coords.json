@@ -1,0 +1,1652 @@
+{
+ "delhi:rithala": {
+  "lon": 77.107151,
+  "lat": 28.720782,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rithala"
+ },
+ "delhi:dr-baba-saheb-ambedkar-hospital": {
+  "lon": 77.115385,
+  "lat": 28.714957,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rohini West"
+ },
+ "delhi:rohini": {
+  "lon": 77.125999,
+  "lat": 28.707575,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rohini East"
+ },
+ "delhi:madhuban-chowk": {
+  "lon": 77.130943,
+  "lat": 28.703448,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Madhuban Chowk"
+ },
+ "delhi:kohat-enclave": {
+  "lon": 77.140539,
+  "lat": 28.698041,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kohat Enclave"
+ },
+ "delhi:netaji-subhash-place": {
+  "lon": 77.153375,
+  "lat": 28.695381,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Netaji Subhash Place (Pink Line)"
+ },
+ "delhi:keshav-puram": {
+  "lon": 77.161683,
+  "lat": 28.688926,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Keshav Puram"
+ },
+ "delhi:kanhaiya-nagar": {
+  "lon": 77.164775,
+  "lat": 28.682408,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kanhaiya Nagar"
+ },
+ "delhi:inderlok": {
+  "lon": 77.169622,
+  "lat": 28.673038,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Inderlok (Red Line)"
+ },
+ "delhi:shastri-nagar": {
+  "lon": 77.181859,
+  "lat": 28.670088,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shastri Nagar"
+ },
+ "delhi:pratap-nagar": {
+  "lon": 77.198897,
+  "lat": 28.666718,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Pratap Nagar"
+ },
+ "delhi:pulbangash": {
+  "lon": 77.207416,
+  "lat": 28.666407,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Pul Bangash"
+ },
+ "delhi:tis-hazari": {
+  "lon": 77.216631,
+  "lat": 28.667163,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Tis Hazari"
+ },
+ "delhi:kashmere-gate": {
+  "lon": 77.22816,
+  "lat": 28.667924,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kashmere Gate"
+ },
+ "delhi:shastri-park": {
+  "lon": 77.250529,
+  "lat": 28.668433,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shastri Park"
+ },
+ "delhi:seelampur": {
+  "lon": 77.266799,
+  "lat": 28.66984,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Seelampur"
+ },
+ "delhi:welcome": {
+  "lon": 77.277406,
+  "lat": 28.672088,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Welcome (Pink Line)"
+ },
+ "delhi:shahdara": {
+  "lon": 77.289886,
+  "lat": 28.67343,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shahdara"
+ },
+ "delhi:mansarovar-park": {
+  "lon": 77.300869,
+  "lat": 28.675385,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mansarovar Park"
+ },
+ "delhi:jhilmil": {
+  "lon": 77.312395,
+  "lat": 28.67572,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jhilmil"
+ },
+ "delhi:dilshad-garden": {
+  "lon": 77.321514,
+  "lat": 28.675855,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dilshad Garden"
+ },
+ "delhi:shaheed-nagar": {
+  "lon": 77.333916,
+  "lat": 28.676661,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shaheed Nagar"
+ },
+ "delhi:raj-bagh": {
+  "lon": 77.346851,
+  "lat": 28.677088,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Raj Bagh"
+ },
+ "delhi:major-mohit-sharma-rajendra-nagar": {
+  "lon": 77.358142,
+  "lat": 28.67761,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rajendra Nagar"
+ },
+ "delhi:shyam-park": {
+  "lon": 77.37054,
+  "lat": 28.678215,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shyam Park"
+ },
+ "delhi:mohan-nagar": {
+  "lon": 77.383933,
+  "lat": 28.678534,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mohan Nagar"
+ },
+ "delhi:arthala": {
+  "lon": 77.391889,
+  "lat": 28.676998,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Arthala"
+ },
+ "delhi:hindon-river": {
+  "lon": 77.406537,
+  "lat": 28.673428,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Hindon River"
+ },
+ "delhi:shaheed-sthal-new-bus-adda": {
+  "lon": 77.415412,
+  "lat": 28.670666,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shaheed Sthal"
+ },
+ "delhi:samaypur-badli": {
+  "lon": 77.138278,
+  "lat": 28.744632,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Samaypur Badli"
+ },
+ "delhi:rohini-sector-18-19": {
+  "lon": 77.139844,
+  "lat": 28.738366,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rohini Sector 18, 19"
+ },
+ "delhi:haiderpur-badli-mor": {
+  "lon": 77.14893,
+  "lat": 28.729834,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Haiderpur Badli Mor"
+ },
+ "delhi:jahangirpuri": {
+  "lon": 77.162657,
+  "lat": 28.725972,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jahangirpuri"
+ },
+ "delhi:adarsh-nagar": {
+  "lon": 77.170423,
+  "lat": 28.716581,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Adarsh Nagar"
+ },
+ "delhi:azadpur": {
+  "lon": 77.181167,
+  "lat": 28.706418,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Azadpur (Yellow Line)"
+ },
+ "delhi:model-town": {
+  "lon": 77.193993,
+  "lat": 28.702714,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Model Town"
+ },
+ "delhi:guru-teg-bahadur-nagar": {
+  "lon": 77.206407,
+  "lat": 28.698132,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "GTB Nagar"
+ },
+ "delhi:vishwavidyalaya": {
+  "lon": 77.214742,
+  "lat": 28.695077,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Vishwa Vidyalaya"
+ },
+ "delhi:vidhan-sabha": {
+  "lon": 77.221727,
+  "lat": 28.686323,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Vidhan Sabha"
+ },
+ "delhi:civil-lines": {
+  "lon": 77.225028,
+  "lat": 28.67685,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Civil Lines"
+ },
+ "delhi:chandni-chowk": {
+  "lon": 77.230336,
+  "lat": 28.658422,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Chandni Chowk"
+ },
+ "delhi:chawri-bazar": {
+  "lon": 77.226516,
+  "lat": 28.649264,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Chawri Bazaar"
+ },
+ "delhi:new-delhi": {
+  "lon": 77.222742,
+  "lat": 28.643481,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "New Delhi"
+ },
+ "delhi:rajiv-chowk": {
+  "lon": 77.219513,
+  "lat": 28.632763,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rajiv Chowk"
+ },
+ "delhi:patel-chowk": {
+  "lon": 77.214032,
+  "lat": 28.622967,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Patel Chowk"
+ },
+ "delhi:central-secretariat": {
+  "lon": 77.212316,
+  "lat": 28.615878,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Central Secretariat"
+ },
+ "delhi:seva-teerth": {
+  "lon": 77.211795,
+  "lat": 28.609514,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Seva Teerth"
+ },
+ "delhi:lok-kalyan-marg": {
+  "lon": 77.211097,
+  "lat": 28.597351,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Lok Kalyan Marg"
+ },
+ "delhi:jor-bagh": {
+  "lon": 77.212531,
+  "lat": 28.586567,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jor Bagh"
+ },
+ "delhi:dilli-haat-ina": {
+  "lon": 77.208444,
+  "lat": 28.573909,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dilli Haat - INA"
+ },
+ "delhi:aiims": {
+  "lon": 77.207804,
+  "lat": 28.566861,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "A.I.I.M.S."
+ },
+ "delhi:green-park": {
+  "lon": 77.206792,
+  "lat": 28.558007,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Green Park"
+ },
+ "delhi:hauz-khas": {
+  "lon": 77.20587,
+  "lat": 28.543815,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Hauz Khas (Yellow Line)"
+ },
+ "delhi:malviya-nagar": {
+  "lon": 77.204825,
+  "lat": 28.529063,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Malviya Nagar"
+ },
+ "delhi:saket": {
+  "lon": 77.202252,
+  "lat": 28.521195,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Saket"
+ },
+ "delhi:qutab-minar": {
+  "lon": 77.186453,
+  "lat": 28.512951,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Qutab Minar"
+ },
+ "delhi:chhatarpur": {
+  "lon": 77.174947,
+  "lat": 28.506751,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Chhatarpur"
+ },
+ "delhi:sultanpur": {
+  "lon": 77.161376,
+  "lat": 28.499162,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sultanpur"
+ },
+ "delhi:ghitorni": {
+  "lon": 77.149185,
+  "lat": 28.493752,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Ghitorni"
+ },
+ "delhi:arjan-garh": {
+  "lon": 77.125764,
+  "lat": 28.480736,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Arjan Garh"
+ },
+ "delhi:guru-dronacharya": {
+  "lon": 77.102268,
+  "lat": 28.482023,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Guru Dronacharya"
+ },
+ "delhi:sikanderpur": {
+  "lon": 77.093575,
+  "lat": 28.481161,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sikanderpur"
+ },
+ "delhi:m-g-road": {
+  "lon": 77.07989,
+  "lat": 28.479556,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "M G Road"
+ },
+ "delhi:iffco-chowk": {
+  "lon": 77.072422,
+  "lat": 28.472328,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "IFFCO Chowk"
+ },
+ "delhi:millennium-city-centre-gurugram": {
+  "lon": 77.072661,
+  "lat": 28.459346,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Millennium City Centre Gurugram"
+ },
+ "delhi:dwarka-sector-21": {
+  "lon": 77.058557,
+  "lat": 28.551914,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 21"
+ },
+ "delhi:dwarka-sector-8": {
+  "lon": 77.067038,
+  "lat": 28.56561,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 8"
+ },
+ "delhi:dwarka-sector-9": {
+  "lon": 77.065331,
+  "lat": 28.574272,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 9"
+ },
+ "delhi:dwarka-sector-10": {
+  "lon": 77.0575,
+  "lat": 28.581057,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 10"
+ },
+ "delhi:dwarka-sector-11": {
+  "lon": 77.049442,
+  "lat": 28.586445,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 11"
+ },
+ "delhi:dwarka-sector-12": {
+  "lon": 77.040732,
+  "lat": 28.592235,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 12"
+ },
+ "delhi:dwarka-sector-13": {
+  "lon": 77.033541,
+  "lat": 28.597009,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 13"
+ },
+ "delhi:dwarka-sector-14": {
+  "lon": 77.025977,
+  "lat": 28.60222,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Sector 14"
+ },
+ "delhi:dwarka-kakrola": {
+  "lon": 77.022586,
+  "lat": 28.61542,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka - Kakrola (Blue Line)"
+ },
+ "delhi:dwarka-mor": {
+  "lon": 77.033279,
+  "lat": 28.619311,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dwarka Mor"
+ },
+ "delhi:nawada": {
+  "lon": 77.04508,
+  "lat": 28.620276,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nawada"
+ },
+ "delhi:uttam-nagar-west": {
+  "lon": 77.055713,
+  "lat": 28.621757,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Uttam Nagar West"
+ },
+ "delhi:uttam-nagar-east": {
+  "lon": 77.065287,
+  "lat": 28.624848,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Uttam Nagar East"
+ },
+ "delhi:janakpuri-west": {
+  "lon": 77.078016,
+  "lat": 28.62927,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Janakpuri West"
+ },
+ "delhi:janakpuri-east": {
+  "lon": 77.086731,
+  "lat": 28.633012,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Janakpuri East"
+ },
+ "delhi:tilak-nagar": {
+  "lon": 77.09648,
+  "lat": 28.636546,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Tilak Nagar"
+ },
+ "delhi:subhash-nagar": {
+  "lon": 77.105211,
+  "lat": 28.640474,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Subhash Nagar"
+ },
+ "delhi:tagore-garden": {
+  "lon": 77.112845,
+  "lat": 28.64374,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Tagore Garden"
+ },
+ "delhi:rajouri-garden": {
+  "lon": 77.123493,
+  "lat": 28.650122,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rajouri Garden (Blue Line)"
+ },
+ "delhi:ramesh-nagar": {
+  "lon": 77.13165,
+  "lat": 28.652745,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Ramesh Nagar"
+ },
+ "delhi:moti-nagar": {
+  "lon": 77.14243,
+  "lat": 28.657859,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Moti Nagar"
+ },
+ "delhi:kirti-nagar": {
+  "lon": 77.151011,
+  "lat": 28.655144,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kirti Nagar (Blue Line)"
+ },
+ "delhi:shadipur": {
+  "lon": 77.158257,
+  "lat": 28.651583,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shadipur"
+ },
+ "delhi:patel-nagar": {
+  "lon": 77.16928,
+  "lat": 28.645012,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Patel Nagar"
+ },
+ "delhi:rajendra-place": {
+  "lon": 77.178275,
+  "lat": 28.642496,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rajendra Place"
+ },
+ "delhi:karol-bagh": {
+  "lon": 77.188524,
+  "lat": 28.644011,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Karol Bagh"
+ },
+ "delhi:jhandewalan": {
+  "lon": 77.199916,
+  "lat": 28.644318,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jhandewalan"
+ },
+ "delhi:ramakrishna-ashram-marg": {
+  "lon": 77.20858,
+  "lat": 28.639243,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Ramakrishna Ashram Marg"
+ },
+ "delhi:barakhamba-road": {
+  "lon": 77.225007,
+  "lat": 28.629769,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Barakhambha Road"
+ },
+ "delhi:mandi-house": {
+  "lon": 77.234195,
+  "lat": 28.625564,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mandi House"
+ },
+ "delhi:supreme-court": {
+  "lon": 77.242529,
+  "lat": 28.623474,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Supreme Court"
+ },
+ "delhi:indraprastha": {
+  "lon": 77.249551,
+  "lat": 28.620603,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Indraprastha"
+ },
+ "delhi:yamuna-bank": {
+  "lon": 77.267936,
+  "lat": 28.623237,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Yamuna Bank"
+ },
+ "delhi:akshardham": {
+  "lon": 77.279545,
+  "lat": 28.617885,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Akshardham"
+ },
+ "delhi:mayur-vihar-i": {
+  "lon": 77.290263,
+  "lat": 28.60386,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mayur Vihar - I (Blue Line)"
+ },
+ "delhi:mayur-vihar-extension": {
+  "lon": 77.294488,
+  "lat": 28.594487,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mayur Vihar Extension"
+ },
+ "delhi:new-ashok-nagar": {
+  "lon": 77.30193,
+  "lat": 28.589986,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "New Ashok Nagar"
+ },
+ "delhi:noida-sector-15": {
+  "lon": 77.311676,
+  "lat": 28.584923,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 15"
+ },
+ "delhi:noida-sector-16": {
+  "lon": 77.317828,
+  "lat": 28.578112,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 16"
+ },
+ "delhi:noida-sector-18": {
+  "lon": 77.326132,
+  "lat": 28.570791,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 18"
+ },
+ "delhi:botanical-garden": {
+  "lon": 77.334114,
+  "lat": 28.563921,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Botanical Garden"
+ },
+ "delhi:golf-course": {
+  "lon": 77.346367,
+  "lat": 28.567425,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Golf Course"
+ },
+ "delhi:noida-city-centre": {
+  "lon": 77.356207,
+  "lat": 28.574785,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida City Centre"
+ },
+ "delhi:sector-34-noida": {
+  "lon": 77.363498,
+  "lat": 28.580252,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 34"
+ },
+ "delhi:sector-52-noida": {
+  "lon": 77.372867,
+  "lat": 28.586797,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 52"
+ },
+ "delhi:sector-61-noida": {
+  "lon": 77.372269,
+  "lat": 28.597583,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 61"
+ },
+ "delhi:sector-59-noida": {
+  "lon": 77.372682,
+  "lat": 28.606527,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 59"
+ },
+ "delhi:sector-62-noida": {
+  "lon": 77.373589,
+  "lat": 28.616986,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 62"
+ },
+ "delhi:noida-electronic-city": {
+  "lon": 77.375048,
+  "lat": 28.628261,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Electronic City"
+ },
+ "delhi:laxmi-nagar": {
+  "lon": 77.277525,
+  "lat": 28.630595,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Laxmi Nagar"
+ },
+ "delhi:nirman-vihar": {
+  "lon": 77.286781,
+  "lat": 28.63651,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nirman Vihar"
+ },
+ "delhi:preet-vihar": {
+  "lon": 77.295285,
+  "lat": 28.641415,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Preet Vihar"
+ },
+ "delhi:karkarduma": {
+  "lon": 77.305813,
+  "lat": 28.648841,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Karkarduma (Blue Line)"
+ },
+ "delhi:anand-vihar-isbt": {
+  "lon": 77.315982,
+  "lat": 28.646936,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Anand Vihar (Blue Line)"
+ },
+ "delhi:kaushambi": {
+  "lon": 77.324341,
+  "lat": 28.645353,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kaushambi"
+ },
+ "delhi:vaishali": {
+  "lon": 77.339538,
+  "lat": 28.64972,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Vaishali"
+ },
+ "delhi:ashok-park-main": {
+  "lon": 77.155289,
+  "lat": 28.671586,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Ashok Park Main"
+ },
+ "delhi:punjabi-bagh": {
+  "lon": 77.146122,
+  "lat": 28.672969,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Punjabi Bagh"
+ },
+ "delhi:punjabi-bagh-west": {
+  "lon": 77.139744,
+  "lat": 28.673279,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Punjabi Bagh West"
+ },
+ "delhi:shivaji-park": {
+  "lon": 77.130465,
+  "lat": 28.675004,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shivaji Park"
+ },
+ "delhi:madipur": {
+  "lon": 77.119353,
+  "lat": 28.676448,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Madipur"
+ },
+ "delhi:paschim-vihar-east": {
+  "lon": 77.112282,
+  "lat": 28.677357,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Paschim Vihar East"
+ },
+ "delhi:paschim-vihar-west": {
+  "lon": 77.102215,
+  "lat": 28.678605,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Paschim Vihar West"
+ },
+ "delhi:peeragarhi": {
+  "lon": 77.092658,
+  "lat": 28.67973,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Peeragarhi"
+ },
+ "delhi:udyog-nagar": {
+  "lon": 77.080847,
+  "lat": 28.68108,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Udyog Nagar"
+ },
+ "delhi:maharaja-surajmal-stadium": {
+  "lon": 77.074001,
+  "lat": 28.681858,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Surajmal Stadium"
+ },
+ "delhi:nangloi": {
+  "lon": 77.064728,
+  "lat": 28.682376,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nangloi"
+ },
+ "delhi:nangloi-railway-station": {
+  "lon": 77.05624,
+  "lat": 28.682173,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nangloi Railway Station"
+ },
+ "delhi:rajdhani-park": {
+  "lon": 77.043939,
+  "lat": 28.682283,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rajdhani Park"
+ },
+ "delhi:mundka": {
+  "lon": 77.030572,
+  "lat": 28.682392,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mundka"
+ },
+ "delhi:mundka-industrial-area-mia": {
+  "lon": 77.017126,
+  "lat": 28.683369,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mundka Industrial Area"
+ },
+ "delhi:ghevra-metro-station": {
+  "lon": 76.996137,
+  "lat": 28.685255,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Ghevra"
+ },
+ "delhi:tikri-kalan": {
+  "lon": 76.977204,
+  "lat": 28.686854,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Tikri Kalan"
+ },
+ "delhi:tikri-border": {
+  "lon": 76.964076,
+  "lat": 28.68796,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Tikri Border"
+ },
+ "delhi:pandit-shree-ram-sharma": {
+  "lon": 76.951176,
+  "lat": 28.689244,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Pandit Shree Ram Sharma"
+ },
+ "delhi:bahadurgarh-city": {
+  "lon": 76.935456,
+  "lat": 28.690718,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Bahadurgarh City"
+ },
+ "delhi:brig-hoshiar-singh": {
+  "lon": 76.919175,
+  "lat": 28.697399,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Brigadier Hoshiyar Singh"
+ },
+ "delhi:satguru-ram-singh-marg": {
+  "lon": 77.157612,
+  "lat": 28.662059,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Satguru Ramsingh Marg"
+ },
+ "delhi:lal-quila": {
+  "lon": 77.236637,
+  "lat": 28.657479,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Lal Quila"
+ },
+ "delhi:jama-masjid": {
+  "lon": 77.237662,
+  "lat": 28.650031,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jama Masjid"
+ },
+ "delhi:delhi-gate": {
+  "lon": 77.240781,
+  "lat": 28.639216,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Delhi Gate"
+ },
+ "delhi:ito": {
+  "lon": 77.241044,
+  "lat": 28.628192,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "ITO"
+ },
+ "delhi:janpath": {
+  "lon": 77.219259,
+  "lat": 28.624049,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Janpath"
+ },
+ "delhi:khan-market": {
+  "lon": 77.229126,
+  "lat": 28.602244,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Khan Market"
+ },
+ "delhi:jln-stadium": {
+  "lon": 77.233782,
+  "lat": 28.588237,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jawaharlal Nehru Stadium"
+ },
+ "delhi:jangpura": {
+  "lon": 77.239316,
+  "lat": 28.583039,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jangpura"
+ },
+ "delhi:lajpat-nagar": {
+  "lon": 77.237473,
+  "lat": 28.570061,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Lajpat Nagar (Violet Line)"
+ },
+ "delhi:moolchand": {
+  "lon": 77.234256,
+  "lat": 28.564405,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Moolchand"
+ },
+ "delhi:kailash-colony": {
+  "lon": 77.241964,
+  "lat": 28.555328,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kailash Colony"
+ },
+ "delhi:nehru-place": {
+  "lon": 77.251739,
+  "lat": 28.551416,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nehru Place"
+ },
+ "delhi:kalkaji-mandir": {
+  "lon": 77.257968,
+  "lat": 28.549872,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kalkaji Mandir"
+ },
+ "delhi:govind-puri": {
+  "lon": 77.264252,
+  "lat": 28.54443,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Govind Puri"
+ },
+ "delhi:harkesh-nagar-okhla": {
+  "lon": 77.275469,
+  "lat": 28.543151,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Harkesh Nagar Okhla"
+ },
+ "delhi:jasola-apollo": {
+  "lon": 77.283017,
+  "lat": 28.538416,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jasola Apollo"
+ },
+ "delhi:sarita-vihar": {
+  "lon": 77.288296,
+  "lat": 28.528578,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sarita Vihar"
+ },
+ "delhi:mohan-estate": {
+  "lon": 77.294506,
+  "lat": 28.519671,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mohan Estate"
+ },
+ "delhi:tughlakabad-rly-colony": {
+  "lon": 77.299213,
+  "lat": 28.502368,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Tughlakabad"
+ },
+ "delhi:badarpur-border": {
+  "lon": 77.302996,
+  "lat": 28.493165,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Badarpur"
+ },
+ "delhi:sarai": {
+  "lon": 77.30489,
+  "lat": 28.477968,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sarai"
+ },
+ "delhi:nhpc-chowk": {
+  "lon": 77.307365,
+  "lat": 28.457777,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "N.H.P.C. Chowk"
+ },
+ "delhi:mewala-maharajpur": {
+  "lon": 77.308067,
+  "lat": 28.448618,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mewala Maharajpur"
+ },
+ "delhi:sector-28": {
+  "lon": 77.309035,
+  "lat": 28.438158,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sector 28"
+ },
+ "delhi:badkal-mor": {
+  "lon": 77.310348,
+  "lat": 28.422713,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Badhkal Mor"
+ },
+ "delhi:old-faridabad": {
+  "lon": 77.31144,
+  "lat": 28.410796,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Old Faridabad"
+ },
+ "delhi:neelam-chowk-ajronda": {
+  "lon": 77.312405,
+  "lat": 28.397488,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Neelam Chowk Ajronda"
+ },
+ "delhi:bata-chowk": {
+  "lon": 77.313434,
+  "lat": 28.385834,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Bata Chowk"
+ },
+ "delhi:escorts-mujesar": {
+  "lon": 77.314892,
+  "lat": 28.370233,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Escorts Mujesar"
+ },
+ "delhi:sant-surdas-sihi": {
+  "lon": 77.316198,
+  "lat": 28.35465,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sant Surdas (Sihi)"
+ },
+ "delhi:raja-nahar-singh-ballabhgarh": {
+  "lon": 77.316451,
+  "lat": 28.340003,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Raja Nahar Singh"
+ },
+ "delhi:majlis-park": {
+  "lon": 77.181809,
+  "lat": 28.724359,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Majlis Park"
+ },
+ "delhi:shalimar-bagh": {
+  "lon": 77.165439,
+  "lat": 28.701959,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shalimar Bagh"
+ },
+ "delhi:shakurpur": {
+  "lon": 77.149583,
+  "lat": 28.685784,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shakurpur"
+ },
+ "delhi:esi-basaidarapur": {
+  "lon": 77.127263,
+  "lat": 28.658068,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "ESI - Basaidarapur"
+ },
+ "delhi:mayapuri": {
+  "lon": 77.129734,
+  "lat": 28.637176,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mayapuri"
+ },
+ "delhi:naraina-vihar": {
+  "lon": 77.136445,
+  "lat": 28.624385,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Naraina Vihar"
+ },
+ "delhi:delhi-cantt": {
+  "lon": 77.140414,
+  "lat": 28.608621,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Delhi Cantt"
+ },
+ "delhi:durgabai-deshmukh-south-campus": {
+  "lon": 77.169457,
+  "lat": 28.589291,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Durgabai Deshmukh South Campus"
+ },
+ "delhi:sir-m-vishweshwaraiah-moti-bagh": {
+  "lon": 77.175734,
+  "lat": 28.578533,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sir M. Vishweshwaraiah Moti Bagh"
+ },
+ "delhi:bhikaji-cama-place": {
+  "lon": 77.187868,
+  "lat": 28.570261,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Bhikaji Cama Place"
+ },
+ "delhi:sarojini-nagar": {
+  "lon": 77.198079,
+  "lat": 28.575816,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sarojini Nagar"
+ },
+ "delhi:south-extension": {
+  "lon": 77.220567,
+  "lat": 28.568565,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "South Extension"
+ },
+ "delhi:vinobapuri": {
+  "lon": 77.249281,
+  "lat": 28.565867,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Vinobapuri"
+ },
+ "delhi:ashram": {
+  "lon": 77.258515,
+  "lat": 28.572349,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Ashram"
+ },
+ "delhi:sarai-kale-khan-nizamuddin": {
+  "lon": 77.257228,
+  "lat": 28.588959,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sarai Kale Khan - Nizamuddin"
+ },
+ "delhi:shree-ram-mandir-mayur-vihar": {
+  "lon": 77.298666,
+  "lat": 28.605852,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shree Ram Mandir Mayur Vihar"
+ },
+ "delhi:trilokpuri-sanjay-lake": {
+  "lon": 77.308849,
+  "lat": 28.613446,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Trilokpuri Sanjay Lake"
+ },
+ "delhi:east-vinod-nagar-mayur-vihar-ii": {
+  "lon": 77.305414,
+  "lat": 28.62007,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "East Vinod Nagar - Mayur Vihar - II"
+ },
+ "delhi:mandawali-west-vinod-nagar": {
+  "lon": 77.304462,
+  "lat": 28.624986,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Mandawali - West Vinod Nagar"
+ },
+ "delhi:i-p-extension": {
+  "lon": 77.310726,
+  "lat": 28.631895,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "IP Extension"
+ },
+ "delhi:karkarduma-court": {
+  "lon": 77.295793,
+  "lat": 28.653611,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Karkarduma Court"
+ },
+ "delhi:krishna-nagar": {
+  "lon": 77.290137,
+  "lat": 28.657794,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Krishna Nagar"
+ },
+ "delhi:east-azad-nagar": {
+  "lon": 77.284842,
+  "lat": 28.664676,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "East Azad Nagar"
+ },
+ "delhi:jafrabad": {
+  "lon": 77.274828,
+  "lat": 28.682707,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jaffrabad"
+ },
+ "delhi:maujpur-babarpur": {
+  "lon": 77.279611,
+  "lat": 28.692117,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Maujpur-Babarpur"
+ },
+ "delhi:gokulpuri": {
+  "lon": 77.286109,
+  "lat": 28.70245,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Gokulpuri"
+ },
+ "delhi:johri-enclave": {
+  "lon": 77.290124,
+  "lat": 28.71288,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Johri Enclave"
+ },
+ "delhi:shiv-vihar": {
+  "lon": 77.289444,
+  "lat": 28.721413,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shiv Vihar"
+ },
+ "delhi:burari": {
+  "lon": 77.199572,
+  "lat": 28.729829,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Burari"
+ },
+ "delhi:jharoda-majra": {
+  "lon": 77.213689,
+  "lat": 28.72491,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jharoda Majra"
+ },
+ "delhi:jagatpur-wazirabad": {
+  "lon": 77.223955,
+  "lat": 28.721138,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jagatpur - Wazirabad"
+ },
+ "delhi:soorghat": {
+  "lon": 77.227465,
+  "lat": 28.710224,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Soorghat"
+ },
+ "delhi:nanaksar-sonia-vihar": {
+  "lon": 77.242505,
+  "lat": 28.708703,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nanaksar - Sonia Vihar"
+ },
+ "delhi:khajuri-khas": {
+  "lon": 77.254481,
+  "lat": 28.705209,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Khajuri Khas"
+ },
+ "delhi:bhajanpura": {
+  "lon": 77.262646,
+  "lat": 28.703598,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Bhajanpura"
+ },
+ "delhi:yamuna-vihar": {
+  "lon": 77.277308,
+  "lat": 28.702378,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Yamuna Vihar"
+ },
+ "delhi:krishna-park-extn": {
+  "lon": 77.084345,
+  "lat": 28.64779,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Krishna Park Extension"
+ },
+ "delhi:dabri-mor-janakpuri-south": {
+  "lon": 77.085198,
+  "lat": 28.615739,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dabri Mor - Janakpuri South"
+ },
+ "delhi:dashrathpuri": {
+  "lon": 77.082379,
+  "lat": 28.601864,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dashrath Puri"
+ },
+ "delhi:palam": {
+  "lon": 77.083073,
+  "lat": 28.588918,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Palam"
+ },
+ "delhi:sadar-bazar-cantonment": {
+  "lon": 77.111132,
+  "lat": 28.577117,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sadar Bazar Cantonment"
+ },
+ "delhi:terminal-1-igi-airport": {
+  "lon": 77.12265,
+  "lat": 28.564854,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Terminal 1 IGI Airport"
+ },
+ "delhi:shankar-vihar": {
+  "lon": 77.140266,
+  "lat": 28.560849,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shankar Vihar"
+ },
+ "delhi:vasant-vihar": {
+  "lon": 77.161101,
+  "lat": 28.557829,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Vasant Vihar"
+ },
+ "delhi:munirka": {
+  "lon": 77.175059,
+  "lat": 28.556898,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Munirka"
+ },
+ "delhi:r-k-puram": {
+  "lon": 77.185519,
+  "lat": 28.550382,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "R. K. Puram"
+ },
+ "delhi:iit": {
+  "lon": 77.194534,
+  "lat": 28.54702,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "IIT Delhi"
+ },
+ "delhi:panchsheel-park": {
+  "lon": 77.221093,
+  "lat": 28.542375,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Panchsheel Park"
+ },
+ "delhi:chirag-delhi": {
+  "lon": 77.230301,
+  "lat": 28.541113,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Chirag Delhi"
+ },
+ "delhi:greater-kailash": {
+  "lon": 77.238464,
+  "lat": 28.5419,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Greater Kailash"
+ },
+ "delhi:nehru-enclave": {
+  "lon": 77.251506,
+  "lat": 28.546058,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nehru Enclave"
+ },
+ "delhi:okhla-nsic": {
+  "lon": 77.264813,
+  "lat": 28.554468,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Okhla NSIC"
+ },
+ "delhi:sukhdev-vihar": {
+  "lon": 77.274941,
+  "lat": 28.559783,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sukhdev Vihar"
+ },
+ "delhi:jamia-millia-islamia": {
+  "lon": 77.286339,
+  "lat": 28.56305,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jamia Millia Islamia"
+ },
+ "delhi:okhla-vihar": {
+  "lon": 77.291875,
+  "lat": 28.561301,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Okhla Vihar"
+ },
+ "delhi:jasola-vihar-shaheen-bagh": {
+  "lon": 77.296658,
+  "lat": 28.545828,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Jasola Vihar Shaheen Bagh"
+ },
+ "delhi:kalindi-kunj": {
+  "lon": 77.310112,
+  "lat": 28.542915,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Kalindi Kunj"
+ },
+ "delhi:okhla-bird-sanctuary": {
+  "lon": 77.321597,
+  "lat": 28.552942,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Okhla Bird Sanctuary"
+ },
+ "delhi:bhalaswa": {
+  "lon": 77.168077,
+  "lat": 28.736932,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Bhalaswa"
+ },
+ "delhi:haiderpur-village": {
+  "lon": 77.142447,
+  "lat": 28.724887,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Haiderpur Village"
+ },
+ "delhi:uttari-pitampura-prashant-vihar": {
+  "lon": 77.138692,
+  "lat": 28.713079,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "North Pitampura - Prashant Vihar"
+ },
+ "delhi:deepali-chowk": {
+  "lon": 77.118278,
+  "lat": 28.698096,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Deepali Chowk"
+ },
+ "delhi:nangli": {
+  "lon": 77.01044,
+  "lat": 28.6173,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Nangli"
+ },
+ "delhi:najafgarh": {
+  "lon": 76.986543,
+  "lat": 28.612452,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Najafgarh"
+ },
+ "delhi:dhansa-bus-stand": {
+  "lon": 76.978541,
+  "lat": 28.611909,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dhansa Bus Stand"
+ },
+ "delhi:shivaji-stadium": {
+  "lon": 77.211321,
+  "lat": 28.628897,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Shivaji Stadium"
+ },
+ "delhi:dhaula-kuan": {
+  "lon": 77.1617,
+  "lat": 28.591888,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Dhaula Kuan"
+ },
+ "delhi:delhi-aerocity": {
+  "lon": 77.120803,
+  "lat": 28.548779,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Delhi Aerocity"
+ },
+ "delhi:airport-t-3": {
+  "lon": 77.086709,
+  "lat": 28.556453,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "IGI Airport"
+ },
+ "delhi:yashobhoomi-dwarka-sector-25": {
+  "lon": 77.045309,
+  "lat": 28.55083,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Yashobhoomi Dwarka Sector 25"
+ },
+ "delhi:sector-51": {
+  "lon": 77.375259,
+  "lat": 28.58572,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 51"
+ },
+ "delhi:sector-50": {
+  "lon": 77.378235,
+  "lat": 28.574356,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Rainbow Metro Station"
+ },
+ "delhi:sector-76": {
+  "lon": 77.379657,
+  "lat": 28.565333,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 76"
+ },
+ "delhi:sector-101": {
+  "lon": 77.384945,
+  "lat": 28.556052,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 101"
+ },
+ "delhi:sector-81": {
+  "lon": 77.389941,
+  "lat": 28.549299,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 81"
+ },
+ "delhi:n-s-e-z": {
+  "lon": 77.394753,
+  "lat": 28.53241,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "NSEZ"
+ },
+ "delhi:sector-83": {
+  "lon": 77.39644,
+  "lat": 28.522274,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 83"
+ },
+ "delhi:sector-137": {
+  "lon": 77.403604,
+  "lat": 28.510772,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 137"
+ },
+ "delhi:sector-142": {
+  "lon": 77.412857,
+  "lat": 28.498992,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 142"
+ },
+ "delhi:sector-143": {
+  "lon": 77.422374,
+  "lat": 28.494259,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 143"
+ },
+ "delhi:sector-144": {
+  "lon": 77.433071,
+  "lat": 28.486291,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 144"
+ },
+ "delhi:sector-145": {
+  "lon": 77.442404,
+  "lat": 28.479001,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 145"
+ },
+ "delhi:sector-146": {
+  "lon": 77.455183,
+  "lat": 28.468839,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 146"
+ },
+ "delhi:sector-147": {
+  "lon": 77.466159,
+  "lat": 28.45933,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 147"
+ },
+ "delhi:sector-148": {
+  "lon": 77.476599,
+  "lat": 28.448061,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Noida Sector 148"
+ },
+ "delhi:knowledge-park-ii": {
+  "lon": 77.500316,
+  "lat": 28.457052,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Knowledge Park II"
+ },
+ "delhi:pari-chowk": {
+  "lon": 77.508352,
+  "lat": 28.463396,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Pari Chowk"
+ },
+ "delhi:alpha-1": {
+  "lon": 77.512729,
+  "lat": 28.47103,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Alpha 1"
+ },
+ "delhi:delta-1": {
+  "lon": 77.525717,
+  "lat": 28.478471,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Delta 1"
+ },
+ "delhi:gnida-office": {
+  "lon": 77.536499,
+  "lat": 28.48468,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "GNIDA Office"
+ },
+ "delhi:depot-station": {
+  "lon": 77.544001,
+  "lat": 28.489009,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Depot Station"
+ },
+ "delhi:sector-55-56": {
+  "lon": 77.105111,
+  "lat": 28.423327,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sector 55–56"
+ },
+ "delhi:sector-54-chowk": {
+  "lon": 77.104853,
+  "lat": 28.432971,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sector 54 Chowk"
+ },
+ "delhi:sector-53-54": {
+  "lon": 77.100452,
+  "lat": 28.446381,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sector 53-54"
+ },
+ "delhi:sector-42-43": {
+  "lon": 77.096941,
+  "lat": 28.457424,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Sector 42-43"
+ },
+ "delhi:phase-1": {
+  "lon": 77.093949,
+  "lat": 28.471426,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "DLF Phase 1"
+ },
+ "delhi:phase-2": {
+  "lon": 77.09299,
+  "lat": 28.48756,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "DLF Phase 2"
+ },
+ "delhi:phase-3": {
+  "lon": 77.093661,
+  "lat": 28.493568,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Phase 3 Station"
+ },
+ "delhi:moulsari-avenue": {
+  "lon": 77.094631,
+  "lat": 28.500778,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Moulsari Avenue Station"
+ },
+ "delhi:cyber-city": {
+  "lon": 77.089193,
+  "lat": 28.498064,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Cyber City"
+ },
+ "delhi:belvedere-towers": {
+  "lon": 77.088132,
+  "lat": 28.491702,
+  "source": "osm:osm-metro-2026-11-24.json",
+  "osmName": "Belvedere Towers"
+ }
+}

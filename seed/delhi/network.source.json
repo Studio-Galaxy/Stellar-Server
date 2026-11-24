@@ -1,0 +1,165 @@
+{
+  "$comment": "Stellar's own Delhi NCR network, transcribed by hand from the official DMRC map 'Metro Network in Delhi-NCR', as on August 2026 (Server/data/dmrc-map-2026-09-10.pdf, linked from delhimetrorail.com). Stations are listed in running order from `from` to `to`. Only operational (solid) sections are included; dotted under-construction sections are left out. A station name that appears on several lines is the same station (an interchange). Stations marked {\"name\", \"open\": false} are built but trains do not stop yet.",
+  "source": {
+    "title": "Metro Network in Delhi-NCR (DMRC, NMRC, NCRTC)",
+    "asOf": "2026-08",
+    "file": "Server/data/dmrc-map-2026-09-10.pdf",
+    "url": "https://delhimetrorail.com/static/media/DMRC-NMRC-and-NCRTC-MAP-10.09.2026.165037e4.pdf",
+    "transcribed": "2026-11-24"
+  },
+  "lines": [
+    {
+      "id": "delhi:red", "name": "Red Line", "ref": "Line 1", "color": "red", "operator": "DMRC",
+      "official": { "stations": 29, "km": 34.549 },
+      "stations": [
+        "Rithala", "Dr. Baba Saheb Ambedkar Hospital", "Rohini", "Madhuban Chowk", "Kohat Enclave",
+        "Netaji Subhash Place", "Keshav Puram", "Kanhaiya Nagar", "Inderlok", "Shastri Nagar", "Pratap Nagar",
+        "Pulbangash", "Tis Hazari", "Kashmere Gate", "Shastri Park", "Seelampur", "Welcome", "Shahdara",
+        "Mansarovar Park", "Jhilmil", "Dilshad Garden", "Shaheed Nagar", "Raj Bagh",
+        "Major Mohit Sharma Rajendra Nagar", "Shyam Park", "Mohan Nagar", "Arthala", "Hindon River",
+        "Shaheed Sthal (New Bus Adda)"
+      ]
+    },
+    {
+      "id": "delhi:yellow", "name": "Yellow Line", "ref": "Line 2", "color": "yellow", "operator": "DMRC",
+      "official": { "stations": 37, "km": 49.019 },
+      "stations": [
+        "Samaypur Badli", "Rohini Sector-18, 19", "Haiderpur Badli Mor", "Jahangirpuri", "Adarsh Nagar",
+        "Azadpur", "Model Town", "Guru Teg Bahadur Nagar", "Vishwavidyalaya", "Vidhan Sabha", "Civil Lines",
+        "Kashmere Gate", "Chandni Chowk", "Chawri Bazar", "New Delhi", "Rajiv Chowk", "Patel Chowk",
+        "Central Secretariat", "Seva Teerth", "Lok Kalyan Marg", "Jor Bagh", "Dilli Haat-INA", "AIIMS",
+        "Green Park", "Hauz Khas", "Malviya Nagar", "Saket", "Qutab Minar", "Chhatarpur", "Sultanpur",
+        "Ghitorni", "Arjan Garh", "Guru Dronacharya", "Sikanderpur", "M.G. Road", "IFFCO Chowk",
+        "Millennium City Centre Gurugram"
+      ]
+    },
+    {
+      "id": "delhi:blue", "name": "Blue Line", "ref": "Line 3", "color": "blue", "operator": "DMRC",
+      "official": { "stations": 50, "km": 56.114 },
+      "stations": [
+        "Dwarka Sector-21", "Dwarka Sector-8", "Dwarka Sector-9", "Dwarka Sector-10", "Dwarka Sector-11",
+        "Dwarka Sector-12", "Dwarka Sector-13", "Dwarka Sector-14", "Dwarka-Kakrola", "Dwarka Mor", "Nawada",
+        "Uttam Nagar West", "Uttam Nagar East", "Janakpuri West", "Janakpuri East", "Tilak Nagar",
+        "Subhash Nagar", "Tagore Garden", "Rajouri Garden", "Ramesh Nagar", "Moti Nagar", "Kirti Nagar",
+        "Shadipur", "Patel Nagar", "Rajendra Place", "Karol Bagh", "Jhandewalan", "Ramakrishna Ashram Marg",
+        "Rajiv Chowk", "Barakhamba Road", "Mandi House", "Supreme Court", "Indraprastha", "Yamuna Bank",
+        "Akshardham", "Mayur Vihar-I", "Mayur Vihar Extension", "New Ashok Nagar", "Noida Sector-15",
+        "Noida Sector-16", "Noida Sector-18", "Botanical Garden", "Golf Course", "Noida City Centre",
+        "Sector-34 Noida", "Sector-52 Noida", "Sector-61 Noida", "Sector-59 Noida", "Sector-62 Noida",
+        "Noida Electronic City"
+      ]
+    },
+    {
+      "id": "delhi:blue-vaishali", "name": "Blue Line (Vaishali branch)", "ref": "Line 4", "color": "blue", "operator": "DMRC",
+      "official": { "stations": 8, "km": 8.511 },
+      "stations": [
+        "Yamuna Bank", "Laxmi Nagar", "Nirman Vihar", "Preet Vihar", "Karkarduma", "Anand Vihar ISBT",
+        "Kaushambi", "Vaishali"
+      ]
+    },
+    {
+      "id": "delhi:green", "name": "Green Line", "ref": "Line 5", "color": "green", "operator": "DMRC",
+      "official": { "stations": 24, "km": 28.781, "note": "Both branches: 22 on the main line + Satguru Ram Singh Marg and Kirti Nagar. Punjabi Bagh West (interchange circle on the map, and a Green Line stop in OpenStreetMap) is on this line." },
+      "stations": [
+        "Inderlok", "Ashok Park Main", "Punjabi Bagh", "Punjabi Bagh West", "Shivaji Park", "Madipur", "Paschim Vihar East",
+        "Paschim Vihar West", "Peeragarhi", "Udyog Nagar", "Maharaja Surajmal Stadium", "Nangloi",
+        "Nangloi Railway Station", "Rajdhani Park", "Mundka", "Mundka Industrial Area (MIA)",
+        "Ghevra Metro Station", "Tikri Kalan", "Tikri Border", "Pandit Shree Ram Sharma", "Bahadurgarh City",
+        "Brig. Hoshiar Singh"
+      ]
+    },
+    {
+      "id": "delhi:green-kirti", "name": "Green Line (Kirti Nagar branch)", "ref": "Line 5", "color": "green", "operator": "DMRC",
+      "official": null,
+      "stations": ["Kirti Nagar", "Satguru Ram Singh Marg", "Ashok Park Main"]
+    },
+    {
+      "id": "delhi:violet", "name": "Violet Line", "ref": "Line 6", "color": "violet", "operator": "DMRC",
+      "official": { "stations": 34, "km": 46.341 },
+      "stations": [
+        "Kashmere Gate", "Lal Quila", "Jama Masjid", "Delhi Gate", "ITO", "Mandi House", "Janpath",
+        "Central Secretariat", "Khan Market", "JLN Stadium", "Jangpura", "Lajpat Nagar", "Moolchand",
+        "Kailash Colony", "Nehru Place", "Kalkaji Mandir", "Govind Puri", "Harkesh Nagar Okhla",
+        "Jasola-Apollo", "Sarita Vihar", "Mohan Estate", "Tughlakabad Rly Colony", "Badarpur Border", "Sarai",
+        "NHPC Chowk", "Mewala Maharajpur", "Sector-28", "Badkal Mor", "Old Faridabad", "Neelam Chowk Ajronda",
+        "Bata Chowk", "Escorts Mujesar", "Sant Surdas (Sihi)", "Raja Nahar Singh (Ballabhgarh)"
+      ]
+    },
+    {
+      "id": "delhi:pink", "name": "Pink Line", "ref": "Line 7", "color": "pink", "operator": "DMRC",
+      "official": { "stations": 45, "km": 71.548, "note": "Majlis Park–Shiv Vihar & Majlis Park–Maujpur-Babarpur. Soorghat is built but not open (official 'under construction: 1 station')." },
+      "stations": [
+        "Majlis Park", "Azadpur", "Shalimar Bagh", "Netaji Subhash Place", "Shakurpur", "Punjabi Bagh West",
+        "ESI-Basaidarapur", "Rajouri Garden", "Mayapuri", "Naraina Vihar", "Delhi Cantt.",
+        "Durgabai Deshmukh South Campus", "Sir M. Vishweshwaraiah Moti Bagh", "Bhikaji Cama Place",
+        "Sarojini Nagar", "Dilli Haat-INA", "South Extension", "Lajpat Nagar", "Vinobapuri", "Ashram",
+        "Sarai Kale Khan-Nizamuddin", "Mayur Vihar-I", "Shree Ram Mandir Mayur Vihar", "Trilokpuri-Sanjay Lake",
+        "East Vinod Nagar-Mayur Vihar II", "Mandawali-West Vinod Nagar", "I.P. Extension", "Anand Vihar ISBT",
+        "Karkarduma", "Karkarduma Court", "Krishna Nagar", "East Azad Nagar", "Welcome", "Jafrabad",
+        "Maujpur-Babarpur", "Gokulpuri", "Johri Enclave", "Shiv Vihar"
+      ]
+    },
+    {
+      "id": "delhi:pink-north", "name": "Pink Line (Majlis Park–Maujpur)", "ref": "Line 7", "color": "pink", "operator": "DMRC",
+      "official": null,
+      "stations": [
+        "Majlis Park", "Burari", "Jharoda Majra", "Jagatpur-Wazirabad", { "name": "Soorghat", "open": false },
+        "Nanaksar-Sonia Vihar", "Khajuri Khas", "Bhajanpura", "Yamuna Vihar", "Maujpur-Babarpur"
+      ]
+    },
+    {
+      "id": "delhi:magenta", "name": "Magenta Line", "ref": "Line 8", "color": "magenta", "operator": "DMRC",
+      "official": { "stations": 33, "km": 49.195, "note": "Official count covers both sections (26 + 7)." },
+      "stations": [
+        "Krishna Park Extn.", "Janakpuri West", "Dabri Mor-Janakpuri South", "Dashrathpuri", "Palam",
+        "Sadar Bazar Cantonment", "Terminal 1-IGI Airport", "Shankar Vihar", "Vasant Vihar", "Munirka",
+        "R.K. Puram", "IIT", "Hauz Khas", "Panchsheel Park", "Chirag Delhi", "Greater Kailash",
+        "Nehru Enclave", "Kalkaji Mandir", "Okhla NSIC", "Sukhdev Vihar", "Jamia Millia Islamia",
+        "Okhla Vihar", "Jasola Vihar Shaheen Bagh", "Kalindi Kunj", "Okhla Bird Sanctuary", "Botanical Garden"
+      ]
+    },
+    {
+      "id": "delhi:magenta-north", "name": "Magenta Line (Majlis Park section)", "ref": "Line 8", "color": "magenta", "operator": "DMRC",
+      "official": null,
+      "stations": [
+        "Majlis Park", "Bhalaswa", "Haiderpur Badli Mor", "Haiderpur Village",
+        "Uttari Pitampura-Prashant Vihar", "Madhuban Chowk", "Deepali Chowk"
+      ]
+    },
+    {
+      "id": "delhi:grey", "name": "Grey Line", "ref": "Line 9", "color": "grey", "operator": "DMRC",
+      "official": { "stations": 4, "km": 5.491 },
+      "stations": ["Dwarka-Kakrola", "Nangli", "Najafgarh", "Dhansa Bus Stand"]
+    },
+    {
+      "id": "delhi:airport", "name": "Airport Express Line", "ref": "Orange", "color": "orange", "operator": "DMRC",
+      "official": { "stations": 7, "km": 24.917 },
+      "stations": [
+        "New Delhi", "Shivaji Stadium", "Dhaula Kuan", "Delhi Aerocity", "Airport (T-3)", "Dwarka Sector-21",
+        "Yashobhoomi Dwarka Sector-25"
+      ]
+    },
+    {
+      "id": "delhi:aqua", "name": "Aqua Line", "ref": "NMRC", "color": "aqua", "operator": "NMRC",
+      "official": { "stations": 21, "km": 29.168 },
+      "stations": [
+        "Sector-51", "Sector-50", "Sector-76", "Sector-101", "Sector-81", "N.S.E.Z.", "Sector-83",
+        "Sector-137", "Sector-142", "Sector-143", "Sector-144", "Sector-145", "Sector-146", "Sector-147",
+        "Sector-148", "Knowledge Park II", "Pari Chowk", "Alpha-1", "Delta-1", "GNIDA Office", "Depot Station"
+      ]
+    },
+    {
+      "id": "delhi:rapid", "name": "Rapid Metro Gurugram", "ref": "RMGL", "color": "rapid", "operator": "RMGL",
+      "official": { "stations": 11, "km": 12.874, "note": "Counted as the loop (6) + the southern line (5) beyond Sikanderpur." },
+      "stations": [
+        "Sector-55-56", "Sector-54 Chowk", "Sector-53-54", "Sector-42-43", "Phase-1", "Sikanderpur",
+        "Phase-2", "Phase-3", "Moulsari Avenue", "Cyber City", "Belvedere Towers", "Phase-2"
+      ],
+      "loop": "The loop closes at Phase-2: Sikanderpur → Phase-2 → Phase-3 → Moulsari Avenue → Cyber City → Belvedere Towers → Phase-2 (confirmed against OpenStreetMap). Direction of travel round the loop not stated on the map — treated as two-way until confirmed."
+    }
+  ],
+  "walkways": [
+    { "a": "Sector-52 Noida", "b": "Sector-51", "note": "Blue ↔ Aqua, walkway shown on the official map" },
+    { "a": "Dhaula Kuan", "b": "Durgabai Deshmukh South Campus", "note": "Airport Express ↔ Pink, walkway/travelator" }
+  ]
+}

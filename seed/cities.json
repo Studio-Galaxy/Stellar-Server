@@ -1,0 +1,6 @@
+[
+  { "_id": "delhi", "name": "Delhi NCR", "status": "live", "order": 1, "cardColor": "#E8D5B5", "liveVersion": null,
+    "subtitle": "DMRC · Noida · Gurugram" },
+  { "_id": "mumbai", "name": "Mumbai", "status": "coming_soon", "order": 2 },
+  { "_id": "bengaluru", "name": "Bengaluru", "status": "coming_soon", "order": 3 }
+]

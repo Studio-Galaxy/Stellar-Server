@@ -1,0 +1,2630 @@
+[
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:rithala",
+  "to": "delhi:dr-baba-saheb-ambedkar-hospital",
+  "km": 1.09,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:dr-baba-saheb-ambedkar-hospital",
+  "to": "delhi:rohini",
+  "km": 1.396,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:rohini",
+  "to": "delhi:madhuban-chowk",
+  "km": 0.703,
+  "minutes": 1.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:madhuban-chowk",
+  "to": "delhi:kohat-enclave",
+  "km": 1.175,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:kohat-enclave",
+  "to": "delhi:netaji-subhash-place",
+  "km": 1.359,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:netaji-subhash-place",
+  "to": "delhi:keshav-puram",
+  "km": 1.144,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:keshav-puram",
+  "to": "delhi:kanhaiya-nagar",
+  "km": 0.829,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:kanhaiya-nagar",
+  "to": "delhi:inderlok",
+  "km": 1.209,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:inderlok",
+  "to": "delhi:shastri-nagar",
+  "km": 1.308,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:shastri-nagar",
+  "to": "delhi:pratap-nagar",
+  "km": 1.8,
+  "minutes": 3.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:pratap-nagar",
+  "to": "delhi:pulbangash",
+  "km": 0.879,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:pulbangash",
+  "to": "delhi:tis-hazari",
+  "km": 0.954,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:tis-hazari",
+  "to": "delhi:kashmere-gate",
+  "km": 1.192,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:kashmere-gate",
+  "to": "delhi:shastri-park",
+  "km": 2.306,
+  "minutes": 4.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:shastri-park",
+  "to": "delhi:seelampur",
+  "km": 1.685,
+  "minutes": 3.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:seelampur",
+  "to": "delhi:welcome",
+  "km": 1.125,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:welcome",
+  "to": "delhi:shahdara",
+  "km": 1.296,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:shahdara",
+  "to": "delhi:mansarovar-park",
+  "km": 1.155,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:mansarovar-park",
+  "to": "delhi:jhilmil",
+  "km": 1.188,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:jhilmil",
+  "to": "delhi:dilshad-garden",
+  "km": 0.94,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:dilshad-garden",
+  "to": "delhi:shaheed-nagar",
+  "km": 1.282,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:shaheed-nagar",
+  "to": "delhi:raj-bagh",
+  "km": 1.334,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:raj-bagh",
+  "to": "delhi:major-mohit-sharma-rajendra-nagar",
+  "km": 1.165,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:major-mohit-sharma-rajendra-nagar",
+  "to": "delhi:shyam-park",
+  "km": 1.28,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:shyam-park",
+  "to": "delhi:mohan-nagar",
+  "km": 1.381,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:mohan-nagar",
+  "to": "delhi:arthala",
+  "km": 0.84,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:arthala",
+  "to": "delhi:hindon-river",
+  "km": 1.567,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "from": "delhi:hindon-river",
+  "to": "delhi:shaheed-sthal-new-bus-adda",
+  "km": 0.97,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:samaypur-badli",
+  "to": "delhi:rohini-sector-18-19",
+  "km": 0.766,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:rohini-sector-18-19",
+  "to": "delhi:haiderpur-badli-mor",
+  "km": 1.394,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:haiderpur-badli-mor",
+  "to": "delhi:jahangirpuri",
+  "km": 1.509,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:jahangirpuri",
+  "to": "delhi:adarsh-nagar",
+  "km": 1.385,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:adarsh-nagar",
+  "to": "delhi:azadpur",
+  "km": 1.655,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:azadpur",
+  "to": "delhi:model-town",
+  "km": 1.414,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:model-town",
+  "to": "delhi:guru-teg-bahadur-nagar",
+  "km": 1.411,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:guru-teg-bahadur-nagar",
+  "to": "delhi:vishwavidyalaya",
+  "km": 0.946,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:vishwavidyalaya",
+  "to": "delhi:vidhan-sabha",
+  "km": 1.276,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:vidhan-sabha",
+  "to": "delhi:civil-lines",
+  "km": 1.183,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:civil-lines",
+  "to": "delhi:kashmere-gate",
+  "km": 1.115,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:kashmere-gate",
+  "to": "delhi:chandni-chowk",
+  "km": 1.157,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:chandni-chowk",
+  "to": "delhi:chawri-bazar",
+  "km": 1.164,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:chawri-bazar",
+  "to": "delhi:new-delhi",
+  "km": 0.796,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:new-delhi",
+  "to": "delhi:rajiv-chowk",
+  "km": 1.324,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:rajiv-chowk",
+  "to": "delhi:patel-chowk",
+  "km": 1.303,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:patel-chowk",
+  "to": "delhi:central-secretariat",
+  "km": 0.865,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:central-secretariat",
+  "to": "delhi:seva-teerth",
+  "km": 0.762,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:seva-teerth",
+  "to": "delhi:lok-kalyan-marg",
+  "km": 1.454,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:lok-kalyan-marg",
+  "to": "delhi:jor-bagh",
+  "km": 1.296,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:jor-bagh",
+  "to": "delhi:dilli-haat-ina",
+  "km": 1.571,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:dilli-haat-ina",
+  "to": "delhi:aiims",
+  "km": 0.844,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:aiims",
+  "to": "delhi:green-park",
+  "km": 1.062,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:green-park",
+  "to": "delhi:hauz-khas",
+  "km": 1.697,
+  "minutes": 3.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:hauz-khas",
+  "to": "delhi:malviya-nagar",
+  "km": 1.765,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:malviya-nagar",
+  "to": "delhi:saket",
+  "km": 0.977,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:saket",
+  "to": "delhi:qutab-minar",
+  "km": 1.928,
+  "minutes": 3.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:qutab-minar",
+  "to": "delhi:chhatarpur",
+  "km": 1.416,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:chhatarpur",
+  "to": "delhi:sultanpur",
+  "km": 1.688,
+  "minutes": 3.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:sultanpur",
+  "to": "delhi:ghitorni",
+  "km": 1.433,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:ghitorni",
+  "to": "delhi:arjan-garh",
+  "km": 2.908,
+  "minutes": 5.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:arjan-garh",
+  "to": "delhi:guru-dronacharya",
+  "km": 2.471,
+  "minutes": 4.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:guru-dronacharya",
+  "to": "delhi:sikanderpur",
+  "km": 0.918,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:sikanderpur",
+  "to": "delhi:m-g-road",
+  "km": 1.449,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:m-g-road",
+  "to": "delhi:iffco-chowk",
+  "km": 1.166,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "from": "delhi:iffco-chowk",
+  "to": "delhi:millennium-city-centre-gurugram",
+  "km": 1.55,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-21",
+  "to": "delhi:dwarka-sector-8",
+  "km": 1.8,
+  "minutes": 3.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-8",
+  "to": "delhi:dwarka-sector-9",
+  "km": 1.015,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-9",
+  "to": "delhi:dwarka-sector-10",
+  "km": 1.116,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-10",
+  "to": "delhi:dwarka-sector-11",
+  "km": 1.027,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-11",
+  "to": "delhi:dwarka-sector-12",
+  "km": 1.108,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-12",
+  "to": "delhi:dwarka-sector-13",
+  "km": 0.914,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-13",
+  "to": "delhi:dwarka-sector-14",
+  "km": 0.975,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-sector-14",
+  "to": "delhi:dwarka-kakrola",
+  "km": 1.562,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-kakrola",
+  "to": "delhi:dwarka-mor",
+  "km": 1.173,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:dwarka-mor",
+  "to": "delhi:nawada",
+  "km": 1.201,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:nawada",
+  "to": "delhi:uttam-nagar-west",
+  "km": 1.091,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:uttam-nagar-west",
+  "to": "delhi:uttam-nagar-east",
+  "km": 1.034,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:uttam-nagar-east",
+  "to": "delhi:janakpuri-west",
+  "km": 1.387,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:janakpuri-west",
+  "to": "delhi:janakpuri-east",
+  "km": 0.983,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:janakpuri-east",
+  "to": "delhi:tilak-nagar",
+  "km": 1.069,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:tilak-nagar",
+  "to": "delhi:subhash-nagar",
+  "km": 0.994,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:subhash-nagar",
+  "to": "delhi:tagore-garden",
+  "km": 0.861,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:tagore-garden",
+  "to": "delhi:rajouri-garden",
+  "km": 1.307,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:rajouri-garden",
+  "to": "delhi:ramesh-nagar",
+  "km": 0.88,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:ramesh-nagar",
+  "to": "delhi:moti-nagar",
+  "km": 1.242,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:moti-nagar",
+  "to": "delhi:kirti-nagar",
+  "km": 0.924,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:kirti-nagar",
+  "to": "delhi:shadipur",
+  "km": 0.842,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:shadipur",
+  "to": "delhi:patel-nagar",
+  "km": 1.35,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:patel-nagar",
+  "to": "delhi:rajendra-place",
+  "km": 0.957,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:rajendra-place",
+  "to": "delhi:karol-bagh",
+  "km": 1.053,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:karol-bagh",
+  "to": "delhi:jhandewalan",
+  "km": 1.155,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:jhandewalan",
+  "to": "delhi:ramakrishna-ashram-marg",
+  "km": 1.056,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:ramakrishna-ashram-marg",
+  "to": "delhi:rajiv-chowk",
+  "km": 1.337,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:rajiv-chowk",
+  "to": "delhi:barakhamba-road",
+  "km": 0.655,
+  "minutes": 1.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:barakhamba-road",
+  "to": "delhi:mandi-house",
+  "km": 1.05,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:mandi-house",
+  "to": "delhi:supreme-court",
+  "km": 0.878,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:supreme-court",
+  "to": "delhi:indraprastha",
+  "km": 0.785,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:indraprastha",
+  "to": "delhi:yamuna-bank",
+  "km": 1.888,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:yamuna-bank",
+  "to": "delhi:akshardham",
+  "km": 1.329,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:akshardham",
+  "to": "delhi:mayur-vihar-i",
+  "km": 1.95,
+  "minutes": 3.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:mayur-vihar-i",
+  "to": "delhi:mayur-vihar-extension",
+  "km": 1.164,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:mayur-vihar-extension",
+  "to": "delhi:new-ashok-nagar",
+  "km": 0.916,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:new-ashok-nagar",
+  "to": "delhi:noida-sector-15",
+  "km": 1.148,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:noida-sector-15",
+  "to": "delhi:noida-sector-16",
+  "km": 1.004,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:noida-sector-16",
+  "to": "delhi:noida-sector-18",
+  "km": 1.193,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:noida-sector-18",
+  "to": "delhi:botanical-garden",
+  "km": 1.133,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:botanical-garden",
+  "to": "delhi:golf-course",
+  "km": 1.307,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:golf-course",
+  "to": "delhi:noida-city-centre",
+  "km": 1.311,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:noida-city-centre",
+  "to": "delhi:sector-34-noida",
+  "km": 0.972,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:sector-34-noida",
+  "to": "delhi:sector-52-noida",
+  "km": 1.214,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:sector-52-noida",
+  "to": "delhi:sector-61-noida",
+  "km": 1.247,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:sector-61-noida",
+  "to": "delhi:sector-59-noida",
+  "km": 1.034,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:sector-59-noida",
+  "to": "delhi:sector-62-noida",
+  "km": 1.211,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "from": "delhi:sector-62-noida",
+  "to": "delhi:noida-electronic-city",
+  "km": 1.31,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:yamuna-bank",
+  "to": "delhi:laxmi-nagar",
+  "km": 1.309,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:laxmi-nagar",
+  "to": "delhi:nirman-vihar",
+  "km": 1.177,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:nirman-vihar",
+  "to": "delhi:preet-vihar",
+  "km": 1.046,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:preet-vihar",
+  "to": "delhi:karkarduma",
+  "km": 1.388,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:karkarduma",
+  "to": "delhi:anand-vihar-isbt",
+  "km": 1.069,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:anand-vihar-isbt",
+  "to": "delhi:kaushambi",
+  "km": 0.879,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "from": "delhi:kaushambi",
+  "to": "delhi:vaishali",
+  "km": 1.643,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:inderlok",
+  "to": "delhi:ashok-park-main",
+  "km": 1.51,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:ashok-park-main",
+  "to": "delhi:punjabi-bagh",
+  "km": 0.974,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:punjabi-bagh",
+  "to": "delhi:punjabi-bagh-west",
+  "km": 0.669,
+  "minutes": 1.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:punjabi-bagh-west",
+  "to": "delhi:shivaji-park",
+  "km": 0.993,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:shivaji-park",
+  "to": "delhi:madipur",
+  "km": 1.176,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:madipur",
+  "to": "delhi:paschim-vihar-east",
+  "km": 0.748,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:paschim-vihar-east",
+  "to": "delhi:paschim-vihar-west",
+  "km": 1.064,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:paschim-vihar-west",
+  "to": "delhi:peeragarhi",
+  "km": 1.009,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:peeragarhi",
+  "to": "delhi:udyog-nagar",
+  "km": 1.247,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:udyog-nagar",
+  "to": "delhi:maharaja-surajmal-stadium",
+  "km": 0.722,
+  "minutes": 1.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:maharaja-surajmal-stadium",
+  "to": "delhi:nangloi",
+  "km": 0.972,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:nangloi",
+  "to": "delhi:nangloi-railway-station",
+  "km": 0.889,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:nangloi-railway-station",
+  "to": "delhi:rajdhani-park",
+  "km": 1.287,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:rajdhani-park",
+  "to": "delhi:mundka",
+  "km": 1.399,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:mundka",
+  "to": "delhi:mundka-industrial-area-mia",
+  "km": 1.412,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:mundka-industrial-area-mia",
+  "to": "delhi:ghevra-metro-station",
+  "km": 2.208,
+  "minutes": 4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:ghevra-metro-station",
+  "to": "delhi:tikri-kalan",
+  "km": 1.99,
+  "minutes": 3.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:tikri-kalan",
+  "to": "delhi:tikri-border",
+  "km": 1.38,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:tikri-border",
+  "to": "delhi:pandit-shree-ram-sharma",
+  "km": 1.359,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:pandit-shree-ram-sharma",
+  "to": "delhi:bahadurgarh-city",
+  "km": 1.654,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "from": "delhi:bahadurgarh-city",
+  "to": "delhi:brig-hoshiar-singh",
+  "km": 1.881,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green-kirti",
+  "from": "delhi:kirti-nagar",
+  "to": "delhi:satguru-ram-singh-marg",
+  "km": 1.076,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:green-kirti",
+  "from": "delhi:satguru-ram-singh-marg",
+  "to": "delhi:ashok-park-main",
+  "km": 1.162,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:kashmere-gate",
+  "to": "delhi:lal-quila",
+  "km": 1.53,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:lal-quila",
+  "to": "delhi:jama-masjid",
+  "km": 0.895,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:jama-masjid",
+  "to": "delhi:delhi-gate",
+  "km": 1.331,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:delhi-gate",
+  "to": "delhi:ito",
+  "km": 1.315,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:ito",
+  "to": "delhi:mandi-house",
+  "km": 0.783,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:mandi-house",
+  "to": "delhi:janpath",
+  "km": 1.574,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:janpath",
+  "to": "delhi:central-secretariat",
+  "km": 1.216,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:central-secretariat",
+  "to": "delhi:khan-market",
+  "km": 2.397,
+  "minutes": 4.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:khan-market",
+  "to": "delhi:jln-stadium",
+  "km": 1.74,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:jln-stadium",
+  "to": "delhi:jangpura",
+  "km": 0.849,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:jangpura",
+  "to": "delhi:lajpat-nagar",
+  "km": 1.56,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:lajpat-nagar",
+  "to": "delhi:moolchand",
+  "km": 0.754,
+  "minutes": 1.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:moolchand",
+  "to": "delhi:kailash-colony",
+  "km": 1.351,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:kailash-colony",
+  "to": "delhi:nehru-place",
+  "km": 1.125,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:nehru-place",
+  "to": "delhi:kalkaji-mandir",
+  "km": 0.678,
+  "minutes": 1.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:kalkaji-mandir",
+  "to": "delhi:govind-puri",
+  "km": 0.925,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:govind-puri",
+  "to": "delhi:harkesh-nagar-okhla",
+  "km": 1.185,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:harkesh-nagar-okhla",
+  "to": "delhi:jasola-apollo",
+  "km": 0.972,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:jasola-apollo",
+  "to": "delhi:sarita-vihar",
+  "km": 1.297,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:sarita-vihar",
+  "to": "delhi:mohan-estate",
+  "km": 1.246,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:mohan-estate",
+  "to": "delhi:tughlakabad-rly-colony",
+  "km": 2.122,
+  "minutes": 3.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:tughlakabad-rly-colony",
+  "to": "delhi:badarpur-border",
+  "km": 1.167,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:badarpur-border",
+  "to": "delhi:sarai",
+  "km": 1.824,
+  "minutes": 3.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:sarai",
+  "to": "delhi:nhpc-chowk",
+  "km": 2.422,
+  "minutes": 4.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:nhpc-chowk",
+  "to": "delhi:mewala-maharajpur",
+  "km": 1.095,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:mewala-maharajpur",
+  "to": "delhi:sector-28",
+  "km": 1.252,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:sector-28",
+  "to": "delhi:badkal-mor",
+  "km": 1.847,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:badkal-mor",
+  "to": "delhi:old-faridabad",
+  "km": 1.426,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:old-faridabad",
+  "to": "delhi:neelam-chowk-ajronda",
+  "km": 1.591,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:neelam-chowk-ajronda",
+  "to": "delhi:bata-chowk",
+  "km": 1.394,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:bata-chowk",
+  "to": "delhi:escorts-mujesar",
+  "km": 1.867,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:escorts-mujesar",
+  "to": "delhi:sant-surdas-sihi",
+  "km": 1.864,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "from": "delhi:sant-surdas-sihi",
+  "to": "delhi:raja-nahar-singh-ballabhgarh",
+  "km": 1.747,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:majlis-park",
+  "to": "delhi:azadpur",
+  "km": 2.232,
+  "minutes": 4.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:azadpur",
+  "to": "delhi:shalimar-bagh",
+  "km": 1.802,
+  "minutes": 3.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:shalimar-bagh",
+  "to": "delhi:netaji-subhash-place",
+  "km": 1.549,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:netaji-subhash-place",
+  "to": "delhi:shakurpur",
+  "km": 1.263,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:shakurpur",
+  "to": "delhi:punjabi-bagh-west",
+  "km": 1.889,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:punjabi-bagh-west",
+  "to": "delhi:esi-basaidarapur",
+  "km": 2.33,
+  "minutes": 4.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:esi-basaidarapur",
+  "to": "delhi:rajouri-garden",
+  "km": 1.07,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:rajouri-garden",
+  "to": "delhi:mayapuri",
+  "km": 1.748,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:mayapuri",
+  "to": "delhi:naraina-vihar",
+  "km": 1.751,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:naraina-vihar",
+  "to": "delhi:delhi-cantt",
+  "km": 2.007,
+  "minutes": 3.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:delhi-cantt",
+  "to": "delhi:durgabai-deshmukh-south-campus",
+  "km": 3.978,
+  "minutes": 7.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:durgabai-deshmukh-south-campus",
+  "to": "delhi:sir-m-vishweshwaraiah-moti-bagh",
+  "km": 1.503,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:sir-m-vishweshwaraiah-moti-bagh",
+  "to": "delhi:bhikaji-cama-place",
+  "km": 1.677,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:bhikaji-cama-place",
+  "to": "delhi:sarojini-nagar",
+  "km": 1.311,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:sarojini-nagar",
+  "to": "delhi:dilli-haat-ina",
+  "km": 1.156,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:dilli-haat-ina",
+  "to": "delhi:south-extension",
+  "km": 1.481,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:south-extension",
+  "to": "delhi:lajpat-nagar",
+  "km": 1.855,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:lajpat-nagar",
+  "to": "delhi:vinobapuri",
+  "km": 1.391,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:vinobapuri",
+  "to": "delhi:ashram",
+  "km": 1.291,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:ashram",
+  "to": "delhi:sarai-kale-khan-nizamuddin",
+  "km": 2.07,
+  "minutes": 3.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:sarai-kale-khan-nizamuddin",
+  "to": "delhi:mayur-vihar-i",
+  "km": 4.054,
+  "minutes": 7.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:mayur-vihar-i",
+  "to": "delhi:shree-ram-mandir-mayur-vihar",
+  "km": 0.95,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:shree-ram-mandir-mayur-vihar",
+  "to": "delhi:trilokpuri-sanjay-lake",
+  "km": 1.458,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:trilokpuri-sanjay-lake",
+  "to": "delhi:east-vinod-nagar-mayur-vihar-ii",
+  "km": 0.905,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:east-vinod-nagar-mayur-vihar-ii",
+  "to": "delhi:mandawali-west-vinod-nagar",
+  "km": 0.62,
+  "minutes": 1.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:mandawali-west-vinod-nagar",
+  "to": "delhi:i-p-extension",
+  "km": 1.098,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:i-p-extension",
+  "to": "delhi:anand-vihar-isbt",
+  "km": 1.956,
+  "minutes": 3.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:anand-vihar-isbt",
+  "to": "delhi:karkarduma",
+  "km": 1.134,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:karkarduma",
+  "to": "delhi:karkarduma-court",
+  "km": 1.244,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:karkarduma-court",
+  "to": "delhi:krishna-nagar",
+  "km": 0.807,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:krishna-nagar",
+  "to": "delhi:east-azad-nagar",
+  "km": 1.032,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:east-azad-nagar",
+  "to": "delhi:welcome",
+  "km": 1.228,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:welcome",
+  "to": "delhi:jafrabad",
+  "km": 1.35,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:jafrabad",
+  "to": "delhi:maujpur-babarpur",
+  "km": 1.281,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:maujpur-babarpur",
+  "to": "delhi:gokulpuri",
+  "km": 1.467,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:gokulpuri",
+  "to": "delhi:johri-enclave",
+  "km": 1.369,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:johri-enclave",
+  "to": "delhi:shiv-vihar",
+  "km": 1.063,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:majlis-park",
+  "to": "delhi:burari",
+  "km": 2.053,
+  "minutes": 3.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:burari",
+  "to": "delhi:jharoda-majra",
+  "km": 1.656,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:jharoda-majra",
+  "to": "delhi:jagatpur-wazirabad",
+  "km": 1.214,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:jagatpur-wazirabad",
+  "to": "delhi:nanaksar-sonia-vihar",
+  "km": 3.061,
+  "minutes": 5.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:nanaksar-sonia-vihar",
+  "to": "delhi:khajuri-khas",
+  "km": 1.376,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:khajuri-khas",
+  "to": "delhi:bhajanpura",
+  "km": 0.913,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:bhajanpura",
+  "to": "delhi:yamuna-vihar",
+  "km": 1.606,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-north",
+  "from": "delhi:yamuna-vihar",
+  "to": "delhi:maujpur-babarpur",
+  "km": 1.3,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:krishna-park-extn",
+  "to": "delhi:janakpuri-west",
+  "km": 2.374,
+  "minutes": 4.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:janakpuri-west",
+  "to": "delhi:dabri-mor-janakpuri-south",
+  "km": 1.833,
+  "minutes": 3.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:dabri-mor-janakpuri-south",
+  "to": "delhi:dashrathpuri",
+  "km": 1.73,
+  "minutes": 3.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:dashrathpuri",
+  "to": "delhi:palam",
+  "km": 1.591,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:palam",
+  "to": "delhi:sadar-bazar-cantonment",
+  "km": 3.354,
+  "minutes": 6.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:sadar-bazar-cantonment",
+  "to": "delhi:terminal-1-igi-airport",
+  "km": 1.952,
+  "minutes": 3.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:terminal-1-igi-airport",
+  "to": "delhi:shankar-vihar",
+  "km": 1.962,
+  "minutes": 3.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:shankar-vihar",
+  "to": "delhi:vasant-vihar",
+  "km": 2.277,
+  "minutes": 4.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:vasant-vihar",
+  "to": "delhi:munirka",
+  "km": 1.509,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:munirka",
+  "to": "delhi:r-k-puram",
+  "km": 1.383,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:r-k-puram",
+  "to": "delhi:iit",
+  "km": 1.056,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:iit",
+  "to": "delhi:hauz-khas",
+  "km": 1.284,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:hauz-khas",
+  "to": "delhi:panchsheel-park",
+  "km": 1.651,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:panchsheel-park",
+  "to": "delhi:chirag-delhi",
+  "km": 1.005,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:chirag-delhi",
+  "to": "delhi:greater-kailash",
+  "km": 0.886,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:greater-kailash",
+  "to": "delhi:nehru-enclave",
+  "km": 1.496,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:nehru-enclave",
+  "to": "delhi:kalkaji-mandir",
+  "km": 0.84,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:kalkaji-mandir",
+  "to": "delhi:okhla-nsic",
+  "km": 0.929,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:okhla-nsic",
+  "to": "delhi:sukhdev-vihar",
+  "km": 1.272,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:sukhdev-vihar",
+  "to": "delhi:jamia-millia-islamia",
+  "km": 1.293,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:jamia-millia-islamia",
+  "to": "delhi:okhla-vihar",
+  "km": 0.634,
+  "minutes": 1.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:okhla-vihar",
+  "to": "delhi:jasola-vihar-shaheen-bagh",
+  "km": 1.968,
+  "minutes": 3.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:jasola-vihar-shaheen-bagh",
+  "to": "delhi:kalindi-kunj",
+  "km": 1.494,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:kalindi-kunj",
+  "to": "delhi:okhla-bird-sanctuary",
+  "km": 1.746,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "from": "delhi:okhla-bird-sanctuary",
+  "to": "delhi:botanical-garden",
+  "km": 1.908,
+  "minutes": 3.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "from": "delhi:majlis-park",
+  "to": "delhi:bhalaswa",
+  "km": 2.137,
+  "minutes": 3.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "from": "delhi:bhalaswa",
+  "to": "delhi:haiderpur-badli-mor",
+  "km": 2.238,
+  "minutes": 4.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "from": "delhi:haiderpur-badli-mor",
+  "to": "delhi:haiderpur-village",
+  "km": 0.925,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "from": "delhi:haiderpur-village",
+  "to": "delhi:uttari-pitampura-prashant-vihar",
+  "km": 1.505,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "from": "delhi:uttari-pitampura-prashant-vihar",
+  "to": "delhi:madhuban-chowk",
+  "km": 1.447,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "from": "delhi:madhuban-chowk",
+  "to": "delhi:deepali-chowk",
+  "km": 1.514,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "from": "delhi:dwarka-kakrola",
+  "to": "delhi:nangli",
+  "km": 1.509,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "from": "delhi:nangli",
+  "to": "delhi:najafgarh",
+  "km": 3,
+  "minutes": 5.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "from": "delhi:najafgarh",
+  "to": "delhi:dhansa-bus-stand",
+  "km": 0.982,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "from": "delhi:new-delhi",
+  "to": "delhi:shivaji-stadium",
+  "km": 2.219,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "from": "delhi:shivaji-stadium",
+  "to": "delhi:dhaula-kuan",
+  "km": 7.168,
+  "minutes": 7.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "from": "delhi:dhaula-kuan",
+  "to": "delhi:delhi-aerocity",
+  "km": 7.036,
+  "minutes": 7.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "from": "delhi:delhi-aerocity",
+  "to": "delhi:airport-t-3",
+  "km": 3.877,
+  "minutes": 4.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "from": "delhi:airport-t-3",
+  "to": "delhi:dwarka-sector-21",
+  "km": 3.152,
+  "minutes": 3.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "from": "delhi:dwarka-sector-21",
+  "to": "delhi:yashobhoomi-dwarka-sector-25",
+  "km": 1.466,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-51",
+  "to": "delhi:sector-50",
+  "km": 1.394,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-50",
+  "to": "delhi:sector-76",
+  "km": 1.089,
+  "minutes": 2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-76",
+  "to": "delhi:sector-101",
+  "km": 1.241,
+  "minutes": 2.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-101",
+  "to": "delhi:sector-81",
+  "km": 0.963,
+  "minutes": 1.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-81",
+  "to": "delhi:n-s-e-z",
+  "km": 2.081,
+  "minutes": 3.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:n-s-e-z",
+  "to": "delhi:sector-83",
+  "km": 1.224,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-83",
+  "to": "delhi:sector-137",
+  "km": 1.567,
+  "minutes": 2.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-137",
+  "to": "delhi:sector-142",
+  "km": 1.711,
+  "minutes": 3.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-142",
+  "to": "delhi:sector-143",
+  "km": 1.149,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-143",
+  "to": "delhi:sector-144",
+  "km": 1.473,
+  "minutes": 2.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-144",
+  "to": "delhi:sector-145",
+  "km": 1.312,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-145",
+  "to": "delhi:sector-146",
+  "km": 1.811,
+  "minutes": 3.3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-146",
+  "to": "delhi:sector-147",
+  "km": 1.619,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-147",
+  "to": "delhi:sector-148",
+  "km": 1.737,
+  "minutes": 3.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:sector-148",
+  "to": "delhi:knowledge-park-ii",
+  "km": 2.714,
+  "minutes": 4.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:knowledge-park-ii",
+  "to": "delhi:pari-chowk",
+  "km": 1.135,
+  "minutes": 2.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:pari-chowk",
+  "to": "delhi:alpha-1",
+  "km": 1.022,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:alpha-1",
+  "to": "delhi:delta-1",
+  "km": 1.629,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:delta-1",
+  "to": "delhi:gnida-office",
+  "km": 1.354,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "from": "delhi:gnida-office",
+  "to": "delhi:depot-station",
+  "km": 0.943,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:sector-55-56",
+  "to": "delhi:sector-54-chowk",
+  "km": 1.285,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:sector-54-chowk",
+  "to": "delhi:sector-53-54",
+  "km": 1.859,
+  "minutes": 3.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:sector-53-54",
+  "to": "delhi:sector-42-43",
+  "km": 1.527,
+  "minutes": 3.1,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:sector-42-43",
+  "to": "delhi:phase-1",
+  "km": 1.898,
+  "minutes": 3.8,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:phase-1",
+  "to": "delhi:sikanderpur",
+  "km": 1.297,
+  "minutes": 2.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:sikanderpur",
+  "to": "delhi:phase-2",
+  "km": 0.855,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:phase-2",
+  "to": "delhi:phase-3",
+  "km": 0.804,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:phase-3",
+  "to": "delhi:moulsari-avenue",
+  "km": 0.967,
+  "minutes": 1.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:moulsari-avenue",
+  "to": "delhi:cyber-city",
+  "km": 0.732,
+  "minutes": 1.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:cyber-city",
+  "to": "delhi:belvedere-towers",
+  "km": 0.856,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "from": "delhi:belvedere-towers",
+  "to": "delhi:phase-2",
+  "km": 0.792,
+  "minutes": 1.6,
+  "kmSource": "coords-scaled-to-official-length"
+ }
+]

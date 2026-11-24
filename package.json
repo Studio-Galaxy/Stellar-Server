@@ -1,0 +1,23 @@
+{
+  "name": "stellar-server",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node --env-file=.env --watch src/index.ts",
+    "start": "node --env-file-if-exists=.env src/index.ts",
+    "build:delhi": "node scripts/build-delhi.ts",
+    "import:delhi": "node --env-file=.env scripts/import-delhi.ts",
+    "coords:delhi": "node scripts/match-coords.ts",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "publish": "node --env-file=.env scripts/publish.ts"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/compress": "^9.3.0",
+    "fastify": "^5.12.8",
+    "mongodb": "^7.9.1"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  }
+}
