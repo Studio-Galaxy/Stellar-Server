@@ -15,4 +15,9 @@ const mongo = new MongoClient(MONGODB_URI, { serverSelectionTimeoutMS: 5000 });
 const app = Fastify({ logger: true });
 await registerApi(app, mongo.db(MONGODB_DB));
 app.addHook('onClose', () => mongo.close());
-await app.listen({ port: Number(PORT), host: '0.0.0.0' });
+// Not awaited on purpose: Vercel replaces listen() to capture the server and never reports "listening",
+// so awaiting it would hang module loading and every request would fail.
+app.listen({ port: Number(PORT), host: '0.0.0.0' }).catch((err) => {
+  app.log.error(err);
+  process.exit(1);
+});
