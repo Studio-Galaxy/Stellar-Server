@@ -44,7 +44,7 @@ try {
   // ---------- validate what the database now holds ----------
   const q = { cityId: 'delhi' };
   const [lines, stations, segments, interchanges] = await Promise.all(
-    ['lines', 'stations', 'segments', 'interchanges'].map((c) => db.collection(c).find(q).toArray()));
+    ['lines', 'stations', 'segments', 'interchanges'].map((c) => db.collection<{ _id: string } & Record<string, any>>(c).find(q).toArray()));
   const stationIds = new Set(stations.map((s) => s._id));
   const lineIds = new Set(lines.map((l) => l._id));
   const errors: string[] = [];
@@ -63,7 +63,7 @@ try {
   for (const s of stations) if (!s.geo) errors.push(`station without position: ${s._id}`);
   // the geo index really answers: nearest station to Rajiv Chowk's own position must be Rajiv Chowk
   const rc = stations.find((s) => s._id === 'delhi:rajiv-chowk');
-  const nearest = rc && await db.collection('stations').findOne({ geo: { $near: { $geometry: rc.geo } } });
+  const nearest = rc && await db.collection<{ _id: string }>('stations').findOne({ geo: { $near: { $geometry: rc.geo } } });
   if (nearest?._id !== 'delhi:rajiv-chowk') errors.push(`geo index check failed (got ${nearest?._id})`);
   const onALine = new Set(lines.flatMap((l) => l.stations));
   for (const s of stations) if (!onALine.has(s._id)) errors.push(`orphan station ${s._id}`);

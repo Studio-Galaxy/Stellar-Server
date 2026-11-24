@@ -1,6 +1,7 @@
-// The Stellar API: read-only, three endpoints. Separate from index.ts so tests can pass in a fake db.
+// The Stellar API routes: read-only. Kept apart from index.ts so tests can run them against a fake db.
+// Not named app.ts on purpose: Vercel treats src/app.* as the server entry, and this file never listens.
 import compress from '@fastify/compress';
-import Fastify, { type FastifyServerOptions } from 'fastify';
+import type { FastifyInstance } from 'fastify';
 import type { Db } from 'mongodb';
 
 type City = { _id: string; name: string; status: 'live' | 'coming_soon'; order: number; subtitle?: string; cardColor?: string; liveVersion?: number | null };
@@ -10,8 +11,7 @@ type City = { _id: string; name: string; status: 'live' | 'coming_soon'; order: 
 // therefore reaches everyone within ~5 minutes.
 const CACHE = 'public, max-age=60, s-maxage=300, stale-while-revalidate=600';
 
-export async function buildApp(db: Db, opts: FastifyServerOptions = { logger: true }) {
-  const app = Fastify(opts);
+export async function registerApi(app: FastifyInstance, db: Db) {
   await app.register(compress); // gzip/brotli when the client asks for it
 
   app.get('/health', async () => {
@@ -60,5 +60,4 @@ export async function buildApp(db: Db, opts: FastifyServerOptions = { logger: tr
     return snap;
   });
 
-  return app;
 }

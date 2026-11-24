@@ -5,7 +5,9 @@ import { gunzipSync } from 'node:zlib';
 import { test } from 'node:test';
 import type { Db } from 'mongodb';
 
-import { buildApp } from '../src/app.ts';
+import Fastify from 'fastify';
+
+import { registerApi } from '../src/api.ts';
 
 type Row = Record<string, unknown>;
 const data: Record<string, Row[]> = {
@@ -38,7 +40,8 @@ const fakeDb = {
   }),
 } as unknown as Db;
 
-const app = await buildApp(fakeDb, { logger: false });
+const app = Fastify({ logger: false });
+await registerApi(app, fakeDb);
 
 test('GET /cities lists cities in card order with the live version', async () => {
   const res = await app.inject({ url: '/cities' });

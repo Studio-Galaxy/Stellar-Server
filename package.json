@@ -8,7 +8,8 @@
     "import:delhi": "node --env-file=.env scripts/import-delhi.ts",
     "coords:delhi": "node scripts/match-coords.ts",
     "test": "node --test \"test/**/*.test.ts\"",
-    "publish": "node --env-file=.env scripts/publish.ts"
+    "publish": "node --env-file=.env scripts/publish.ts",
+    "typecheck": "tsc --noEmit"
   },
   "license": "ISC",
   "dependencies": {
@@ -18,6 +19,10 @@
   },
   "type": "module",
   "engines": {
-    "node": ">=22.18"
+    "node": "22.x"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "5.9"
   }
 }
