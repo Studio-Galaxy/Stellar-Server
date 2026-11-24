@@ -91,3 +91,16 @@ test('GET /settings hides the database id', async () => {
   assert.deepEqual(res.json(), { minAppVersion: '1.0.0', maintenance: false });
 });
 
+
+test('home page and its backgrounds are served', async () => {
+  const page = await app.inject({ url: '/', headers: { 'accept-encoding': 'identity' } });
+  assert.equal(page.statusCode, 200);
+  assert.match(page.headers['content-type'] as string, /text\/html/);
+  assert.match(page.body, /<title>Stellar API<\/title>/);
+  for (const file of ['map-light', 'map-dark', 'traffic']) {
+    const bg = await app.inject({ url: `/bg/${file}.svg`, headers: { 'accept-encoding': 'identity' } });
+    assert.equal(bg.statusCode, 200);
+    assert.equal(bg.headers['content-type'], 'image/svg+xml');
+    assert.match(bg.body, /^<svg/);
+  }
+});

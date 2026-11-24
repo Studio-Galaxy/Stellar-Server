@@ -1,5 +1,7 @@
 // The Stellar API routes: read-only. Kept apart from index.ts so tests can run them against a fake db.
 // Not named app.ts on purpose: Vercel treats src/app.* as the server entry, and this file never listens.
+import { readFileSync } from 'node:fs';
+
 import compress from '@fastify/compress';
 import type { FastifyInstance } from 'fastify';
 import type { Db } from 'mongodb';
@@ -11,8 +13,29 @@ type City = { _id: string; name: string; status: 'live' | 'coming_soon'; order: 
 // therefore reaches everyone within ~5 minutes.
 const CACHE = 'public, max-age=60, s-maxage=300, stale-while-revalidate=600';
 
+// The human-facing home page and its files live in public/ (city backgrounds + moving trains are exported
+// from the design board, Docs/design/build-design-board.mjs). Vercel's Fastify setup does not publish
+// public/ to its CDN, so this API serves them — with stale-while-revalidate, so the CDN keeps showing its
+// last good copy even if the function fails, and the page itself then reports the API as unavailable.
+const PAGE_CACHE = 'public, max-age=300, s-maxage=3600, stale-while-revalidate=31536000';
+const BG_CACHE = 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=31536000';
+const read = (f: string) => readFileSync(new URL(`../public/${f}`, import.meta.url));
+const landing = read('index.html');
+const backgrounds = { 'map-light': read('bg/map-light.svg'), 'map-dark': read('bg/map-dark.svg'), traffic: read('bg/traffic.svg') };
+
 export async function registerApi(app: FastifyInstance, db: Db) {
   await app.register(compress); // gzip/brotli when the client asks for it
+
+  app.get('/', (_req, reply) => {
+    reply.type('text/html; charset=utf-8').header('cache-control', PAGE_CACHE);
+    return reply.send(landing);
+  });
+  for (const [name, svg] of Object.entries(backgrounds)) {
+    app.get(`/bg/${name}.svg`, (_req, reply) => {
+      reply.type('image/svg+xml').header('cache-control', BG_CACHE);
+      return reply.send(svg);
+    });
+  }
 
   app.get('/health', async () => {
     await db.command({ ping: 1 });

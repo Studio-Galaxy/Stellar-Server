@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stellar API</title>
+<meta name="description" content="Metro network data behind the Stellar app.">
+<meta name="theme-color" content="#EFE5D5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1C212B" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  /* Stellar tokens — Sandstone Day / Delhi Night (App/src/theme/tokens.ts) */
+  :root {
+    --ground: #EFE5D5; --card: rgba(255, 253, 248, .86); --ink: #2B2A28; --label: #5E574C;
+    --line: rgba(43, 42, 40, .09); --accent: #F29A2E; --ok: #3A9E52; --bad: #E0453A;
+    --blue: #2F6FD6; --pink: #EE77A8; --chip: rgba(43, 42, 40, .06);
+    --shadow: 0 24px 60px rgba(90, 66, 30, .22), 0 2px 6px rgba(90, 66, 30, .12);
+    --veil: linear-gradient(180deg, rgba(239, 229, 213, .15), rgba(239, 229, 213, .55));
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #1C212B; --card: rgba(38, 44, 55, .84); --ink: #F1EDE4; --label: #A9A395;
+      --line: rgba(241, 237, 228, .09); --accent: #17A398; --chip: rgba(241, 237, 228, .07);
+      --shadow: 0 24px 60px rgba(0, 0, 0, .55), 0 2px 6px rgba(0, 0, 0, .4);
+      --veil: linear-gradient(180deg, rgba(28, 33, 43, .1), rgba(28, 33, 43, .6));
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { min-height: 100%; }
+  body {
+    font-family: Nunito, ui-rounded, system-ui, sans-serif; color: var(--ink); background: var(--ground);
+    display: grid; place-items: center; min-height: 100dvh; padding: 32px 16px; overflow-x: hidden;
+  }
+  /* the city (light or dark, following the system), gently drifting, with trains and cars running on top */
+  .city { position: fixed; inset: -8%; z-index: -2; animation: drift 60s ease-in-out infinite alternate; }
+  .city img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .veil { position: fixed; inset: 0; background: var(--veil); z-index: -1; }
+  @keyframes drift { from { transform: translate3d(-2%, -1%, 0) scale(1.02); } to { transform: translate3d(2%, 1.5%, 0) scale(1.06); } }
+  @media (prefers-reduced-motion: reduce) { .city { animation: none; } .traffic { display: none; } }
+
+  .card { width: min(720px, 100%); background: var(--card); border-radius: 28px; padding: 32px;
+    box-shadow: var(--shadow); backdrop-filter: blur(14px) saturate(1.2); -webkit-backdrop-filter: blur(14px) saturate(1.2); }
+  header { display: flex; align-items: center; gap: 14px; }
+  .mark { width: 48px; height: 48px; flex: none; }
+  h1 { font-size: 30px; font-weight: 900; letter-spacing: -.02em; }
+  .status { margin-left: auto; display: inline-flex; align-items: center; gap: 8px; font-weight: 800; font-size: 13px;
+    padding: 7px 12px; border-radius: 999px; background: var(--chip); color: var(--label); white-space: nowrap; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--label); }
+  .status.ok .dot { background: var(--ok); box-shadow: 0 0 0 0 rgba(58, 158, 82, .6); animation: pulse 1.8s infinite; }
+  .status.ok { color: var(--ok); }
+  .status.bad .dot { background: var(--bad); } .status.bad { color: var(--bad); }
+  @keyframes pulse { 70% { box-shadow: 0 0 0 8px rgba(58, 158, 82, 0); } 100% { box-shadow: 0 0 0 0 rgba(58, 158, 82, 0); } }
+  .lead { margin-top: 10px; color: var(--label); font-weight: 700; font-size: 16px; line-height: 1.5; }
+
+  .cities { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+  .city-chip { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 14px;
+    background: var(--chip); font-weight: 800; font-size: 14px; }
+  .city-chip small { font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: var(--line); color: var(--label); }
+  .city-chip.live small { background: var(--accent); color: #fff; }
+
+  /* shown when the API doesn't answer — trains stop too */
+  .notice { margin-top: 20px; display: flex; gap: 14px; align-items: center; padding: 16px 18px; border-radius: 18px;
+    background: color-mix(in srgb, var(--bad) 10%, transparent); border: 1px solid color-mix(in srgb, var(--bad) 25%, transparent); }
+  .notice[hidden] { display: none; }
+  .notice b { display: block; font-size: 15px; font-weight: 900; }
+  .notice p { margin-top: 4px; color: var(--label); font-weight: 700; font-size: 14px; line-height: 1.5; }
+  .notice button { margin-left: auto; flex: none; font: 800 13px Nunito, ui-rounded, system-ui, sans-serif; color: #fff;
+    background: var(--bad); border: 0; border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+  .notice button:disabled { opacity: .6; cursor: default; }
+  .traffic { transition: opacity 1.2s ease; }
+  body.offline .traffic { opacity: 0; }
+
+  h2 { margin-top: 28px; font-size: 13px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; color: var(--label); }
+  .routes { margin-top: 10px; border-top: 1px solid var(--line); }
+  .route { display: grid; grid-template-columns: auto 1fr auto; gap: 4px 12px; align-items: center;
+    padding: 14px 4px; border-bottom: 1px solid var(--line); color: inherit; text-decoration: none; border-radius: 12px;
+    transition: background .2s ease, transform .2s ease; }
+  .route:hover { background: var(--chip); transform: translateX(2px); }
+  .method { font: 800 11px ui-monospace, SFMono-Regular, Menlo, monospace; color: #fff; background: var(--blue);
+    padding: 4px 8px; border-radius: 8px; }
+  .path { font: 700 15px ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere; }
+  .try { font-weight: 800; font-size: 13px; color: var(--accent); white-space: nowrap; }
+  .desc { grid-column: 2 / 4; color: var(--label); font-weight: 700; font-size: 14px; }
+
+  .lines { display: flex; gap: 6px; margin-top: 26px; }
+  .lines i { height: 6px; flex: 1; border-radius: 3px; }
+  footer { margin-top: 14px; color: var(--label); font-size: 12.5px; font-weight: 700; line-height: 1.6; }
+  footer a { color: inherit; }
+  @media (max-width: 520px) {
+    .card { padding: 22px; border-radius: 22px; } h1 { font-size: 24px; } .mark { width: 40px; height: 40px; }
+    .route { grid-template-columns: auto 1fr; } .try { display: none; } .desc { grid-column: 1 / 3; }
+  }
+</style>
+</head>
+<body>
+<div class="city" aria-hidden="true">
+  <picture>
+    <source srcset="/bg/map-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="/bg/map-light.svg" alt="">
+  </picture>
+  <img class="traffic" src="/bg/traffic.svg" alt="">
+</div>
+<div class="veil" aria-hidden="true"></div>
+
+<main class="card">
+  <header>
+    <svg class="mark" viewBox="0 0 48 48" aria-hidden="true">
+      <rect width="48" height="48" rx="14" fill="var(--chip)"/>
+      <path d="M9 31h13l8-14h9" fill="none" stroke="#2F6FD6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M9 17h11l8 14h11" fill="none" stroke="#EE77A8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="24" cy="24" r="5.5" fill="#FFFDF8" stroke="#2B2A28" stroke-width="2"/>
+    </svg>
+    <h1>Stellar API</h1>
+    <span class="status" id="status"><span class="dot"></span><span id="status-text">Checking…</span></span>
+  </header>
+  <p class="lead">The metro network behind the Stellar app — lines, stations, distances and fares, served as one small download per city.</p>
+
+  <div class="cities" id="cities"></div>
+  <div class="notice" id="notice" role="status" hidden>
+    <div>
+      <b>The API isn't answering right now</b>
+      <p>The Stellar app keeps working with the network it already has on the phone. This page will reconnect on its own.</p>
+    </div>
+    <button type="button" id="retry">Retry</button>
+  </div>
+
+  <h2>Routes</h2>
+  <nav class="routes">
+    <a class="route" href="/health" target="_blank" rel="noopener">
+      <span class="method">GET</span><span class="path">/health</span><span class="try">Try →</span>
+      <span class="desc">Is the API up and reaching its database?</span>
+    </a>
+    <a class="route" href="/cities" target="_blank" rel="noopener">
+      <span class="method">GET</span><span class="path">/cities</span><span class="try">Try →</span>
+      <span class="desc">Cities for the home screen, with each city's live data version.</span>
+    </a>
+    <a class="route" href="/cities/delhi/network" target="_blank" rel="noopener">
+      <span class="method">GET</span><span class="path">/cities/:id/network</span><span class="try">Try →</span>
+      <span class="desc">A city's whole network in one snapshot (~15 KB compressed). Send <code>?v=N</code> and get <b>304</b> if you already have it.</span>
+    </a>
+    <a class="route" href="/settings" target="_blank" rel="noopener">
+      <span class="method">GET</span><span class="path">/settings</span><span class="try">Try →</span>
+      <span class="desc">App-wide settings and credits.</span>
+    </a>
+  </nav>
+
+  <div class="lines" aria-hidden="true">
+    <i style="background:#E0453A"></i><i style="background:#F2C230"></i><i style="background:#2F6FD6"></i><i style="background:#3A9E52"></i>
+    <i style="background:#7D4BB0"></i><i style="background:#EE77A8"></i><i style="background:#B5307A"></i><i style="background:#8D9096"></i>
+    <i style="background:#F08A2C"></i><i style="background:#22B3C7"></i>
+  </div>
+  <footer id="credits">
+    Network from the official DMRC “Metro Network in Delhi-NCR” map. Station positions © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>.<br>
+    © Studio Galaxy
+  </footer>
+</main>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  // Never wait more than 8 s: a stuck API should look "unavailable", not "checking…" forever.
+  const get = (url) => fetch(url, { signal: AbortSignal.timeout(8000), cache: 'no-store' })
+    .then((r) => (r.ok ? r.json() : Promise.reject(new Error(r.status))));
+
+  function show(online, cities) {
+    $('status').classList.toggle('ok', online);
+    $('status').classList.toggle('bad', !online);
+    $('status-text').textContent = online ? 'Live' : 'Unavailable';
+    document.body.classList.toggle('offline', !online);
+    $('notice').hidden = online;
+    $('cities').innerHTML = !online ? '' : cities.map((c) => c.status === 'live'
+      ? `<span class="city-chip live">${esc(c.name)} <small>Live · v${esc(c.version)}</small></span>`
+      : `<span class="city-chip">${esc(c.name)} <small>Coming soon</small></span>`).join('');
+  }
+
+  async function check() {
+    $('retry').disabled = true;
+    try {
+      const [, cities] = await Promise.all([get('/health'), get('/cities')]);
+      show(true, cities);
+    } catch {
+      show(false, []);
+    } finally {
+      $('retry').disabled = false;
+    }
+  }
+  $('retry').addEventListener('click', check);
+  check();
+  setInterval(() => { if (document.body.classList.contains('offline')) check(); }, 30000); // quietly reconnect
+</script>
+</body>
+</html>
