@@ -25,7 +25,9 @@
    "delhi:red"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Rohini West"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -43,7 +45,9 @@
    "delhi:red"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Rohini East"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -62,7 +66,9 @@
    "delhi:magenta-north"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Pitampura"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -246,7 +252,10 @@
    "delhi:violet"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Kashmiri Gate",
+   "ISBT Kashmere Gate"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -517,7 +526,9 @@
    "delhi:red"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "New Bus Adda"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -663,7 +674,9 @@
    "delhi:yellow"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "GTB Nagar"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -735,7 +748,11 @@
    "delhi:yellow"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "DLI",
+   "Old Delhi",
+   "Old Delhi Railway Station"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -772,7 +789,10 @@
    "delhi:airport"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "NDLS",
+   "New Delhi Railway Station"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -791,7 +811,10 @@
    "delhi:blue"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "CP",
+   "Connaught Place"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -846,7 +869,9 @@
    "delhi:yellow"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Udyog Bhawan"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -901,7 +926,10 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "INA",
+   "Dilli Haat"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -1173,7 +1201,11 @@
    "delhi:yellow"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "HUDA City Centre",
+   "Huda City Center",
+   "MCC"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -1337,7 +1369,9 @@
    "delhi:grey"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Dwarka"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -1737,7 +1771,9 @@
    "delhi:blue"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Pragati Maidan"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -2156,7 +2192,11 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "ANVT",
+   "Anand Vihar",
+   "Anand Vihar Terminal"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -2572,7 +2612,9 @@
    "delhi:green"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Brigadier Hoshiyar Singh"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -2608,7 +2650,10 @@
    "delhi:violet"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Red Fort",
+   "Lal Qila"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -2716,7 +2761,9 @@
    "delhi:violet"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Jawaharlal Nehru Stadium"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -2934,7 +2981,9 @@
    "delhi:violet"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Tughlakabad"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3150,7 +3199,9 @@
    "delhi:violet"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Ballabhgarh"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3278,7 +3329,9 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Delhi Cantonment"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3296,7 +3349,9 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "South Campus"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3314,7 +3369,9 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Moti Bagh"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3422,7 +3479,12 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "NZM",
+   "Hazrat Nizamuddin",
+   "Nizamuddin",
+   "Sarai Kale Khan"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3440,7 +3502,10 @@
    "delhi:pink"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Mayur Vihar Pocket 1",
+   "Mayur Vihar Pocket I"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3819,7 +3884,9 @@
    "delhi:magenta"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Krishna Park Extension"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -3909,7 +3976,10 @@
    "delhi:magenta"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "T1",
+   "Terminal 1"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -4251,7 +4321,10 @@
    "delhi:magenta-north"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Prashant Vihar",
+   "North Pitampura"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -4377,7 +4450,9 @@
    "delhi:airport"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Aerocity"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -4395,7 +4470,12 @@
    "delhi:airport"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "IGI Airport",
+   "T3",
+   "Terminal 3",
+   "Indira Gandhi International Airport"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -4413,7 +4493,11 @@
    "delhi:airport"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Yashobhoomi",
+   "IICC",
+   "Dwarka Sector 25"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -4431,7 +4515,9 @@
    "delhi:aqua"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "Noida Sector 51"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [
@@ -4521,7 +4607,9 @@
    "delhi:aqua"
   ],
   "open": true,
-  "aliases": [],
+  "aliases": [
+   "NSEZ"
+  ],
   "geo": {
    "type": "Point",
    "coordinates": [

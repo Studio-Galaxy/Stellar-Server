@@ -1,6 +1,6 @@
 // Builds Stellar's Delhi seed collections from the hand-transcribed official map.
 //   node scripts/build-delhi.ts            (from Server/)
-// In:  seed/delhi/network.source.json
+// In:  seed/delhi/network.source.json (+ coords.json, aliases.json)
 // Out: seed/delhi/{lines,stations,segments,interchanges}.json + seed/delhi/REPORT.md
 // Fails (exit 1) if any line disagrees with the official station counts it can be checked against.
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
@@ -55,6 +55,14 @@ for (const l of src.lines) {
   });
 }
 for (const w of src.walkways) for (const n of [w.a, w.b]) if (!stations.has(slug(n))) problems.push(`walkway: unknown station "${n}"`);
+
+// Other names people search for (codes, old names) — seed/delhi/aliases.json.
+const { $comment: _, ...aliases }: Record<string, string[]> = JSON.parse(readFileSync(new URL('aliases.json', dir), 'utf8'));
+for (const [name, list] of Object.entries(aliases)) {
+  const st = stations.get(slug(name));
+  if (!st) problems.push(`aliases: unknown station "${name}"`);
+  else st.aliases = list;
+}
 
 // ---------- official count checks ----------
 report.push('| Line | Stations (ours) | Official | Result |', '|---|---|---|---|');
