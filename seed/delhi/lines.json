@@ -295,29 +295,30 @@
    "delhi:welcome",
    "delhi:jafrabad",
    "delhi:maujpur-babarpur",
-   "delhi:gokulpuri",
-   "delhi:johri-enclave",
-   "delhi:shiv-vihar"
-  ]
+   "delhi:yamuna-vihar",
+   "delhi:bhajanpura",
+   "delhi:khajuri-khas",
+   "delhi:nanaksar-sonia-vihar",
+   "delhi:soorghat",
+   "delhi:jagatpur-wazirabad",
+   "delhi:jharoda-majra",
+   "delhi:burari",
+   "delhi:majlis-park"
+  ],
+  "loop": true
  },
  {
-  "_id": "delhi:pink-north",
+  "_id": "delhi:pink-shiv-vihar",
   "cityId": "delhi",
-  "name": "Pink Line (Majlis Park–Maujpur)",
+  "name": "Pink Line (Shiv Vihar branch)",
   "ref": "Line 7",
   "color": "pink",
   "operator": "DMRC",
   "stations": [
-   "delhi:majlis-park",
-   "delhi:burari",
-   "delhi:jharoda-majra",
-   "delhi:jagatpur-wazirabad",
-   "delhi:soorghat",
-   "delhi:nanaksar-sonia-vihar",
-   "delhi:khajuri-khas",
-   "delhi:bhajanpura",
-   "delhi:yamuna-vihar",
-   "delhi:maujpur-babarpur"
+   "delhi:maujpur-babarpur",
+   "delhi:gokulpuri",
+   "delhi:johri-enclave",
+   "delhi:shiv-vihar"
   ]
  },
  {

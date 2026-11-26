@@ -3217,7 +3217,6 @@
   "name": "Majlis Park",
   "lines": [
    "delhi:pink",
-   "delhi:pink-north",
    "delhi:magenta-north"
   ],
   "open": true,
@@ -3665,7 +3664,7 @@
   "name": "Maujpur-Babarpur",
   "lines": [
    "delhi:pink",
-   "delhi:pink-north"
+   "delhi:pink-shiv-vihar"
   ],
   "open": true,
   "aliases": [],
@@ -3679,11 +3678,155 @@
   "geoSource": "osm:osm-metro-2026-11-24.json"
  },
  {
+  "_id": "delhi:yamuna-vihar",
+  "cityId": "delhi",
+  "name": "Yamuna Vihar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.277308,
+    28.702378
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:bhajanpura",
+  "cityId": "delhi",
+  "name": "Bhajanpura",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.262646,
+    28.703598
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:khajuri-khas",
+  "cityId": "delhi",
+  "name": "Khajuri Khas",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.254481,
+    28.705209
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:nanaksar-sonia-vihar",
+  "cityId": "delhi",
+  "name": "Nanaksar-Sonia Vihar",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.242505,
+    28.708703
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:soorghat",
+  "cityId": "delhi",
+  "name": "Soorghat",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": false,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.227465,
+    28.710224
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jagatpur-wazirabad",
+  "cityId": "delhi",
+  "name": "Jagatpur-Wazirabad",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.223955,
+    28.721138
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:jharoda-majra",
+  "cityId": "delhi",
+  "name": "Jharoda Majra",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.213689,
+    28.72491
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
+  "_id": "delhi:burari",
+  "cityId": "delhi",
+  "name": "Burari",
+  "lines": [
+   "delhi:pink"
+  ],
+  "open": true,
+  "aliases": [],
+  "geo": {
+   "type": "Point",
+   "coordinates": [
+    77.199572,
+    28.729829
+   ]
+  },
+  "geoSource": "osm:osm-metro-2026-11-24.json"
+ },
+ {
   "_id": "delhi:gokulpuri",
   "cityId": "delhi",
   "name": "Gokulpuri",
   "lines": [
-   "delhi:pink"
+   "delhi:pink-shiv-vihar"
   ],
   "open": true,
   "aliases": [],
@@ -3701,7 +3844,7 @@
   "cityId": "delhi",
   "name": "Johri Enclave",
   "lines": [
-   "delhi:pink"
+   "delhi:pink-shiv-vihar"
   ],
   "open": true,
   "aliases": [],
@@ -3719,7 +3862,7 @@
   "cityId": "delhi",
   "name": "Shiv Vihar",
   "lines": [
-   "delhi:pink"
+   "delhi:pink-shiv-vihar"
   ],
   "open": true,
   "aliases": [],
@@ -3728,150 +3871,6 @@
    "coordinates": [
     77.289444,
     28.721413
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:burari",
-  "cityId": "delhi",
-  "name": "Burari",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.199572,
-    28.729829
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:jharoda-majra",
-  "cityId": "delhi",
-  "name": "Jharoda Majra",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.213689,
-    28.72491
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:jagatpur-wazirabad",
-  "cityId": "delhi",
-  "name": "Jagatpur-Wazirabad",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.223955,
-    28.721138
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:soorghat",
-  "cityId": "delhi",
-  "name": "Soorghat",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": false,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.227465,
-    28.710224
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:nanaksar-sonia-vihar",
-  "cityId": "delhi",
-  "name": "Nanaksar-Sonia Vihar",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.242505,
-    28.708703
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:khajuri-khas",
-  "cityId": "delhi",
-  "name": "Khajuri Khas",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.254481,
-    28.705209
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:bhajanpura",
-  "cityId": "delhi",
-  "name": "Bhajanpura",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.262646,
-    28.703598
-   ]
-  },
-  "geoSource": "osm:osm-metro-2026-11-24.json"
- },
- {
-  "_id": "delhi:yamuna-vihar",
-  "cityId": "delhi",
-  "name": "Yamuna Vihar",
-  "lines": [
-   "delhi:pink-north"
-  ],
-  "open": true,
-  "aliases": [],
-  "geo": {
-   "type": "Point",
-   "coordinates": [
-    77.277308,
-    28.702378
    ]
   },
   "geoSource": "osm:osm-metro-2026-11-24.json"

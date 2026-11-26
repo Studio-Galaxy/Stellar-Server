@@ -24,7 +24,7 @@ const isOpen = (s: StationRef) => typeof s === 'string' || s.open;
 // Lines that share one official figure (two branches/sections counted together).
 const GROUPS: Record<string, string[]> = {
   'delhi:green': ['delhi:green', 'delhi:green-kirti'],
-  'delhi:pink': ['delhi:pink', 'delhi:pink-north'],
+  'delhi:pink': ['delhi:pink', 'delhi:pink-shiv-vihar'],
   'delhi:magenta': ['delhi:magenta', 'delhi:magenta-north'],
 };
 // How each official count is defined (see the notes in network.source.json).

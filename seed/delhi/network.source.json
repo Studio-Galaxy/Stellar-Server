@@ -87,7 +87,8 @@
     },
     {
       "id": "delhi:pink", "name": "Pink Line", "ref": "Line 7", "color": "pink", "operator": "DMRC",
-      "official": { "stations": 45, "km": 71.548, "note": "Majlis Park–Shiv Vihar & Majlis Park–Maujpur-Babarpur. Soorghat is built but not open (official 'under construction: 1 station')." },
+      "official": { "stations": 45, "km": 71.548, "note": "Ring (Majlis Park–Maujpur-Babarpur both ways round) & the Maujpur-Babarpur–Shiv Vihar branch. Soorghat is built but not open (official 'under construction: 1 station')." },
+      "loop": "A ring since 8 March 2026 (Majlis Park–Maujpur-Babarpur opened): trains run round it both ways and straight through Maujpur-Babarpur between Jafrabad and Yamuna Vihar. Shiv Vihar is a separate shuttle from Maujpur-Babarpur (platform 3): change there.",
       "stations": [
         "Majlis Park", "Azadpur", "Shalimar Bagh", "Netaji Subhash Place", "Shakurpur", "Punjabi Bagh West",
         "ESI-Basaidarapur", "Rajouri Garden", "Mayapuri", "Naraina Vihar", "Delhi Cantt.",
@@ -96,15 +97,15 @@
         "Sarai Kale Khan-Nizamuddin", "Mayur Vihar-I", "Shree Ram Mandir Mayur Vihar", "Trilokpuri-Sanjay Lake",
         "East Vinod Nagar-Mayur Vihar II", "Mandawali-West Vinod Nagar", "I.P. Extension", "Anand Vihar ISBT",
         "Karkarduma", "Karkarduma Court", "Krishna Nagar", "East Azad Nagar", "Welcome", "Jafrabad",
-        "Maujpur-Babarpur", "Gokulpuri", "Johri Enclave", "Shiv Vihar"
+        "Maujpur-Babarpur", "Yamuna Vihar", "Bhajanpura", "Khajuri Khas", "Nanaksar-Sonia Vihar",
+        { "name": "Soorghat", "open": false }, "Jagatpur-Wazirabad", "Jharoda Majra", "Burari", "Majlis Park"
       ]
     },
     {
-      "id": "delhi:pink-north", "name": "Pink Line (Majlis Park–Maujpur)", "ref": "Line 7", "color": "pink", "operator": "DMRC",
+      "id": "delhi:pink-shiv-vihar", "name": "Pink Line (Shiv Vihar branch)", "ref": "Line 7", "color": "pink", "operator": "DMRC",
       "official": null,
       "stations": [
-        "Majlis Park", "Burari", "Jharoda Majra", "Jagatpur-Wazirabad", { "name": "Soorghat", "open": false },
-        "Nanaksar-Sonia Vihar", "Khajuri Khas", "Bhajanpura", "Yamuna Vihar", "Maujpur-Babarpur"
+        "Maujpur-Babarpur", "Gokulpuri", "Johri Enclave", "Shiv Vihar"
       ]
     },
     {

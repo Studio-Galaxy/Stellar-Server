@@ -273,26 +273,8 @@
   "cityId": "delhi",
   "station": "delhi:majlis-park",
   "toStation": "delhi:majlis-park",
-  "fromLine": "delhi:pink",
-  "toLine": "delhi:pink-north",
-  "walkMin": 4,
-  "kind": "same-station"
- },
- {
-  "cityId": "delhi",
-  "station": "delhi:majlis-park",
-  "toStation": "delhi:majlis-park",
   "fromLine": "delhi:magenta-north",
   "toLine": "delhi:pink",
-  "walkMin": 4,
-  "kind": "same-station"
- },
- {
-  "cityId": "delhi",
-  "station": "delhi:majlis-park",
-  "toStation": "delhi:majlis-park",
-  "fromLine": "delhi:magenta-north",
-  "toLine": "delhi:pink-north",
   "walkMin": 4,
   "kind": "same-station"
  },
@@ -301,7 +283,7 @@
   "station": "delhi:maujpur-babarpur",
   "toStation": "delhi:maujpur-babarpur",
   "fromLine": "delhi:pink",
-  "toLine": "delhi:pink-north",
+  "toLine": "delhi:pink-shiv-vihar",
   "walkMin": 4,
   "kind": "same-station"
  },

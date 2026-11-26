@@ -17,7 +17,7 @@ Source: Metro Network in Delhi-NCR (DMRC, NMRC, NCRTC), as on 2026-08 — transc
 | Blue Line (Vaishali branch) | 8 | 8 | ✅ |
 | Green Line (all sections) | 24 | 24 | ✅ Both branches: 22 on the main line + Satguru Ram Singh Marg and Kirti Nagar. Punjabi Bagh West (interchange circle on the map, and a Green Line stop in OpenStreetMap) is on this line. |
 | Violet Line | 34 | 34 | ✅ |
-| Pink Line (all sections) | 45 | 45 | ✅ Majlis Park–Shiv Vihar & Majlis Park–Maujpur-Babarpur. Soorghat is built but not open (official 'under construction: 1 station'). |
+| Pink Line (all sections) | 45 | 45 | ✅ Ring (Majlis Park–Maujpur-Babarpur both ways round) & the Maujpur-Babarpur–Shiv Vihar branch. Soorghat is built but not open (official 'under construction: 1 station'). |
 | Magenta Line (all sections) | 33 | 33 | ✅ Official count covers both sections (26 + 7). |
 | Grey Line | 4 | 4 | ✅ |
 | Airport Express Line | 7 | 7 | ✅ |

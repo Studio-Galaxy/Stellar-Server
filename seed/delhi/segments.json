@@ -1893,6 +1893,78 @@
   "cityId": "delhi",
   "line": "delhi:pink",
   "from": "delhi:maujpur-babarpur",
+  "to": "delhi:yamuna-vihar",
+  "km": 1.3,
+  "minutes": 2.4,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:yamuna-vihar",
+  "to": "delhi:bhajanpura",
+  "km": 1.606,
+  "minutes": 2.9,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:bhajanpura",
+  "to": "delhi:khajuri-khas",
+  "km": 0.913,
+  "minutes": 1.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:khajuri-khas",
+  "to": "delhi:nanaksar-sonia-vihar",
+  "km": 1.376,
+  "minutes": 2.5,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:nanaksar-sonia-vihar",
+  "to": "delhi:jagatpur-wazirabad",
+  "km": 3.061,
+  "minutes": 5.6,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:jagatpur-wazirabad",
+  "to": "delhi:jharoda-majra",
+  "km": 1.214,
+  "minutes": 2.2,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:jharoda-majra",
+  "to": "delhi:burari",
+  "km": 1.656,
+  "minutes": 3,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "from": "delhi:burari",
+  "to": "delhi:majlis-park",
+  "km": 2.053,
+  "minutes": 3.7,
+  "kmSource": "coords-scaled-to-official-length"
+ },
+ {
+  "cityId": "delhi",
+  "line": "delhi:pink-shiv-vihar",
+  "from": "delhi:maujpur-babarpur",
   "to": "delhi:gokulpuri",
   "km": 1.467,
   "minutes": 2.7,
@@ -1900,7 +1972,7 @@
  },
  {
   "cityId": "delhi",
-  "line": "delhi:pink",
+  "line": "delhi:pink-shiv-vihar",
   "from": "delhi:gokulpuri",
   "to": "delhi:johri-enclave",
   "km": 1.369,
@@ -1909,83 +1981,11 @@
  },
  {
   "cityId": "delhi",
-  "line": "delhi:pink",
+  "line": "delhi:pink-shiv-vihar",
   "from": "delhi:johri-enclave",
   "to": "delhi:shiv-vihar",
   "km": 1.063,
   "minutes": 1.9,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:majlis-park",
-  "to": "delhi:burari",
-  "km": 2.053,
-  "minutes": 3.7,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:burari",
-  "to": "delhi:jharoda-majra",
-  "km": 1.656,
-  "minutes": 3,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:jharoda-majra",
-  "to": "delhi:jagatpur-wazirabad",
-  "km": 1.214,
-  "minutes": 2.2,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:jagatpur-wazirabad",
-  "to": "delhi:nanaksar-sonia-vihar",
-  "km": 3.061,
-  "minutes": 5.6,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:nanaksar-sonia-vihar",
-  "to": "delhi:khajuri-khas",
-  "km": 1.376,
-  "minutes": 2.5,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:khajuri-khas",
-  "to": "delhi:bhajanpura",
-  "km": 0.913,
-  "minutes": 1.7,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:bhajanpura",
-  "to": "delhi:yamuna-vihar",
-  "km": 1.606,
-  "minutes": 2.9,
-  "kmSource": "coords-scaled-to-official-length"
- },
- {
-  "cityId": "delhi",
-  "line": "delhi:pink-north",
-  "from": "delhi:yamuna-vihar",
-  "to": "delhi:maujpur-babarpur",
-  "km": 1.3,
-  "minutes": 2.4,
   "kmSource": "coords-scaled-to-official-length"
  },
  {
