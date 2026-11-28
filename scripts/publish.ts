@@ -28,8 +28,8 @@ try {
     console.log(`${cityId}: live version is now v${version}`);
   } else {
     const load = (name: string) => db.collection<Doc>(name).find({ cityId }).toArray();
-    const [lines, stations, segments, interchanges, fares] = await Promise.all(
-      ['lines', 'stations', 'segments', 'interchanges', 'fares'].map(load));
+    const [lines, stations, segments, interchanges, fares, platforms] = await Promise.all(
+      ['lines', 'stations', 'segments', 'interchanges', 'fares', 'platforms'].map(load));
     if (!lines.length || !stations.length || !segments.length) throw new Error(`${cityId} has no network data — run the import first`);
 
     // Shape for the app: no database internals, positions as plain lat/lon.
@@ -43,6 +43,7 @@ try {
       segments: segments.map((s) => { const { kmSource: _k, ...rest } = strip(s); return rest; }),
       interchanges: interchanges.map(strip),
       fares: fares.map(strip),
+      platforms: platforms.map(strip), // { line, station, directions: [{ towards, next, platforms }] }
     };
     const checksum = createHash('sha256').update(JSON.stringify(data)).digest('hex');
     const latest = await snapshots.find({ cityId }).sort({ version: -1 }).limit(1).next();

@@ -19,6 +19,7 @@ npm test                            # API tests (no database needed)
 npm run typecheck                   # TypeScript check (Vercel compiles with the same tsconfig)
 npm run coords:delhi                # match stations to positions (Server/data/osm-metro-*.json)
 npm run build:delhi                 # build seed/delhi/*.json + REPORT.md from network.source.json
+npm run platforms:delhi             # build seed/delhi/platforms.json from ../Docs/platforms/DMRC.csv
 npm run import:delhi                # load into MongoDB, create indexes, validate
 npm run publish -- delhi            # freeze a new snapshot version; the app picks it up
 npm run publish -- delhi --rollback 1

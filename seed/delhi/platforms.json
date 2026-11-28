@@ -1,0 +1,8076 @@
+[
+ {
+  "_id": "delhi:red@delhi:rithala",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:rithala",
+  "directions": [
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:dr-baba-saheb-ambedkar-hospital"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:dr-baba-saheb-ambedkar-hospital",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:dr-baba-saheb-ambedkar-hospital",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:rithala"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:rohini"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:rohini",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:rohini",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:dr-baba-saheb-ambedkar-hospital"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:madhuban-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:madhuban-chowk",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:madhuban-chowk",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:rohini"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:kohat-enclave"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:kohat-enclave",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:kohat-enclave",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:madhuban-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:netaji-subhash-place"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:netaji-subhash-place",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:netaji-subhash-place",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:kohat-enclave"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:keshav-puram"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:keshav-puram",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:keshav-puram",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:netaji-subhash-place"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:kanhaiya-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:kanhaiya-nagar",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:kanhaiya-nagar",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:keshav-puram"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:inderlok"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:inderlok",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:inderlok",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:kanhaiya-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:shastri-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:shastri-nagar",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:shastri-nagar",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:inderlok"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:pratap-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:pratap-nagar",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:pratap-nagar",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:shastri-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:pulbangash"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:pulbangash",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:pulbangash",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:pratap-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:tis-hazari"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:tis-hazari",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:tis-hazari",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:pulbangash"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:kashmere-gate"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:kashmere-gate",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:kashmere-gate",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:tis-hazari"
+    ],
+    "platforms": [
+     3
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:shastri-park"
+    ],
+    "platforms": [
+     4
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:shastri-park",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:shastri-park",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:kashmere-gate"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:seelampur"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:seelampur",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:seelampur",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:shastri-park"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:welcome"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:welcome",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:welcome",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:seelampur"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:shahdara"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:shahdara",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:shahdara",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:welcome"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:mansarovar-park"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:mansarovar-park",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:mansarovar-park",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:shahdara"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:jhilmil"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:jhilmil",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:jhilmil",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:mansarovar-park"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:dilshad-garden"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:dilshad-garden",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:dilshad-garden",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:jhilmil"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:shaheed-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:shaheed-nagar",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:shaheed-nagar",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:dilshad-garden"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:raj-bagh"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:raj-bagh",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:raj-bagh",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:shaheed-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:major-mohit-sharma-rajendra-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:major-mohit-sharma-rajendra-nagar",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:major-mohit-sharma-rajendra-nagar",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:raj-bagh"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:shyam-park"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:shyam-park",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:shyam-park",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:major-mohit-sharma-rajendra-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:mohan-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:mohan-nagar",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:mohan-nagar",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:shyam-park"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:arthala"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:arthala",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:arthala",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:mohan-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:hindon-river"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:hindon-river",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:hindon-river",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:arthala"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Shaheed Sthal (New Bus Adda)",
+    "next": [
+     "delhi:shaheed-sthal-new-bus-adda"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:red@delhi:shaheed-sthal-new-bus-adda",
+  "cityId": "delhi",
+  "line": "delhi:red",
+  "station": "delhi:shaheed-sthal-new-bus-adda",
+  "directions": [
+   {
+    "towards": "Rithala",
+    "next": [
+     "delhi:hindon-river"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:samaypur-badli",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:samaypur-badli",
+  "directions": [
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:rohini-sector-18-19"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:rohini-sector-18-19",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:rohini-sector-18-19",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:samaypur-badli"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:haiderpur-badli-mor"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:haiderpur-badli-mor",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:haiderpur-badli-mor",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:rohini-sector-18-19"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:jahangirpuri"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:jahangirpuri",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:jahangirpuri",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:haiderpur-badli-mor"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:adarsh-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:adarsh-nagar",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:adarsh-nagar",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:jahangirpuri"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:azadpur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:azadpur",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:azadpur",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:adarsh-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:model-town"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:model-town",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:model-town",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:azadpur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:guru-teg-bahadur-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:guru-teg-bahadur-nagar",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:guru-teg-bahadur-nagar",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:model-town"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:vishwavidyalaya"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:vishwavidyalaya",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:vishwavidyalaya",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:guru-teg-bahadur-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:vidhan-sabha"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:vidhan-sabha",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:vidhan-sabha",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:vishwavidyalaya"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:civil-lines"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:civil-lines",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:civil-lines",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:vidhan-sabha"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:kashmere-gate"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:kashmere-gate",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:kashmere-gate",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:civil-lines"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:chandni-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:chandni-chowk",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:chandni-chowk",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:kashmere-gate"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:chawri-bazar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:chawri-bazar",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:chawri-bazar",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:chandni-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:new-delhi"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:new-delhi",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:new-delhi",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:chawri-bazar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:rajiv-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:rajiv-chowk",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:rajiv-chowk",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:new-delhi"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:patel-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:patel-chowk",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:patel-chowk",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:rajiv-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:central-secretariat"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:central-secretariat",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:central-secretariat",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:patel-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:seva-teerth"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:seva-teerth",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:seva-teerth",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:central-secretariat"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:lok-kalyan-marg"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:lok-kalyan-marg",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:lok-kalyan-marg",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:seva-teerth"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:jor-bagh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:jor-bagh",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:jor-bagh",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:lok-kalyan-marg"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:dilli-haat-ina"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:dilli-haat-ina",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:dilli-haat-ina",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:jor-bagh"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:aiims"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:aiims",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:aiims",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:dilli-haat-ina"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:green-park"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:green-park",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:green-park",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:aiims"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:hauz-khas"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:hauz-khas",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:hauz-khas",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:green-park"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:malviya-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:malviya-nagar",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:malviya-nagar",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:hauz-khas"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:saket"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:saket",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:saket",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:malviya-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:qutab-minar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:qutab-minar",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:qutab-minar",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:saket"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:chhatarpur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:chhatarpur",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:chhatarpur",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:qutab-minar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:sultanpur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:sultanpur",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:sultanpur",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:chhatarpur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:ghitorni"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:ghitorni",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:ghitorni",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:sultanpur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:arjan-garh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:arjan-garh",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:arjan-garh",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:ghitorni"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:guru-dronacharya"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:guru-dronacharya",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:guru-dronacharya",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:arjan-garh"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:sikanderpur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:sikanderpur",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:sikanderpur",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:guru-dronacharya"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:m-g-road"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:m-g-road",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:m-g-road",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:sikanderpur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:iffco-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:iffco-chowk",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:iffco-chowk",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:m-g-road"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Millennium City Centre Gurugram",
+    "next": [
+     "delhi:millennium-city-centre-gurugram"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:yellow@delhi:millennium-city-centre-gurugram",
+  "cityId": "delhi",
+  "line": "delhi:yellow",
+  "station": "delhi:millennium-city-centre-gurugram",
+  "directions": [
+   {
+    "towards": "Samaypur Badli",
+    "next": [
+     "delhi:iffco-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-21",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-21",
+  "directions": [
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-8"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "planner"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-8",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-8",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-21"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-9"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-9",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-9",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-8"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-10"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-10",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-10",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-9"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-11"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-11",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-11",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-10"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-12"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-12",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-12",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-11"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-13"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-13",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-13",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-12"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-sector-14"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-sector-14",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-sector-14",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-13"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-kakrola"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-kakrola",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-kakrola",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-sector-14"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:dwarka-mor"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:dwarka-mor",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:dwarka-mor",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-kakrola"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:nawada"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:nawada",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:nawada",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:dwarka-mor"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:uttam-nagar-west"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:uttam-nagar-west",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:uttam-nagar-west",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:nawada"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:uttam-nagar-east"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:uttam-nagar-east",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:uttam-nagar-east",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:uttam-nagar-west"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:janakpuri-west"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:janakpuri-west",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:janakpuri-west",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:uttam-nagar-east"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:janakpuri-east"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:janakpuri-east",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:janakpuri-east",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:janakpuri-west"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:tilak-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:tilak-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:tilak-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:janakpuri-east"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:subhash-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:subhash-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:subhash-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:tilak-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:tagore-garden"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:tagore-garden",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:tagore-garden",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:subhash-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:rajouri-garden"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:rajouri-garden",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:rajouri-garden",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:tagore-garden"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:ramesh-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:ramesh-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:ramesh-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:rajouri-garden"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:moti-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:moti-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:moti-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:ramesh-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:kirti-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:kirti-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:kirti-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:moti-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:shadipur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:shadipur",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:shadipur",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:kirti-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:patel-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:patel-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:patel-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:shadipur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:rajendra-place"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:rajendra-place",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:rajendra-place",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:patel-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:karol-bagh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:karol-bagh",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:karol-bagh",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:rajendra-place"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:jhandewalan"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:jhandewalan",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:jhandewalan",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:karol-bagh"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:ramakrishna-ashram-marg"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:ramakrishna-ashram-marg",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:ramakrishna-ashram-marg",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:jhandewalan"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:rajiv-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:rajiv-chowk",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:rajiv-chowk",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:ramakrishna-ashram-marg"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:barakhamba-road"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "planner",
+  "checkedOn": "2026-11-28"
+ },
+ {
+  "_id": "delhi:blue@delhi:barakhamba-road",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:barakhamba-road",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:rajiv-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:mandi-house"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:mandi-house",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:mandi-house",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:barakhamba-road"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:supreme-court"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:supreme-court",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:supreme-court",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:mandi-house"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:indraprastha"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:indraprastha",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:indraprastha",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:supreme-court"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:yamuna-bank"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:yamuna-bank",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:yamuna-bank",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:indraprastha"
+    ],
+    "platforms": [
+     2,
+     4
+    ]
+   },
+   {
+    "towards": "Noida Electronic City / Vaishali",
+    "next": [
+     "delhi:akshardham"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:akshardham",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:akshardham",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:yamuna-bank"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:mayur-vihar-i"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:mayur-vihar-i",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:mayur-vihar-i",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:akshardham"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:mayur-vihar-extension"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:mayur-vihar-extension",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:mayur-vihar-extension",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:mayur-vihar-i"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:new-ashok-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:new-ashok-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:new-ashok-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:mayur-vihar-extension"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:noida-sector-15"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:noida-sector-15",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:noida-sector-15",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:new-ashok-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:noida-sector-16"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:noida-sector-16",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:noida-sector-16",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:noida-sector-15"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:noida-sector-18"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:noida-sector-18",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:noida-sector-18",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:noida-sector-16"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:botanical-garden"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:botanical-garden",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:botanical-garden",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:noida-sector-18"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:golf-course"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:golf-course",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:golf-course",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:botanical-garden"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:noida-city-centre"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:noida-city-centre",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:noida-city-centre",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:golf-course"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:sector-34-noida"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:sector-34-noida",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:sector-34-noida",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:noida-city-centre"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:sector-52-noida"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:sector-52-noida",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:sector-52-noida",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:sector-34-noida"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:sector-61-noida"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:sector-61-noida",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:sector-61-noida",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:sector-52-noida"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:sector-59-noida"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:sector-59-noida",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:sector-59-noida",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:sector-61-noida"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:sector-62-noida"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:sector-62-noida",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:sector-62-noida",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:sector-59-noida"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Noida Electronic City",
+    "next": [
+     "delhi:noida-electronic-city"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue@delhi:noida-electronic-city",
+  "cityId": "delhi",
+  "line": "delhi:blue",
+  "station": "delhi:noida-electronic-city",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:sector-62-noida"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:yamuna-bank",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:yamuna-bank",
+  "directions": [
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:laxmi-nagar"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:laxmi-nagar",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:laxmi-nagar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:yamuna-bank"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:nirman-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:nirman-vihar",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:nirman-vihar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:laxmi-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:preet-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:preet-vihar",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:preet-vihar",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:nirman-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:karkarduma"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:karkarduma",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:karkarduma",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:preet-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:anand-vihar-isbt"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:anand-vihar-isbt",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:anand-vihar-isbt",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:karkarduma"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:kaushambi"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:kaushambi",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:kaushambi",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:anand-vihar-isbt"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Vaishali",
+    "next": [
+     "delhi:vaishali"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:blue-vaishali@delhi:vaishali",
+  "cityId": "delhi",
+  "line": "delhi:blue-vaishali",
+  "station": "delhi:vaishali",
+  "directions": [
+   {
+    "towards": "Dwarka Sector-21",
+    "next": [
+     "delhi:kaushambi"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:inderlok",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:inderlok",
+  "directions": [
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:ashok-park-main"
+    ],
+    "platforms": [
+     4
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:ashok-park-main",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:ashok-park-main",
+  "directions": [
+   {
+    "towards": "Inderlok",
+    "next": [
+     "delhi:inderlok"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:punjabi-bagh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:punjabi-bagh",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:punjabi-bagh",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:ashok-park-main"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:punjabi-bagh-west"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:punjabi-bagh-west",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:punjabi-bagh-west",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:punjabi-bagh"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:shivaji-park"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:shivaji-park",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:shivaji-park",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:punjabi-bagh-west"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:madipur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:madipur",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:madipur",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:shivaji-park"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:paschim-vihar-east"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:paschim-vihar-east",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:paschim-vihar-east",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:madipur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:paschim-vihar-west"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:paschim-vihar-west",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:paschim-vihar-west",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:paschim-vihar-east"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:peeragarhi"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:peeragarhi",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:peeragarhi",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:paschim-vihar-west"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:udyog-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:udyog-nagar",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:udyog-nagar",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:peeragarhi"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:maharaja-surajmal-stadium"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:maharaja-surajmal-stadium",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:maharaja-surajmal-stadium",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:udyog-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:nangloi"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:nangloi",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:nangloi",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:maharaja-surajmal-stadium"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:nangloi-railway-station"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:nangloi-railway-station",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:nangloi-railway-station",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:nangloi"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:rajdhani-park"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:rajdhani-park",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:rajdhani-park",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:nangloi-railway-station"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:mundka"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:mundka",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:mundka",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:rajdhani-park"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:mundka-industrial-area-mia"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:mundka-industrial-area-mia",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:mundka-industrial-area-mia",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:mundka"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:ghevra-metro-station"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:ghevra-metro-station",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:ghevra-metro-station",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:mundka-industrial-area-mia"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:tikri-kalan"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:tikri-kalan",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:tikri-kalan",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:ghevra-metro-station"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:tikri-border"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:tikri-border",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:tikri-border",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:tikri-kalan"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:pandit-shree-ram-sharma"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:pandit-shree-ram-sharma",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:pandit-shree-ram-sharma",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:tikri-border"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:bahadurgarh-city"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:bahadurgarh-city",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:bahadurgarh-city",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:pandit-shree-ram-sharma"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:brig-hoshiar-singh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green@delhi:brig-hoshiar-singh",
+  "cityId": "delhi",
+  "line": "delhi:green",
+  "station": "delhi:brig-hoshiar-singh",
+  "directions": [
+   {
+    "towards": "Inderlok / Kirti Nagar",
+    "next": [
+     "delhi:bahadurgarh-city"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green-kirti@delhi:kirti-nagar",
+  "cityId": "delhi",
+  "line": "delhi:green-kirti",
+  "station": "delhi:kirti-nagar",
+  "directions": [
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:satguru-ram-singh-marg"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green-kirti@delhi:satguru-ram-singh-marg",
+  "cityId": "delhi",
+  "line": "delhi:green-kirti",
+  "station": "delhi:satguru-ram-singh-marg",
+  "directions": [
+   {
+    "towards": "Kirti Nagar",
+    "next": [
+     "delhi:kirti-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Brig. Hoshiar Singh",
+    "next": [
+     "delhi:ashok-park-main"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:green-kirti@delhi:ashok-park-main",
+  "cityId": "delhi",
+  "line": "delhi:green-kirti",
+  "station": "delhi:ashok-park-main",
+  "directions": [
+   {
+    "towards": "Kirti Nagar",
+    "next": [
+     "delhi:satguru-ram-singh-marg"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:kashmere-gate",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:kashmere-gate",
+  "directions": [
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:lal-quila"
+    ],
+    "platforms": [
+     5
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:lal-quila",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:lal-quila",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:kashmere-gate"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:jama-masjid"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:jama-masjid",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:jama-masjid",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:lal-quila"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:delhi-gate"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:violet@delhi:delhi-gate",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:delhi-gate",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:jama-masjid"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:ito"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:ito",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:ito",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:delhi-gate"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:mandi-house"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:mandi-house",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:mandi-house",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:ito"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:janpath"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:janpath",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:janpath",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:mandi-house"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:central-secretariat"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:central-secretariat",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:central-secretariat",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:janpath"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:khan-market"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:khan-market",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:khan-market",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:central-secretariat"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:jln-stadium"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:jln-stadium",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:jln-stadium",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:khan-market"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:jangpura"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:violet@delhi:jangpura",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:jangpura",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:jln-stadium"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:lajpat-nagar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:lajpat-nagar",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:lajpat-nagar",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:jangpura"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:moolchand"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:moolchand",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:moolchand",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:lajpat-nagar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:kailash-colony"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:kailash-colony",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:kailash-colony",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:moolchand"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:nehru-place"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:nehru-place",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:nehru-place",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:kailash-colony"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:kalkaji-mandir"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:kalkaji-mandir",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:kalkaji-mandir",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:nehru-place"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:govind-puri"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:govind-puri",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:govind-puri",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:kalkaji-mandir"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:harkesh-nagar-okhla"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:harkesh-nagar-okhla",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:harkesh-nagar-okhla",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:govind-puri"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:jasola-apollo"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:jasola-apollo",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:jasola-apollo",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:harkesh-nagar-okhla"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:sarita-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:sarita-vihar",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:sarita-vihar",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:jasola-apollo"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:mohan-estate"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:mohan-estate",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:mohan-estate",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:sarita-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:tughlakabad-rly-colony"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:tughlakabad-rly-colony",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:tughlakabad-rly-colony",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:mohan-estate"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:badarpur-border"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:violet@delhi:badarpur-border",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:badarpur-border",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:tughlakabad-rly-colony"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:sarai"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:sarai",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:sarai",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:badarpur-border"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:nhpc-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:nhpc-chowk",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:nhpc-chowk",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:sarai"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:mewala-maharajpur"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:mewala-maharajpur",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:mewala-maharajpur",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:nhpc-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:sector-28"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:sector-28",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:sector-28",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:mewala-maharajpur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:badkal-mor"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:badkal-mor",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:badkal-mor",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:sector-28"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:old-faridabad"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:old-faridabad",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:old-faridabad",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:badkal-mor"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:neelam-chowk-ajronda"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:neelam-chowk-ajronda",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:neelam-chowk-ajronda",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:old-faridabad"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:bata-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:bata-chowk",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:bata-chowk",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:neelam-chowk-ajronda"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:escorts-mujesar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:escorts-mujesar",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:escorts-mujesar",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:bata-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:sant-surdas-sihi"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:sant-surdas-sihi",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:sant-surdas-sihi",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:escorts-mujesar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Raja Nahar Singh (Ballabhgarh)",
+    "next": [
+     "delhi:raja-nahar-singh-ballabhgarh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:violet@delhi:raja-nahar-singh-ballabhgarh",
+  "cityId": "delhi",
+  "line": "delhi:violet",
+  "station": "delhi:raja-nahar-singh-ballabhgarh",
+  "directions": [
+   {
+    "towards": "Kashmere Gate",
+    "next": [
+     "delhi:sant-surdas-sihi"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:majlis-park",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:majlis-park",
+  "directions": [
+   {
+    "towards": "Burari",
+    "next": [
+     "delhi:burari"
+    ],
+    "platforms": [
+     2,
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Azadpur",
+    "next": [
+     "delhi:azadpur"
+    ],
+    "platforms": [
+     1,
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:azadpur",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:azadpur",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:majlis-park"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Shalimar Bagh",
+    "next": [
+     "delhi:shalimar-bagh"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:shalimar-bagh",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:shalimar-bagh",
+  "directions": [
+   {
+    "towards": "Azadpur",
+    "next": [
+     "delhi:azadpur"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Netaji Subhash Place",
+    "next": [
+     "delhi:netaji-subhash-place"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:netaji-subhash-place",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:netaji-subhash-place",
+  "directions": [
+   {
+    "towards": "Shalimar Bagh",
+    "next": [
+     "delhi:shalimar-bagh"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Shakurpur",
+    "next": [
+     "delhi:shakurpur"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:shakurpur",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:shakurpur",
+  "directions": [
+   {
+    "towards": "Netaji Subhash Place",
+    "next": [
+     "delhi:netaji-subhash-place"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Punjabi Bagh West",
+    "next": [
+     "delhi:punjabi-bagh-west"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:punjabi-bagh-west",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:punjabi-bagh-west",
+  "directions": [
+   {
+    "towards": "Shakurpur",
+    "next": [
+     "delhi:shakurpur"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "ESI-Basaidarapur",
+    "next": [
+     "delhi:esi-basaidarapur"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:esi-basaidarapur",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:esi-basaidarapur",
+  "directions": [
+   {
+    "towards": "Punjabi Bagh West",
+    "next": [
+     "delhi:punjabi-bagh-west"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Rajouri Garden",
+    "next": [
+     "delhi:rajouri-garden"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:rajouri-garden",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:rajouri-garden",
+  "directions": [
+   {
+    "towards": "ESI-Basaidarapur",
+    "next": [
+     "delhi:esi-basaidarapur"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Mayapuri",
+    "next": [
+     "delhi:mayapuri"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:mayapuri",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:mayapuri",
+  "directions": [
+   {
+    "towards": "Rajouri Garden",
+    "next": [
+     "delhi:rajouri-garden"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Naraina Vihar",
+    "next": [
+     "delhi:naraina-vihar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:naraina-vihar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:naraina-vihar",
+  "directions": [
+   {
+    "towards": "Mayapuri",
+    "next": [
+     "delhi:mayapuri"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Delhi Cantt.",
+    "next": [
+     "delhi:delhi-cantt"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:delhi-cantt",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:delhi-cantt",
+  "directions": [
+   {
+    "towards": "Naraina Vihar",
+    "next": [
+     "delhi:naraina-vihar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Durgabai Deshmukh South Campus",
+    "next": [
+     "delhi:durgabai-deshmukh-south-campus"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:durgabai-deshmukh-south-campus",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:durgabai-deshmukh-south-campus",
+  "directions": [
+   {
+    "towards": "Delhi Cantt.",
+    "next": [
+     "delhi:delhi-cantt"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Sir M. Vishweshwaraiah Moti Bagh",
+    "next": [
+     "delhi:sir-m-vishweshwaraiah-moti-bagh"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:sir-m-vishweshwaraiah-moti-bagh",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:sir-m-vishweshwaraiah-moti-bagh",
+  "directions": [
+   {
+    "towards": "Durgabai Deshmukh South Campus",
+    "next": [
+     "delhi:durgabai-deshmukh-south-campus"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Bhikaji Cama Place",
+    "next": [
+     "delhi:bhikaji-cama-place"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:bhikaji-cama-place",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:bhikaji-cama-place",
+  "directions": [
+   {
+    "towards": "Sir M. Vishweshwaraiah Moti Bagh",
+    "next": [
+     "delhi:sir-m-vishweshwaraiah-moti-bagh"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Sarojini Nagar",
+    "next": [
+     "delhi:sarojini-nagar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:sarojini-nagar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:sarojini-nagar",
+  "directions": [
+   {
+    "towards": "Bhikaji Cama Place",
+    "next": [
+     "delhi:bhikaji-cama-place"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Dilli Haat-INA",
+    "next": [
+     "delhi:dilli-haat-ina"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:dilli-haat-ina",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:dilli-haat-ina",
+  "directions": [
+   {
+    "towards": "Sarojini Nagar",
+    "next": [
+     "delhi:sarojini-nagar"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "South Extension",
+    "next": [
+     "delhi:south-extension"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:south-extension",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:south-extension",
+  "directions": [
+   {
+    "towards": "Dilli Haat-INA",
+    "next": [
+     "delhi:dilli-haat-ina"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Lajpat Nagar",
+    "next": [
+     "delhi:lajpat-nagar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:lajpat-nagar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:lajpat-nagar",
+  "directions": [
+   {
+    "towards": "South Extension",
+    "next": [
+     "delhi:south-extension"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Vinobapuri",
+    "next": [
+     "delhi:vinobapuri"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:vinobapuri",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:vinobapuri",
+  "directions": [
+   {
+    "towards": "Lajpat Nagar",
+    "next": [
+     "delhi:lajpat-nagar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Ashram",
+    "next": [
+     "delhi:ashram"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:ashram",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:ashram",
+  "directions": [
+   {
+    "towards": "Vinobapuri",
+    "next": [
+     "delhi:vinobapuri"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Sarai Kale Khan-Nizamuddin",
+    "next": [
+     "delhi:sarai-kale-khan-nizamuddin"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:sarai-kale-khan-nizamuddin",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:sarai-kale-khan-nizamuddin",
+  "directions": [
+   {
+    "towards": "Ashram",
+    "next": [
+     "delhi:ashram"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Mayur Vihar-I",
+    "next": [
+     "delhi:mayur-vihar-i"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:mayur-vihar-i",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:mayur-vihar-i",
+  "directions": [
+   {
+    "towards": "Sarai Kale Khan-Nizamuddin",
+    "next": [
+     "delhi:sarai-kale-khan-nizamuddin"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Shree Ram Mandir Mayur Vihar",
+    "next": [
+     "delhi:shree-ram-mandir-mayur-vihar"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:shree-ram-mandir-mayur-vihar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:shree-ram-mandir-mayur-vihar",
+  "directions": [
+   {
+    "towards": "Mayur Vihar-I",
+    "next": [
+     "delhi:mayur-vihar-i"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Trilokpuri-Sanjay Lake",
+    "next": [
+     "delhi:trilokpuri-sanjay-lake"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:pink@delhi:trilokpuri-sanjay-lake",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:trilokpuri-sanjay-lake",
+  "directions": [
+   {
+    "towards": "Shree Ram Mandir Mayur Vihar",
+    "next": [
+     "delhi:shree-ram-mandir-mayur-vihar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "East Vinod Nagar-Mayur Vihar II",
+    "next": [
+     "delhi:east-vinod-nagar-mayur-vihar-ii"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:east-vinod-nagar-mayur-vihar-ii",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:east-vinod-nagar-mayur-vihar-ii",
+  "directions": [
+   {
+    "towards": "Trilokpuri-Sanjay Lake",
+    "next": [
+     "delhi:trilokpuri-sanjay-lake"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Mandawali-West Vinod Nagar",
+    "next": [
+     "delhi:mandawali-west-vinod-nagar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:mandawali-west-vinod-nagar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:mandawali-west-vinod-nagar",
+  "directions": [
+   {
+    "towards": "East Vinod Nagar-Mayur Vihar II",
+    "next": [
+     "delhi:east-vinod-nagar-mayur-vihar-ii"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "I.P. Extension",
+    "next": [
+     "delhi:i-p-extension"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:i-p-extension",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:i-p-extension",
+  "directions": [
+   {
+    "towards": "Mandawali-West Vinod Nagar",
+    "next": [
+     "delhi:mandawali-west-vinod-nagar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Anand Vihar ISBT",
+    "next": [
+     "delhi:anand-vihar-isbt"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:anand-vihar-isbt",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:anand-vihar-isbt",
+  "directions": [
+   {
+    "towards": "I.P. Extension",
+    "next": [
+     "delhi:i-p-extension"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Karkarduma",
+    "next": [
+     "delhi:karkarduma"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:karkarduma",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:karkarduma",
+  "directions": [
+   {
+    "towards": "Anand Vihar ISBT",
+    "next": [
+     "delhi:anand-vihar-isbt"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Karkarduma Court",
+    "next": [
+     "delhi:karkarduma-court"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:karkarduma-court",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:karkarduma-court",
+  "directions": [
+   {
+    "towards": "Karkarduma",
+    "next": [
+     "delhi:karkarduma"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Krishna Nagar",
+    "next": [
+     "delhi:krishna-nagar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:krishna-nagar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:krishna-nagar",
+  "directions": [
+   {
+    "towards": "Karkarduma Court",
+    "next": [
+     "delhi:karkarduma-court"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "East Azad Nagar",
+    "next": [
+     "delhi:east-azad-nagar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:east-azad-nagar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:east-azad-nagar",
+  "directions": [
+   {
+    "towards": "Krishna Nagar",
+    "next": [
+     "delhi:krishna-nagar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Welcome",
+    "next": [
+     "delhi:welcome"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:welcome",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:welcome",
+  "directions": [
+   {
+    "towards": "East Azad Nagar",
+    "next": [
+     "delhi:east-azad-nagar"
+    ],
+    "platforms": [
+     4
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Jafrabad",
+    "next": [
+     "delhi:jafrabad"
+    ],
+    "platforms": [
+     3
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:jafrabad",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:jafrabad",
+  "directions": [
+   {
+    "towards": "Welcome",
+    "next": [
+     "delhi:welcome"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Maujpur-Babarpur",
+    "next": [
+     "delhi:maujpur-babarpur"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:maujpur-babarpur",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:maujpur-babarpur",
+  "directions": [
+   {
+    "towards": "Jafrabad",
+    "next": [
+     "delhi:jafrabad"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Yamuna Vihar",
+    "next": [
+     "delhi:yamuna-vihar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:yamuna-vihar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:yamuna-vihar",
+  "directions": [
+   {
+    "towards": "Maujpur-Babarpur",
+    "next": [
+     "delhi:maujpur-babarpur"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Bhajanpura",
+    "next": [
+     "delhi:bhajanpura"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:pink@delhi:bhajanpura",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:bhajanpura",
+  "directions": [
+   {
+    "towards": "Yamuna Vihar",
+    "next": [
+     "delhi:yamuna-vihar"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Khajuri Khas",
+    "next": [
+     "delhi:khajuri-khas"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:khajuri-khas",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:khajuri-khas",
+  "directions": [
+   {
+    "towards": "Bhajanpura",
+    "next": [
+     "delhi:bhajanpura"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Nanaksar-Sonia Vihar",
+    "next": [
+     "delhi:nanaksar-sonia-vihar"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:nanaksar-sonia-vihar",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:nanaksar-sonia-vihar",
+  "directions": [
+   {
+    "towards": "Khajuri Khas",
+    "next": [
+     "delhi:khajuri-khas"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Soorghat",
+    "next": [
+     "delhi:soorghat"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:jagatpur-wazirabad",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:jagatpur-wazirabad",
+  "directions": [
+   {
+    "towards": "Soorghat",
+    "next": [
+     "delhi:soorghat"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Jharoda Majra",
+    "next": [
+     "delhi:jharoda-majra"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:jharoda-majra",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:jharoda-majra",
+  "directions": [
+   {
+    "towards": "Jagatpur-Wazirabad",
+    "next": [
+     "delhi:jagatpur-wazirabad"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Burari",
+    "next": [
+     "delhi:burari"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink@delhi:burari",
+  "cityId": "delhi",
+  "line": "delhi:pink",
+  "station": "delhi:burari",
+  "directions": [
+   {
+    "towards": "Jharoda Majra",
+    "next": [
+     "delhi:jharoda-majra"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:majlis-park"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink-shiv-vihar@delhi:maujpur-babarpur",
+  "cityId": "delhi",
+  "line": "delhi:pink-shiv-vihar",
+  "station": "delhi:maujpur-babarpur",
+  "directions": [
+   {
+    "towards": "Shiv Vihar",
+    "next": [
+     "delhi:gokulpuri"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink-shiv-vihar@delhi:gokulpuri",
+  "cityId": "delhi",
+  "line": "delhi:pink-shiv-vihar",
+  "station": "delhi:gokulpuri",
+  "directions": [
+   {
+    "towards": "Maujpur-Babarpur",
+    "next": [
+     "delhi:maujpur-babarpur"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Shiv Vihar",
+    "next": [
+     "delhi:johri-enclave"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink-shiv-vihar@delhi:johri-enclave",
+  "cityId": "delhi",
+  "line": "delhi:pink-shiv-vihar",
+  "station": "delhi:johri-enclave",
+  "directions": [
+   {
+    "towards": "Maujpur-Babarpur",
+    "next": [
+     "delhi:gokulpuri"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Shiv Vihar",
+    "next": [
+     "delhi:shiv-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:pink-shiv-vihar@delhi:shiv-vihar",
+  "cityId": "delhi",
+  "line": "delhi:pink-shiv-vihar",
+  "station": "delhi:shiv-vihar",
+  "directions": [
+   {
+    "towards": "Maujpur-Babarpur",
+    "next": [
+     "delhi:johri-enclave"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:krishna-park-extn",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:krishna-park-extn",
+  "directions": [
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:janakpuri-west"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:janakpuri-west",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:janakpuri-west",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:krishna-park-extn"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:dabri-mor-janakpuri-south"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:dabri-mor-janakpuri-south",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:dabri-mor-janakpuri-south",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:janakpuri-west"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:dashrathpuri"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:dashrathpuri",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:dashrathpuri",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:dabri-mor-janakpuri-south"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:palam"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:palam",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:palam",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:dashrathpuri"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:sadar-bazar-cantonment"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:sadar-bazar-cantonment",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:sadar-bazar-cantonment",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:palam"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:terminal-1-igi-airport"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:terminal-1-igi-airport",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:terminal-1-igi-airport",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:sadar-bazar-cantonment"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:shankar-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:shankar-vihar",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:shankar-vihar",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:terminal-1-igi-airport"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:vasant-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:vasant-vihar",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:vasant-vihar",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:shankar-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:munirka"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:munirka",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:munirka",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:vasant-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:r-k-puram"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:r-k-puram",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:r-k-puram",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:munirka"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:iit"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:iit",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:iit",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:r-k-puram"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:hauz-khas"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:hauz-khas",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:hauz-khas",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:iit"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:panchsheel-park"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:panchsheel-park",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:panchsheel-park",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:hauz-khas"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:chirag-delhi"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:chirag-delhi",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:chirag-delhi",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:panchsheel-park"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:greater-kailash"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:greater-kailash",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:greater-kailash",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:chirag-delhi"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:nehru-enclave"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:nehru-enclave",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:nehru-enclave",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:greater-kailash"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:kalkaji-mandir"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:kalkaji-mandir",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:kalkaji-mandir",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:nehru-enclave"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:okhla-nsic"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:okhla-nsic",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:okhla-nsic",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:kalkaji-mandir"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:sukhdev-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:sukhdev-vihar",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:sukhdev-vihar",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:okhla-nsic"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:jamia-millia-islamia"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:jamia-millia-islamia",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:jamia-millia-islamia",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:sukhdev-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:okhla-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:okhla-vihar",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:okhla-vihar",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:jamia-millia-islamia"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:jasola-vihar-shaheen-bagh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:jasola-vihar-shaheen-bagh",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:jasola-vihar-shaheen-bagh",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:okhla-vihar"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:kalindi-kunj"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:kalindi-kunj",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:kalindi-kunj",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:jasola-vihar-shaheen-bagh"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:okhla-bird-sanctuary"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:okhla-bird-sanctuary",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:okhla-bird-sanctuary",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:kalindi-kunj"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Botanical Garden",
+    "next": [
+     "delhi:botanical-garden"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta@delhi:botanical-garden",
+  "cityId": "delhi",
+  "line": "delhi:magenta",
+  "station": "delhi:botanical-garden",
+  "directions": [
+   {
+    "towards": "Krishna Park Extn.",
+    "next": [
+     "delhi:okhla-bird-sanctuary"
+    ],
+    "platforms": [
+     4
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:majlis-park",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:majlis-park",
+  "directions": [
+   {
+    "towards": "Deepali Chowk",
+    "next": [
+     "delhi:bhalaswa"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:bhalaswa",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:bhalaswa",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:majlis-park"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Deepali Chowk",
+    "next": [
+     "delhi:haiderpur-badli-mor"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:haiderpur-badli-mor",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:haiderpur-badli-mor",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:bhalaswa"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Deepali Chowk",
+    "next": [
+     "delhi:haiderpur-village"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:haiderpur-village",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:haiderpur-village",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:haiderpur-badli-mor"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Deepali Chowk",
+    "next": [
+     "delhi:uttari-pitampura-prashant-vihar"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:uttari-pitampura-prashant-vihar",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:uttari-pitampura-prashant-vihar",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:haiderpur-village"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Deepali Chowk",
+    "next": [
+     "delhi:madhuban-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:madhuban-chowk",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:madhuban-chowk",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:uttari-pitampura-prashant-vihar"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Deepali Chowk",
+    "next": [
+     "delhi:deepali-chowk"
+    ],
+    "platforms": [
+     3
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:magenta-north@delhi:deepali-chowk",
+  "cityId": "delhi",
+  "line": "delhi:magenta-north",
+  "station": "delhi:deepali-chowk",
+  "directions": [
+   {
+    "towards": "Majlis Park",
+    "next": [
+     "delhi:madhuban-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:grey@delhi:dwarka-kakrola",
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "station": "delhi:dwarka-kakrola",
+  "directions": [
+   {
+    "towards": "Dhansa Bus Stand",
+    "next": [
+     "delhi:nangli"
+    ],
+    "platforms": [
+     4
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:grey@delhi:nangli",
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "station": "delhi:nangli",
+  "directions": [
+   {
+    "towards": "Dwarka-Kakrola",
+    "next": [
+     "delhi:dwarka-kakrola"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Dhansa Bus Stand",
+    "next": [
+     "delhi:najafgarh"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:grey@delhi:najafgarh",
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "station": "delhi:najafgarh",
+  "directions": [
+   {
+    "towards": "Dwarka-Kakrola",
+    "next": [
+     "delhi:nangli"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Dhansa Bus Stand",
+    "next": [
+     "delhi:dhansa-bus-stand"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:grey@delhi:dhansa-bus-stand",
+  "cityId": "delhi",
+  "line": "delhi:grey",
+  "station": "delhi:dhansa-bus-stand",
+  "directions": [
+   {
+    "towards": "Dwarka-Kakrola",
+    "next": [
+     "delhi:najafgarh"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:new-delhi",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:new-delhi",
+  "directions": [
+   {
+    "towards": "Yashobhoomi Dwarka Sector-25",
+    "next": [
+     "delhi:shivaji-stadium"
+    ],
+    "platforms": [
+     4
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:shivaji-stadium",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:shivaji-stadium",
+  "directions": [
+   {
+    "towards": "New Delhi",
+    "next": [
+     "delhi:new-delhi"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Yashobhoomi Dwarka Sector-25",
+    "next": [
+     "delhi:dhaula-kuan"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:dhaula-kuan",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:dhaula-kuan",
+  "directions": [
+   {
+    "towards": "New Delhi",
+    "next": [
+     "delhi:shivaji-stadium"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Yashobhoomi Dwarka Sector-25",
+    "next": [
+     "delhi:delhi-aerocity"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:delhi-aerocity",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:delhi-aerocity",
+  "directions": [
+   {
+    "towards": "New Delhi",
+    "next": [
+     "delhi:dhaula-kuan"
+    ],
+    "platforms": [
+     2
+    ]
+   },
+   {
+    "towards": "Yashobhoomi Dwarka Sector-25",
+    "next": [
+     "delhi:airport-t-3"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:airport-t-3",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:airport-t-3",
+  "directions": [
+   {
+    "towards": "New Delhi",
+    "next": [
+     "delhi:delhi-aerocity"
+    ],
+    "platforms": [
+     3
+    ]
+   },
+   {
+    "towards": "Yashobhoomi Dwarka Sector-25",
+    "next": [
+     "delhi:dwarka-sector-21"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:dwarka-sector-21",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:dwarka-sector-21",
+  "directions": [
+   {
+    "towards": "New Delhi",
+    "next": [
+     "delhi:airport-t-3"
+    ],
+    "platforms": [
+     4
+    ]
+   },
+   {
+    "towards": "Yashobhoomi Dwarka Sector-25",
+    "next": [
+     "delhi:yashobhoomi-dwarka-sector-25"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:airport@delhi:yashobhoomi-dwarka-sector-25",
+  "cityId": "delhi",
+  "line": "delhi:airport",
+  "station": "delhi:yashobhoomi-dwarka-sector-25",
+  "directions": [
+   {
+    "towards": "New Delhi",
+    "next": [
+     "delhi:dwarka-sector-21"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-51",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-51",
+  "directions": [
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-50"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-50",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-50",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-51"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-76"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-76",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-76",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-50"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-101"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-101",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-101",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-76"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-81"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-81",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-81",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-101"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:n-s-e-z"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:n-s-e-z",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:n-s-e-z",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-81"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-83"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-83",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-83",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:n-s-e-z"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-137"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-137",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-137",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-83"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-142"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-142",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-142",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-137"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-143"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-143",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-143",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-142"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-144"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-144",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-144",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-143"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-145"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-145",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-145",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-144"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-146"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-146",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-146",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-145"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-147"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-147",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-147",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-146"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:sector-148"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:sector-148",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:sector-148",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-147"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:knowledge-park-ii"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:knowledge-park-ii",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:knowledge-park-ii",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:sector-148"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:pari-chowk"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:pari-chowk",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:pari-chowk",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:knowledge-park-ii"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:alpha-1"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:alpha-1",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:alpha-1",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:pari-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:delta-1"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:delta-1",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:delta-1",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:alpha-1"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:gnida-office"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:aqua@delhi:gnida-office",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:gnida-office",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:delta-1"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Depot Station",
+    "next": [
+     "delhi:depot-station"
+    ],
+    "platforms": [
+     2
+    ]
+   }
+  ],
+  "source": "wikipedia"
+ },
+ {
+  "_id": "delhi:aqua@delhi:depot-station",
+  "cityId": "delhi",
+  "line": "delhi:aqua",
+  "station": "delhi:depot-station",
+  "directions": [
+   {
+    "towards": "Sector-51",
+    "next": [
+     "delhi:gnida-office"
+    ],
+    "platforms": [
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:sector-55-56",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:sector-55-56",
+  "directions": [
+   {
+    "towards": "Sector-54 Chowk",
+    "next": [
+     "delhi:sector-54-chowk"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:sector-54-chowk",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:sector-54-chowk",
+  "directions": [
+   {
+    "towards": "Sector-55-56",
+    "next": [
+     "delhi:sector-55-56"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Sector-53-54",
+    "next": [
+     "delhi:sector-53-54"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:sector-53-54",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:sector-53-54",
+  "directions": [
+   {
+    "towards": "Sector-55-56",
+    "next": [
+     "delhi:sector-54-chowk"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Sector-42-43",
+    "next": [
+     "delhi:sector-42-43"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:sector-42-43",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:sector-42-43",
+  "directions": [
+   {
+    "towards": "Sector-55-56",
+    "next": [
+     "delhi:sector-53-54"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Phase-1",
+    "next": [
+     "delhi:phase-1"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:phase-1",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:phase-1",
+  "directions": [
+   {
+    "towards": "Sector-55-56",
+    "next": [
+     "delhi:sector-42-43"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Sikanderpur",
+    "next": [
+     "delhi:sikanderpur"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:sikanderpur",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:sikanderpur",
+  "directions": [
+   {
+    "towards": "Sector-55-56",
+    "next": [
+     "delhi:phase-1"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Phase-2",
+    "next": [
+     "delhi:phase-2"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:phase-2",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:phase-2",
+  "directions": [
+   {
+    "towards": "Sector-55-56",
+    "next": [
+     "delhi:sikanderpur"
+    ],
+    "platforms": [
+     1
+    ]
+   },
+   {
+    "towards": "Phase-3 or Belvedere Towers",
+    "next": [
+     "delhi:phase-3",
+     "delhi:belvedere-towers"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:phase-3",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:phase-3",
+  "directions": [
+   {
+    "towards": "Phase-2",
+    "next": [
+     "delhi:phase-2"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Moulsari Avenue",
+    "next": [
+     "delhi:moulsari-avenue"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:moulsari-avenue",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:moulsari-avenue",
+  "directions": [
+   {
+    "towards": "Phase-3",
+    "next": [
+     "delhi:phase-3"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Cyber City",
+    "next": [
+     "delhi:cyber-city"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:cyber-city",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:cyber-city",
+  "directions": [
+   {
+    "towards": "Moulsari Avenue",
+    "next": [
+     "delhi:moulsari-avenue"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Belvedere Towers",
+    "next": [
+     "delhi:belvedere-towers"
+    ],
+    "platforms": [
+     2
+    ],
+    "nextStop": true
+   }
+  ]
+ },
+ {
+  "_id": "delhi:rapid@delhi:belvedere-towers",
+  "cityId": "delhi",
+  "line": "delhi:rapid",
+  "station": "delhi:belvedere-towers",
+  "directions": [
+   {
+    "towards": "Cyber City",
+    "next": [
+     "delhi:cyber-city"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   },
+   {
+    "towards": "Phase-2",
+    "next": [
+     "delhi:phase-2"
+    ],
+    "platforms": [
+     1
+    ],
+    "nextStop": true
+   }
+  ]
+ }
+]

@@ -5,6 +5,7 @@
     "dev": "node --env-file=.env --watch src/index.ts",
     "start": "node --env-file-if-exists=.env src/index.ts",
     "build:delhi": "node scripts/build-delhi.ts",
+    "platforms:delhi": "node scripts/build-platforms.ts",
     "import:delhi": "node --env-file=.env scripts/import-delhi.ts",
     "coords:delhi": "node scripts/match-coords.ts",
     "test": "node --test \"test/**/*.test.ts\"",

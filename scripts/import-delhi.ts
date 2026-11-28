@@ -16,6 +16,7 @@ const seed = {
   segments: read('delhi/segments.json'),
   interchanges: read('delhi/interchanges.json'),
   fares: read('delhi/fares.json'),
+  platforms: read('delhi/platforms.json'), // scripts/build-platforms.ts
 };
 
 const client = new MongoClient(MONGODB_URI);
@@ -23,9 +24,11 @@ await client.connect();
 const db = client.db(MONGODB_DB);
 try {
   // ---------- load ----------
-  for (const c of seed.cities) await db.collection('cities').replaceOne({ _id: c._id }, c, { upsert: true });
+  // The live version belongs to publish: re-importing must never take a city offline (seed has null).
+  for (const { liveVersion, ...c } of seed.cities)
+    await db.collection('cities').updateOne({ _id: c._id }, { $set: c, $setOnInsert: { liveVersion: liveVersion ?? null } }, { upsert: true });
   await db.collection('settings').replaceOne({ _id: seed.settings._id }, seed.settings, { upsert: true });
-  for (const name of ['lines', 'stations', 'segments', 'interchanges', 'fares'] as const) {
+  for (const name of ['lines', 'stations', 'segments', 'interchanges', 'fares', 'platforms'] as const) {
     const col = db.collection(name);
     await col.deleteMany({ cityId: 'delhi' });
     await col.insertMany(seed[name]);
@@ -38,13 +41,14 @@ try {
   await db.collection('stations').createIndex({ geo: '2dsphere' }); // "nearest station" queries
   await db.collection('segments').createIndex({ cityId: 1, line: 1 });
   await db.collection('interchanges').createIndex({ cityId: 1, station: 1 });
+  await db.collection('platforms').createIndex({ cityId: 1, station: 1 });
   await db.collection('fares').createIndex({ cityId: 1, operator: 1, effectiveFrom: -1 });
   await db.collection('networkSnapshots').createIndex({ cityId: 1, version: 1 }, { unique: true });
 
   // ---------- validate what the database now holds ----------
   const q = { cityId: 'delhi' };
-  const [lines, stations, segments, interchanges] = await Promise.all(
-    ['lines', 'stations', 'segments', 'interchanges'].map((c) => db.collection<{ _id: string } & Record<string, any>>(c).find(q).toArray()));
+  const [lines, stations, segments, interchanges, platforms] = await Promise.all(
+    ['lines', 'stations', 'segments', 'interchanges', 'platforms'].map((c) => db.collection<{ _id: string } & Record<string, any>>(c).find(q).toArray()));
   const stationIds = new Set(stations.map((s) => s._id));
   const lineIds = new Set(lines.map((l) => l._id));
   const errors: string[] = [];
@@ -53,12 +57,17 @@ try {
   expect('stations', stations.length, seed.stations.length);
   expect('segments', segments.length, seed.segments.length);
   expect('interchanges', interchanges.length, seed.interchanges.length);
+  expect('platforms', platforms.length, seed.platforms.length);
   for (const l of lines) for (const s of l.stations) if (!stationIds.has(s)) errors.push(`line ${l._id}: unknown station ${s}`);
   for (const s of segments) for (const id of [s.from, s.to]) if (!stationIds.has(id)) errors.push(`segment ${s.line}: unknown station ${id}`);
   for (const s of segments) if (!lineIds.has(s.line)) errors.push(`segment: unknown line ${s.line}`);
   for (const i of interchanges) {
     for (const id of [i.station, i.toStation]) if (!stationIds.has(id)) errors.push(`interchange: unknown station ${id}`);
     for (const id of [i.fromLine, i.toLine]) if (!lineIds.has(id)) errors.push(`interchange: unknown line ${id}`);
+  }
+  for (const p of platforms) {
+    if (!lineIds.has(p.line)) errors.push(`platforms: unknown line ${p.line}`);
+    for (const id of [p.station, ...p.directions.flatMap((d: { next: string[] }) => d.next)]) if (!stationIds.has(id)) errors.push(`platforms ${p._id}: unknown station ${id}`);
   }
   for (const s of stations) if (!s.geo) errors.push(`station without position: ${s._id}`);
   // the geo index really answers: nearest station to Rajiv Chowk's own position must be Rajiv Chowk
@@ -77,7 +86,7 @@ try {
   while (stack.length) for (const n of adj.get(stack.pop()!) ?? []) if (!seen.has(n)) { seen.add(n); stack.push(n); }
   for (const id of open) if (!seen.has(id)) errors.push(`not connected to the network: ${id}`);
 
-  console.log(`imported: ${lines.length} lines · ${stations.length} stations · ${segments.length} segments · ${interchanges.length} interchanges · ${seed.fares.length} fare tables`);
+  console.log(`imported: ${lines.length} lines · ${stations.length} stations · ${segments.length} segments · ${interchanges.length} interchanges · ${platforms.length} platform entries · ${seed.fares.length} fare tables`);
   if (errors.length) { console.error('VALIDATION FAILED\n' + errors.join('\n')); process.exitCode = 1; }
   else console.log('validation passed: references intact, no orphans, network fully connected');
 } finally {
